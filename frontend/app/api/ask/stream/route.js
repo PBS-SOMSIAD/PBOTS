@@ -2,28 +2,13 @@ import { NextResponse } from 'next/server';
 
 export async function POST(request) {
   try {
-    const { question, session_id } = await request.json();
+    const { question } = await request.json();
     const backendUrl = `${process.env.NEXT_PUBLIC_BACKEND_URL}/ask/stream`;
-    
-    // Forward the Authorization header from the frontend request
-    const authHeader = request.headers.get('authorization');
-    const headers = {
-      'Content-Type': 'application/json',
-    };
-    
-    if (authHeader) {
-      headers['Authorization'] = authHeader;
-    }
-    
-    const requestBody = { question };
-    if (session_id) {
-      requestBody.session_id = session_id;
-    }
     
     const backendResponse = await fetch(backendUrl, {
       method: 'POST',
-      headers,
-      body: JSON.stringify(requestBody),
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question }),
     });
     
     if (!backendResponse.ok) {

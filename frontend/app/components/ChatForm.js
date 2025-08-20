@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const ChatForm = ({ onSubmit, isLoading, onCancel }) => {
+const ChatForm = ({ onSubmit, isLoading }) => {
   const [question, setQuestion] = useState('');
 
   const handleSubmit = (e) => {
@@ -25,11 +25,6 @@ const ChatForm = ({ onSubmit, isLoading, onCancel }) => {
       <button type="submit" disabled={isLoading || !question.trim()}>
         {isLoading ? 'Thinking...' : 'Ask'}
       </button>
-      {isLoading && onCancel && (
-        <button type="button" onClick={onCancel} className="cancel-btn">
-          Cancel
-        </button>
-      )}
     </form>
   );
 };

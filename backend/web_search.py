@@ -1,91 +1,77 @@
 from typing import List, Optional
 from pydantic import BaseModel, Field
-from ddgs import DDGS
-from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
-from urllib.parse import urlparse
+from googlesearch import search
+from httpx import Client
+from bs4 import BeautifulSoup
 
 
 class SearchResult(BaseModel):
     url: str = Field(..., description="URL of the search result")
-    title: Optional[str] = Field(None, description="Title of the search result")
-    snippet: Optional[str] = Field(None, description="Snippet of the search result")
-    scraped_content: Optional[str] = Field(
-        None, description="Scraped content in markdown"
-    )
-
 
 class SearchList(BaseModel):
-    results: List[SearchResult] = Field(
-        ..., description="Search results with scraped content"
-    )
-
+    results: List[SearchResult] = Field(..., description="Search results")
 
 class WebSearchTool:
-    def _validate_url(self, url: str) -> Optional[str]:
-        parsed = urlparse(url)
-        if parsed.scheme not in ("http", "https"):
-            return None
-        return url
+    def __init__(
+        self,
+        language: Optional[str] = "en",
+        timeout: Optional[int] = 1,
+        sleep_interval: Optional[int] = 1,
+    ):
+        self.language = language
+        self.timeout = timeout
+        self.sleep_interval = sleep_interval
 
-    async def search_and_scrape(self, query: str, max_results: int = 1) -> SearchList:
-        ddgs = DDGS()
-        results = []
+    def web_search(
+        self,
+        query: str,
+        max_results: int = 1,
+        unique: bool = False,
+    ) -> SearchList:
+        result_list = []
+        results = search(
+            term=query,
+            num_results=max_results,
+            lang=self.language,
+            start_num=0,
+            unique=unique,
+            sleep_interval=self.sleep_interval,
+        )
+        for _, result in enumerate(results):
+            result_list.append(SearchResult(url=result))
 
-        # Get search results
-        try:
-            search_items = list(ddgs.text(query, max_results=max_results))
-        except Exception as e:
-            print(f"Search failed: {e}")
-            return SearchList(results=[])
+        return SearchList(results=result_list)
 
-        # Setup crawler configs
-        browser_conf = BrowserConfig(headless=True)
-        run_conf = CrawlerRunConfig(cache_mode=CacheMode.BYPASS)
+    def web_scrap(self, url: str) -> str:
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/114.0.0.0 Safari/537.36"
+            ),
+            "Accept-Language": "en-US,en;q=0.9",
+         }
+        with Client(headers=headers) as client:
+            response = client.get(url, timeout=10)
+            if response.status_code != 200:
+                return f'Failed to fetch {url}. Code: {response.status_code}'
 
-        async with AsyncWebCrawler(config=browser_conf) as crawler:
-            for item in search_items:
-                url = item.get("href")
-                title = item.get("title")
-                snippet = item.get("body")
+            soup = BeautifulSoup(response.text, 'html.parser')
+            return soup.get_text().replace('\n', '').replace('\r', '')
 
-                validated_url = self._validate_url(url)
-                if not validated_url:
-                    results.append(
-                        SearchResult(
-                            url=url or "",
-                            title=title,
-                            snippet=snippet,
-                            scraped_content="Invalid URL",
-                        )
-                    )
-                    continue
+def test_web_search():
+    tool = WebSearchTool()
+    results = tool.web_search("wikipedia", max_results=1)
+    print(results.results[0].url)
+    assert isinstance(results, SearchList)
+    assert len(results.results) == 1
+    assert isinstance(results.results[0], SearchResult)
+    assert results.results[0].url.startswith("https://")
 
-                try:
-                    crawl_result = await crawler.arun(
-                        url=validated_url,
-                        config=run_conf,
-                        check_robots_txt=False,
-                        only_text=True,
-                        remove_forms=True,
-                        remove_overlay_elements=True,
-                        exclude_external_links=True,
-                        magic=True,
-                        simulate_user=True,
-                    )
-                    if crawl_result.success:
-                        scraped_md = crawl_result.markdown.fit_markdown
-                    else:
-                        scraped_md = f"Crawl failed: {crawl_result.error_message or 'unknown error'}"
-                except Exception as e:
-                    scraped_md = f"Crawl exception: {e}"
+def test_web_scrap():
+    tool = WebSearchTool()
+    url = "https://www.wikipedia.org/"
+    content = tool.web_scrap(url)
 
-                results.append(
-                    SearchResult(
-                        url=validated_url,
-                        title=title,
-                        snippet=snippet,
-                        scraped_content=scraped_md,
-                    )
-                )
-
-        return SearchList(results=results)
+    assert isinstance(content, str)
+    assert "Wikipedia" in content 

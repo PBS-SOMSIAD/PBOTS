@@ -1,6 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { KeycloakProvider } from "./contexts/KeycloakContext";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -21,9 +20,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        <KeycloakProvider>
-          {children}
-        </KeycloakProvider>
+        {children}
       </body>
     </html>
   );

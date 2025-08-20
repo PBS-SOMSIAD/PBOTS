@@ -12,23 +12,6 @@ services:
     environment:
       - QDRANT_URL=http://localhost:6333
       - OLLAMA_URL=http://localhost:11434/v1
-      - MODEL_NAME=qwen3:1.7b
-      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
-      - COLLECTION_NAME=handbook
-      - SPARSE_MODEL=Qdrant/bm25
-      - QUERY_LIMIT=10
-      - DND_HANDBOOK_URL=https://media.wizards.com/2014/downloads/dnd/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf
-      - BATCH_SIZE=64
-      - WEB_SEARCH_LANGUAGE=en
-      - WEB_SEARCH_TIMEOUT=1
-      - WEB_SEARCH_SLEEP_INTERVAL=1
-      - WEB_SEARCH_HTTP_TIMEOUT=10
-      - MONGODB_URL=mongodb://admin:password@localhost:27017
-      - MONGODB_DATABASE=dnd_rag
-      - KEYCLOAK_URL=http://localhost:8080
-      - KEYCLOAK_REALM=dnd-rag
-      - KEYCLOAK_CLIENT_ID=dnd-rag-backend
-      - KEYCLOAK_CLIENT_SECRET=${KEYCLOAK_CLIENT_SECRET:-your-client-secret}
       - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
       - http_proxy=${http_proxy}
       - https_proxy=${https_proxy}
@@ -38,10 +21,8 @@ services:
       - NO_PROXY=${NO_PROXY}
     depends_on:
       - qdrant
-      - mongodb
     volumes:
       - ./backend:/app
-    command: bash -c "crawl4ai-setup && uvicorn api:app --host 0.0.0.0 --port 8000"
     restart: unless-stopped
 
   frontend:
@@ -55,9 +36,6 @@ services:
     network_mode: "host"
     environment:
       - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
-      - NEXT_PUBLIC_KEYCLOAK_URL=http://localhost:8080
-      - NEXT_PUBLIC_KEYCLOAK_REALM=dnd-rag
-      - NEXT_PUBLIC_KEYCLOAK_CLIENT_ID=dnd-rag-frontend
       - http_proxy=${http_proxy}
       - https_proxy=${https_proxy}
       - HTTP_PROXY=${HTTP_PROXY}
@@ -79,37 +57,5 @@ services:
       - qdrant_data:/qdrant/storage
     restart: unless-stopped
 
-  keycloak:
-    image: quay.io/keycloak/keycloak:latest
-    command: start-dev
-    environment:
-      - KEYCLOAK_ADMIN=admin
-      - KEYCLOAK_ADMIN_PASSWORD=admin
-      - KC_HTTP_PORT=8080
-      - KC_HOSTNAME_STRICT=false
-      - KC_HOSTNAME_STRICT_HTTPS=false
-      - KC_HTTP_ENABLED=true
-      - KC_HEALTH_ENABLED=true
-      - KC_METRICS_ENABLED=true
-    ports:
-      - "8080:8080"
-    volumes:
-      - keycloak_data:/opt/keycloak/data
-    restart: unless-stopped
-
-  mongodb:
-    image: mongo:7.0
-    environment:
-      - MONGO_INITDB_ROOT_USERNAME=admin
-      - MONGO_INITDB_ROOT_PASSWORD=password
-      - MONGO_INITDB_DATABASE=dnd_rag
-    ports:
-      - "27017:27017"
-    volumes:
-      - mongodb_data:/data/db
-    restart: unless-stopped
-
 volumes:
   qdrant_data:
-  keycloak_data:
-  mongodb_data:
