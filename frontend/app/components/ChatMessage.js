@@ -1,15 +1,17 @@
 import React from 'react';
 import { marked } from 'marked';
 import Image from 'next/image';
+import DOMPurify from 'dompurify';
 
 const ChatMessage = ({ message, isUser }) => {
   const renderMarkdown = (content) => {
     if (!content) return '';
     try {
-      return marked.parse(content); 
+      const html = marked.parse(content); 
+      return DOMPurify.sanitize(html, { USE_PROFILES: { html: true } });
     } catch (error) {
       console.error('Error parsing markdown:', error);
-      return content;
+      return DOMPurify.sanitize(content, { USE_PROFILES: { html: true } });
     }
   };
 
