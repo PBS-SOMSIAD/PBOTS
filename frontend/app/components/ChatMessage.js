@@ -1,5 +1,6 @@
 import React from 'react';
 import { marked } from 'marked';
+import Image from 'next/image';
 
 const ChatMessage = ({ message, isUser }) => {
   const renderMarkdown = (content) => {
@@ -14,7 +15,14 @@ const ChatMessage = ({ message, isUser }) => {
 
   return (
     <div className={`message ${isUser ? 'user' : 'api'}`}>
-      <span className="tag">{isUser ? 'User' : 'D&D Agent'}</span>
+      <span className="tag">{isUser ? 'Użytkownik' : (
+        <Image
+          src="/assets/pbots_logo.png"
+          alt="logo"
+          width={30}
+          height={30}
+        />
+        )}</span>
       {isUser ? (
         <div className="message-content">
           {message}
