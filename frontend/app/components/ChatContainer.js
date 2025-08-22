@@ -24,7 +24,7 @@ const ChatContainer = () => {
     const responseId = Date.now().toString();
     setMessages(prev => [...prev, { 
       id: responseId, 
-      content: '⏳ Checking if message is appropriate...', 
+      content: '⏳ Sprawdzanie czy wiadomość jest odpowiednia...', 
       isUser: false 
     }]);
     
@@ -60,7 +60,7 @@ const ChatContainer = () => {
       setMessages(prev => prev.map(msg => 
         msg.id === responseId ? { 
           ...msg, 
-          content: `⚠️ Error: ${error.message}` 
+          content: `⚠️ Błąd: ${error.message}` 
         } : msg
       ));
     } finally {
