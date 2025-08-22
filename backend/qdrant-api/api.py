@@ -9,10 +9,10 @@ from docling.datamodel.base_models import InputFormat
 from docling.document_converter import DocumentConverter
 import os
 
+
 class DatabaseGenerationResponse(BaseModel):
     status: str
     document_count: int
-
 
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
@@ -23,9 +23,8 @@ COLLECTION_NAME = "handbook"
 app = FastAPI(
     title="D&D Knowledge Base API",
     description="API for answering Dungeons & Dragons 5th Edition questions",
-    version="1.0.0"
+    version="1.0.0",
 )
-
 
 
 @app.post("/generate_database")
@@ -53,20 +52,19 @@ async def generate_database() -> DatabaseGenerationResponse:
         )
 
         return DatabaseGenerationResponse(
-            status="success",
-            document_count=len(documents)
+            status="success", document_count=len(documents)
         )
 
     except Exception as e:
         raise HTTPException(
-            status_code=500,
-            detail=f"Failed to generate database: {str(e)}"
+            status_code=500, detail=f"Failed to generate database: {str(e)}"
         )
 
 
 @app.get("/health")
 async def health_check() -> dict:
     return {"status": "healthy"}
+
 
 if __name__ == "__main__":
     uvicorn.run("api:app", host="0.0.0.0", port=8001, reload=True)

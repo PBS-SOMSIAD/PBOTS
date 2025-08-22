@@ -8,8 +8,10 @@ from bs4 import BeautifulSoup
 class SearchResult(BaseModel):
     url: str = Field(..., description="URL of the search result")
 
+
 class SearchList(BaseModel):
     results: List[SearchResult] = Field(..., description="Search results")
+
 
 class WebSearchTool:
     def __init__(
@@ -50,14 +52,15 @@ class WebSearchTool:
                 "Chrome/114.0.0.0 Safari/537.36"
             ),
             "Accept-Language": "en-US,en;q=0.9",
-         }
+        }
         with Client(headers=headers) as client:
             response = client.get(url, timeout=10)
             if response.status_code != 200:
-                return f'Failed to fetch {url}. Code: {response.status_code}'
+                return f"Failed to fetch {url}. Code: {response.status_code}"
 
-            soup = BeautifulSoup(response.text, 'html.parser')
-            return soup.get_text().replace('\n', '').replace('\r', '')
+            soup = BeautifulSoup(response.text, "html.parser")
+            return soup.get_text().replace("\n", "").replace("\r", "")
+
 
 def test_web_search():
     tool = WebSearchTool()
@@ -68,10 +71,11 @@ def test_web_search():
     assert isinstance(results.results[0], SearchResult)
     assert results.results[0].url.startswith("https://")
 
+
 def test_web_scrap():
     tool = WebSearchTool()
     url = "https://www.wikipedia.org/"
     content = tool.web_scrap(url)
 
     assert isinstance(content, str)
-    assert "Wikipedia" in content 
+    assert "Wikipedia" in content
