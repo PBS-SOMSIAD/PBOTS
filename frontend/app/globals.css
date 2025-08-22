@@ -1,11 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@400;700&display=swap');
+
 * {
   box-sizing: border-box;
 }
 
 body {
   background-color: #f0f0f2;
-  color: black;
-  font-family: Arial, sans-serif;
+  color: #1d1d1d;
+  font-family: 'Saira', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
@@ -44,9 +46,8 @@ header p {
   display: flex;
   flex-direction: column;
   width: 80%;
-  max-width: 800px;
+  max-width: 1000px; 
   height: 80%;
-  background-color: #d9d9d9;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -69,31 +70,62 @@ header p {
 .message {
   margin-bottom: 10px;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 25px; 
 }
 
 .message .tag {
   font-weight: bold;
   margin-bottom: 5px;
   display: block;
+  text-align: left;    
+  padding-left: 10px;   
 }
 
 .message.user .tag {
-  color: #a0a0a0;
+  color: #fff;
 }
 
 .message.api .tag {
-  color: #7d1818;
+  color: #fff;
 }
 
 .message.user {
-  background-color: #4a4a4a;
-  align-self: flex-end;
+  background-color: #830e21;
+  align-self: flex-end; 
+  margin-left: 120px; 
 }
 
 .message.api {
-  background-color: #3a3a3a;
+  background-color: #1d1d1d;
   align-self: flex-start;
+  margin-right: 120px;  
+}
+
+.message-row {
+  display: flex;
+  align-items: flex-end; 
+  margin-bottom: 10px;
+}
+
+.message-row.user {
+  flex-direction: row-reverse;
+}
+
+.message-avatar {
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px; 
+}
+
+.message-avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 #chat-form {
@@ -106,13 +138,16 @@ header p {
 #question {
   flex: 1;
   padding: 20px;
-  border: none;
-  border-radius: 5px;
+  border: 7px solid #830e21;   
+  border-radius: 20px;          
   margin-right: 10px;
   background-color: white;
   color: black;
   font-size: 18px;
+  outline: none;               
+  transition: border-color 0.2s;
 }
+
 
 
 #question::placeholder {
@@ -141,8 +176,8 @@ button:disabled {
 
 .red-bar {
   width: 100%;
-  height: 10%;        
-  background-color: #7d1818;
+  height: 20%;        
+  background-color: #830e21;
   display: flex;
   justify-content: flex-end; 
   align-items: center;       

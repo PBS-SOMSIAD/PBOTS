@@ -20,7 +20,7 @@ export default function Home() {
         width={80}
         height={80}
         />
-        <h1>PBOTS</h1>
+        <h1>PBotS</h1>
         <p>Zadaj pytanie!</p>
       </header>
       <ChatContainer />

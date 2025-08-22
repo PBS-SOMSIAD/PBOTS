@@ -14,25 +14,32 @@ const ChatMessage = ({ message, isUser }) => {
   };
 
   return (
-    <div className={`message ${isUser ? 'user' : 'api'}`}>
-      <span className="tag">{isUser ? 'Użytkownik' : (
-        <Image
-          src="/assets/pbots_logo.png"
-          alt="logo"
-          width={30}
-          height={30}
-        />
-        )}</span>
-      {isUser ? (
-        <div className="message-content">
-          {message}
+    <div className={`message-row ${isUser ? 'user' : 'api'}`}>
+      {/* Avatar tylko dla API */}
+      {!isUser && (
+        <div className="message-avatar">
+          <Image
+            src="/assets/pbots_logo.png"
+            alt="logo"
+            width={30}
+            height={30}
+          />
         </div>
-      ) : (
-        <div 
-          className="message-content"
-          dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
-        />
       )}
+      {/* Dymek */}
+      <div className={`message ${isUser ? 'user' : 'api'}`}>
+        <span className="tag">{isUser ? 'Użytkownik' : 'PBotS'}</span>
+        {isUser ? (
+          <div className="message-content">
+            {message}
+          </div>
+        ) : (
+          <div 
+            className="message-content"
+            dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
+          />
+        )}
+      </div>
     </div>
   );
 };
