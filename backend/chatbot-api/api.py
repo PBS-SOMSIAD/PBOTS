@@ -16,24 +16,24 @@ curl -X POST http://localhost:8000/generate_database
 import os
 import logfire
 import uvicorn
-from pydantic import BaseModel
-from fastapi import FastAPI, HTTPException
+
+from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 
-from qdrant_client import QdrantClient
-from docling.chunking import HybridChunker
-from docling.datamodel.base_models import InputFormat
-from docling.document_converter import DocumentConverter
 
 from main import (
-    DndKnowledgeBase,
-    QDRANT_URL,
-    COLLECTION_NAME,
-    EMBEDDING_MODEL
+    DndKnowledgeBase
 )
 
-logfire.configure(token=os.environ['LOGFIRE_TOKEN'],)
-logfire.instrument_pydantic_ai()
+from pydantic import BaseModel
+
+
+class QuestionRequest(BaseModel):
+    question: str
+
+if 'LOGFIRE_TOKEN' in os.environ:
+    logfire.configure(token=os.environ['LOGFIRE_TOKEN'],)
+    logfire.instrument_pydantic_ai()
 
 app = FastAPI(
     title="D&D Knowledge Base API",
@@ -47,13 +47,7 @@ intents_agent = kb.get_intents_agent()
 deps = kb.get_deps()
 
 
-class QuestionRequest(BaseModel):
-    question: str
 
-
-class DatabaseGenerationResponse(BaseModel):
-    status: str
-    document_count: int
 
 
 @app.post("/ask/stream")
@@ -77,40 +71,7 @@ async def ask_question_stream(request: QuestionRequest) -> StreamingResponse:
     return StreamingResponse(stream_response(), media_type="text/plain")
 
 
-@app.post("/generate_database")
-async def generate_database() -> DatabaseGenerationResponse:
-    try:
-        doc_converter = DocumentConverter(allowed_formats=[InputFormat.PDF])
-        db_client = QdrantClient(location=QDRANT_URL)
-        db_client.set_model(EMBEDDING_MODEL)
-        db_client.set_sparse_model("Qdrant/bm25")
 
-        result = doc_converter.convert(
-            "https://media.wizards.com/2014/downloads/dnd/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf"
-        )
-
-        documents, metadatas = [], []
-        for chunk in HybridChunker().chunk(result.document):
-            documents.append(chunk.text)
-            metadatas.append(chunk.meta.export_json_dict())
-
-        db_client.add(
-            collection_name=COLLECTION_NAME,
-            documents=documents,
-            metadata=metadatas,
-            batch_size=64,
-        )
-
-        return DatabaseGenerationResponse(
-            status="success",
-            document_count=len(documents)
-        )
-
-    except Exception as e:
-        raise HTTPException(
-            status_code=500,
-            detail=f"Failed to generate database: {str(e)}"
-        )
 
 @app.get("/health")
 async def health_check() -> dict:

@@ -1,47 +1,38 @@
 services:
   backend:
     build:
-      context: .
-      dockerfile: Dockerfile.backend
-      args:
-          http_proxy: $http_proxy
-          https_proxy: $https_proxy
-          HTTP_PROXY: $HTTP_PROXY
-          HTTPS_PROXY: $HTTPS_PROXY
+      context: ./backend/chatbot-api
+      dockerfile: Dockerfile
     network_mode: "host"
     environment:
       - QDRANT_URL=http://localhost:6333
       - OLLAMA_URL=http://localhost:11434/v1
-      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
-      - http_proxy=${http_proxy}
-      - https_proxy=${https_proxy}
-      - HTTP_PROXY=${HTTP_PROXY}
-      - HTTPS_PROXY=${HTTPS_PROXY}
-      - no_proxy=${no_proxy}
-      - NO_PROXY=${NO_PROXY}
     depends_on:
       - qdrant
     volumes:
-      - ./backend:/app
+      - ./backend/chatbot-api:/app
+    restart: unless-stopped
+
+  qdrant-api:
+    build:
+      context: ./backend/qdrant-api
+      dockerfile: Dockerfile
+    network_mode: "host"
+    environment:
+      - QDRANT_URL=http://localhost:6333
+    depends_on:
+      - qdrant
+    volumes:
+      - ./backend/qdrant-api:/app
     restart: unless-stopped
 
   frontend:
     build:
       context: ./frontend
-      args:
-          http_proxy: $http_proxy
-          https_proxy: $https_proxy
-          HTTP_PROXY: $HTTP_PROXY
-          HTTPS_PROXY: $HTTPS_PROXY
+
     network_mode: "host"
     environment:
       - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
-      - http_proxy=${http_proxy}
-      - https_proxy=${https_proxy}
-      - HTTP_PROXY=${HTTP_PROXY}
-      - HTTPS_PROXY=${HTTPS_PROXY}
-      - no_proxy=${no_proxy}
-      - NO_PROXY=${NO_PROXY}
     depends_on:
       - backend
     volumes:
