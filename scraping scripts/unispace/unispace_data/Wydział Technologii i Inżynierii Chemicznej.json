@@ -1,0 +1,3549 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Alama-Bućko",
+        "aliasUTP": [
+            "Magdalena.Alama-Bucko@pbs.edu.pl"
+        ],
+        "uid": "mbucko",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1420",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "8-8:45 oraz",
+                        "to": "11-12:15"
+                    }
+                },
+                "building": "F",
+                "room": "F 105",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-13",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2842",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "54BB94D9-AF78-497C-A40B-7B40C243C1C0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zuzanna",
+        "lastName": "Altmajer",
+        "aliasUTP": [
+            "zuzbor000@pbs.edu.pl"
+        ],
+        "uid": "zuzbor000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Wydziałowe Laboratorium Doświadczalne",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02016000000",
+                "phoneNumber": "666240825",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4241",
+                "floor": null,
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "AE217B8C-DC0C-494A-ADAE-D0DCA1EEAF80",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alicja",
+        "lastName": "Balcerak-Woźniak",
+        "aliasUTP": [
+            "alibal001@pbs.edu.pl"
+        ],
+        "uid": "alibal001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "47",
+                "subUnitCode": "02015000000",
+                "phoneNumber": "523749027",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3666",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "FD3DC14E-A887-417D-897E-4B2AB2D4724C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Bąk",
+        "aliasUTP": [
+            "Malgorzata.Bak@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Bak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "310",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-57",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3263",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "7BA9CE68-5B90-484C-A178-3C4BF0971F2F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Belka",
+        "aliasUTP": [
+            "Katarzyna.Belka@pbs.edu.pl"
+        ],
+        "uid": "kasia81",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "3a",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-67",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2954",
+                "floor": "PARTER",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "ADABC094-2F93-4DFA-8229-429902DFF09D",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Błażej",
+        "lastName": "Błaszak",
+        "aliasUTP": [
+            "blazej.blaszak@pbs.edu.pl"
+        ],
+        "uid": "blabla002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Technologia Żywności I Żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "310",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3751",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "E58674D0-4C8F-43A7-9A2D-68BEEFAAF381",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Borkowska",
+        "aliasUTP": [
+            "Katarzyna.Borkowska@pbs.edu.pl"
+        ],
+        "uid": "kaja",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1420",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:50",
+                        "to": "11:10"
+                    },
+                    "monday": {
+                        "from": "12:40",
+                        "to": "13:20"
+                    }
+                },
+                "building": "F",
+                "room": "F 105",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-13",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2759",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "C568C54C-54BE-42E8-B7BC-1619E68B0DBD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daria",
+        "lastName": "Bożejewicz",
+        "aliasUTP": [
+            "Daria.Bozejewicz@pbs.edu.pl"
+        ],
+        "uid": "darboz000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "146",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374 90 76",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3637",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0E7E9B3E-A493-4194-ABC8-E9C03232DC01",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Weronika",
+        "lastName": "Brzozowska",
+        "aliasUTP": [
+            "Weronika.Brzozowska@pbs.edu.pl"
+        ],
+        "uid": "Weronika.Brzozowska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": "F",
+                "room": null,
+                "subUnitCode": "02030000000",
+                "phoneNumber": "+48523408648",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4071",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6D62AAC4-3FB4-4D87-800D-94C3E60CC496",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mateusz",
+        "lastName": "Chorobiński",
+        "aliasUTP": [
+            "mateusz.chorobinski@pbs.edu.pl"
+        ],
+        "uid": "matcho005",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1482",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": "F",
+                "room": "F 307",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3976",
+                "floor": "III PIĘTRO",
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "38319063-6A52-478E-88DF-F912AAAEB76E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Ciaciuch",
+        "aliasUTP": [
+            "Anna.Ciaciuch@pbs.edu.pl"
+        ],
+        "uid": "annakar",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Technologia żywności i żywienia",
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.15",
+                        "to": "13.00"
+                    },
+                    "monday": {
+                        "from": "9.15",
+                        "to": "10.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "3a",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-10",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2790",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "325C430D-DBDD-4937-A10E-DD6FE2BA9328",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Czajka",
+        "aliasUTP": [
+            "Justyna.Czajka@pbs.edu.pl"
+        ],
+        "uid": "jmrotek",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "54a",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374-90-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3124",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BD4FB9F2-9A02-4231-B1B3-908F8BD3D981",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Czerniak",
+        "aliasUTP": [
+            "Grazyna.Czerniak@pbs.edu.pl"
+        ],
+        "uid": "gbalcer",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1483",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "monday": {
+                        "from": "12.00",
+                        "to": "13.30"
+                    }
+                },
+                "building": "F",
+                "room": "F 308",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "52-340-86-32",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1371",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6A7DC9E4-3A7C-45E3-A38A-25AB78B2A4CC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Daniluk",
+        "aliasUTP": [
+            "monika.daniluk@pbs.edu.pl"
+        ],
+        "uid": "monrad001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "120",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "523749021",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3992",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "78658AEB-2109-41BF-853E-8505F9185405",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Dąbrowski",
+        "aliasUTP": [
+            "Lukasz.Dabrowski@pbs.edu.pl"
+        ],
+        "uid": "lukas",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "05b",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-14",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2510",
+                "floor": "PIWNICE",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3359FE4A-3FB6-47AE-8BB6-EF6D405FD491",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Długosz",
+        "aliasUTP": [
+            "Anna.Dlugosz@pbs.edu.pl"
+        ],
+        "uid": "Anna.Dlugosz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Technologia żywności i żywienia",
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00; 15:15",
+                        "to": "12:00; 16:15"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "02024000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3601",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "49E706F2-6F82-4990-9B4C-324D8B2CF3D6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Dzwonkowska-Zarzycka",
+        "aliasUTP": [
+            "Monika.Dzwonkowska-Zarzycka@pbs.edu.pl"
+        ],
+        "uid": "mondzw000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4107",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "8CC51008-9D60-42B4-B8F5-244E5D738EDA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alicja",
+        "lastName": "Gackowska",
+        "aliasUTP": [
+            "Alicja.Gackowska@pbs.edu.pl"
+        ],
+        "uid": "aprus",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "tuesday": {
+                        "from": "8.00",
+                        "to": "8.45"
+                    },
+                    "monday": {
+                        "from": "14.00",
+                        "to": "14.45"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "5",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-75",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2346",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1B1FE6B5-CF43-4BDC-B859-D634BF794801",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Gadomski",
+        "aliasUTP": [
+            "Adam.Gadomski@pbs.edu.pl"
+        ],
+        "uid": "agad",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1499",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 322",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "52 340-86-97",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1499",
+                "floor": "III PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "92247822-BCF1-40F9-A3E6-FF35B4D37214",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patrycja",
+        "lastName": "Gensikowska",
+        "aliasUTP": [
+            "patrycja.gensikowska@pbs.edu.pl"
+        ],
+        "uid": "patgen000",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "120",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "523749021",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4161",
+                "floor": "I PIĘTRO",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "595F1A32-178E-4D40-B4A0-7D1DF5C03308",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Goryński",
+        "aliasUTP": [
+            "Krzysztof.Gorynski@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Gorynski",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02026000003",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3979",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "FE53AC55-593E-4F2A-94BA-89DCC4D3B671",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Gozdecka",
+        "aliasUTP": [
+            "Grazyna.Gozdecka@pbs.edu.pl"
+        ],
+        "uid": "lipowiec",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Technologia Żywności I Żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "310",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2793",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "12900A74-45DC-42F9-8A21-E3ADC9F27B5C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwia",
+        "lastName": "Grabska-Zielińska",
+        "aliasUTP": [
+            "Sylwia.Grabska-Zielinska@pbs.edu.pl"
+        ],
+        "uid": "Sylwia.Grabska-Zielinska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "226",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-17",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4134",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "FAAE7FF0-88FE-4727-A426-37851B12EA47",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Grela",
+        "aliasUTP": [
+            "Izabela.Grela@pbs.edu.pl"
+        ],
+        "uid": "izabela",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Wydziałowe Laboratorium Doświadczalne",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "59",
+                "subUnitCode": "02016000000",
+                "phoneNumber": "52 374-91-20",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1981",
+                "floor": "PARTER",
+                "job": "Starszy specjalista chemik"
+            }
+        ],
+        "guid": "631853A3-6681-4C85-9A84-F9CB80372CA5",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paulina",
+        "lastName": "Grzegorek",
+        "aliasUTP": [
+            "Paulina.Grzegorek@pbs.edu.pl"
+        ],
+        "uid": "Paulina.Grzegorek",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1424",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "13:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 108",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3295",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0745EB1C-6C5B-4CC8-9B21-878C69DCDD03",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Waldemar",
+        "lastName": "Iwanek",
+        "aliasUTP": [
+            "Waldemar.Iwanek@pbs.edu.pl"
+        ],
+        "uid": "Waldemar.Iwanek",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "106a",
+                "subUnitCode": "02015000000",
+                "phoneNumber": "523749051",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3588",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "8020F338-B995-4713-A188-FB777EA0DABA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Janusz",
+        "lastName": "Januszewski",
+        "aliasUTP": [
+            "Janusz.Januszewski@pbs.edu.pl"
+        ],
+        "uid": "januszew",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1427",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "monday": {
+                        "from": "9:15",
+                        "to": "11:15"
+                    }
+                },
+                "building": "F",
+                "room": "F 113",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-84-19",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "283",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "44F05D7D-86C3-45B0-9D22-F4E6A546A9A3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Beata",
+        "lastName": "Jędrzejewska",
+        "aliasUTP": [
+            "Beata.Jedrzejewska@pbs.edu.pl"
+        ],
+        "uid": "beata",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "124/125",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2243",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "06024017-61EC-4881-B879-C339AD86222F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Janina",
+        "lastName": "Kabatc-Borcz",
+        "aliasUTP": [
+            "janina.kabatc-Borcz@pbs.edu.pl"
+        ],
+        "uid": "nina",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {
+                    "monday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "78d",
+                "subUnitCode": "02015000000",
+                "phoneNumber": "52 374-91-12",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1322",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "9B0E45F4-ACAA-46AF-ADDD-8F01BEEEED95",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Kaczorowska",
+        "aliasUTP": [
+            "Malgorzata.Kaczorowska@pbs.edu.pl"
+        ],
+        "uid": "mkaczoro",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "148",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374-90-33",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3169",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0003CF6D-20F0-42B4-AEB6-C2F889FF3EBF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Karpiński",
+        "aliasUTP": [
+            "Karol.Karpinski@pbs.edu.pl"
+        ],
+        "uid": "karkar007",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja",
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1477",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 303",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "604198639",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3610",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E16AF135-9F07-4FF4-B891-D654BFCB26FE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Kołaczyk",
+        "aliasUTP": [
+            "Pawel.Kolaczyk@pbs.edu.pl"
+        ],
+        "uid": "Pawel.Kolaczyk",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "310",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "523749057",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4205",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "8C24A9C9-9CFD-4211-A1E8-4C9C87CE03FB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwia",
+        "lastName": "Kołodziejczyk",
+        "aliasUTP": [
+            "Sylwia.Kolodziejczyk@pbs.edu.pl"
+        ],
+        "uid": "sylkol",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WTiICh",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "48a",
+                "subUnitCode": "02027000000",
+                "phoneNumber": "52 374-90-03",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2863",
+                "floor": "PARTER",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "2B714861-922A-4B50-9E70-19A73F4F8774",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Urszula",
+        "lastName": "Konieczna-Spychała",
+        "aliasUTP": [
+            "Urszula.Konieczna-Spychala@pbs.edu.pl"
+        ],
+        "uid": "urszulak",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1426",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 110",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "290",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "45E38406-C18D-4367-BF5F-D4326E73D7F0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Przemysław",
+        "lastName": "Kosobucki",
+        "aliasUTP": [
+            "Przemyslaw.Kosobucki@pbs.edu.pl"
+        ],
+        "uid": "p.Kosobucki",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "82a",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374 90 41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3524",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F8BD7500-99BA-4A3B-B042-F99B1964F8E0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Kowalik",
+        "aliasUTP": [
+            "Joanna.Kowalik@pbs.edu.pl"
+        ],
+        "uid": "asia",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": null,
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1623",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1BA0A27F-DA10-447E-BFB2-B82B30503E5B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maria",
+        "lastName": "Kowalska",
+        "aliasUTP": [
+            "Maria.Kowalska@pbs.edu.pl"
+        ],
+        "uid": "kedzier",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    },
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "5",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-75",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1377",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D545AD1C-C237-4F06-927B-207620262D92",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Kruszewska",
+        "aliasUTP": [
+            "Natalia.Kruszewska@pbs.edu.pl"
+        ],
+        "uid": "nkruszewska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Nauki Fizyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1500",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 323",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "52 340-86-25",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2755",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E1CA3EEC-A7C5-4B9D-8175-C07F22AE49A9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwia",
+        "lastName": "Kwiatkowska-Marks",
+        "aliasUTP": [
+            "Sylwia.Kwiatkowska-Marks@pbs.edu.pl"
+        ],
+        "uid": "kwiatek",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02017000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1621",
+                "floor": null,
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "117",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "52 374-90-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1621",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BB1F27DD-58FC-4AFE-A92A-6AA3CC6C934C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jan",
+        "lastName": "Lamkiewicz",
+        "aliasUTP": [
+            "Jan.Lamkiewicz@pbs.edu.pl"
+        ],
+        "uid": "potas",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:15",
+                        "to": "13:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "106b",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374-90-60",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2349",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3FF18699-DA25-4072-9AAF-6540833B8B11",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Lassak",
+        "aliasUTP": [
+            "Marek.Lassak@pbs.edu.pl"
+        ],
+        "uid": "lassak",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1419",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "friday": {
+                        "from": "15:45",
+                        "to": "16:15"
+                    },
+                    "monday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 104",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "277",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "849E3535-325E-4704-A404-6F8DF55EA9BD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Lelewer",
+        "aliasUTP": [
+            "Karolina.Lelewer@pbs.edu.pl"
+        ],
+        "uid": "lelewer",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "46",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-67",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3138",
+                "floor": "PARTER",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "CA4D4F09-8585-49FC-9C9E-9E92D1381ACE",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Lewandowska",
+        "aliasUTP": [
+            "anna.lewandowska@pbs.edu.pl"
+        ],
+        "uid": "anna.lewandowska",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "78b",
+                "subUnitCode": "02015000000",
+                "phoneNumber": "52 374 91 14",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3913",
+                "floor": "PARTER",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "558AA21A-BA4E-4EFA-B15B-9C4A50092977",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Lewandowski",
+        "aliasUTP": [
+            "Krzysztof.Lewandowski@pbs.edu.pl"
+        ],
+        "uid": "krzlewy",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "238",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-54",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3094",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7D58595F-EAD9-47C1-8B73-113661B2B4D0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Majewski",
+        "aliasUTP": [
+            "Krzysztof.Majewski@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Majewski",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1429",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": "F",
+                "room": "F 115",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "52 340 8638, 799 239 278",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3707",
+                "floor": "I PIĘTRO",
+                "job": "Specjalista ds. technicznych"
+            }
+        ],
+        "guid": "AB6E22DA-3898-4278-94EB-F7587325949F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Miłek",
+        "aliasUTP": [
+            "Justyna.Milek@pbs.edu.pl"
+        ],
+        "uid": "jmilek",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "20",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "52 374-90-49",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2748",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "462D29CE-DCDC-4706-BB12-A12DFF9CE96E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Mirowski",
+        "aliasUTP": [
+            "Jacek.Mirowski@pbs.edu.pl"
+        ],
+        "uid": "jaca",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "240",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-53",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2828",
+                "floor": "II PIĘTRO",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "93B609F1-3DD1-4FA5-ACC4-6EAEF810535C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Beata",
+        "lastName": "Mockiewicz",
+        "aliasUTP": [
+            "Beata.Mockiewicz@pbs.edu.pl"
+        ],
+        "uid": "Beata.Mockiewicz",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1426",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "monday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 110",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4231",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "13001B31-582C-4F03-BC5E-3908C17F51D8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Musielak",
+        "aliasUTP": [
+            "Michal.Musielak@pbs.edu.pl"
+        ],
+        "uid": "Michal.Musielak",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1417",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "13:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 102",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340 86 82",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3239",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "3FCF8310-5B6E-4724-AD1D-382209184353",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Beata",
+        "lastName": "Myśliwiec",
+        "aliasUTP": [
+            "Beata.Mysliwiec@pbs.edu.pl"
+        ],
+        "uid": "Beata.Mysliwiec",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WTiICh",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "49",
+                "subUnitCode": "02027000000",
+                "phoneNumber": "52 374-91-10",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3259",
+                "floor": "PARTER",
+                "job": "Specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "970DA919-62B5-43AD-91BD-0D4BF4C4F920",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Narloch",
+        "aliasUTP": [
+            "izabela.narloch@pbs.edu.pl"
+        ],
+        "uid": "izanar002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "4",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3756",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "466D598C-9688-4233-9F5B-627F22D88952",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Nowicka",
+        "aliasUTP": [
+            "Monika.Nowicka@pbs.edu.pl"
+        ],
+        "uid": "mnowicka",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1418",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9:45",
+                        "to": "11:45"
+                    }
+                },
+                "building": "F",
+                "room": "F 103",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2709",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E3859488-3656-42C2-B1DA-CF6D791F5B33",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Olszewska",
+        "aliasUTP": [
+            "Aleksandra.Olszewska@pbs.edu.pl"
+        ],
+        "uid": "alelew008",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "544",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": "RCI",
+                "room": "RCI A012",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "523408201",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3627",
+                "floor": "PIWNICE",
+                "job": "Samodzielny technik"
+            },
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1497",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": "F",
+                "room": "F 320",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "523408667",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3627",
+                "floor": "III PIĘTRO",
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "E022C941-E965-4EFB-8A4E-5BF14712D79B",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Olszewska",
+        "aliasUTP": [
+            "Magdalena.Olszewska@pbs.edu.pl"
+        ],
+        "uid": "Magdalena.Olszewska",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4314",
+                "floor": null,
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "2277096B-5947-43A7-8CC9-2435980EC19E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Osińska",
+        "aliasUTP": [
+            "Monika.Osinska@pbs.edu.pl"
+        ],
+        "uid": "Monika.Osinska",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "137a",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-29",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3033",
+                "floor": "I PIĘTRO",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "9442B67B-353B-4D5E-B44A-E9D13110DB5A",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krystyna",
+        "lastName": "Osmańska",
+        "aliasUTP": [
+            "Krystyna.Osmanska@pbs.edu.pl"
+        ],
+        "uid": "krysiak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "225",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-38",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2416",
+                "floor": "II PIĘTRO",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "CD0A6802-4D2E-4F00-AAB0-04B79EDDE702",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Pietrzak",
+        "aliasUTP": [
+            "Marek.Pietrzak@pbs.edu.pl"
+        ],
+        "uid": "marek",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne",
+            "Nauki Fizyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {
+                    "friday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "126",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-34",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1307",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F2116A77-E691-4EF6-A974-FDB67FB6AF38",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Poćwiardowski",
+        "aliasUTP": [
+            "Wojciech.Pocwiardowski@pbs.edu.pl"
+        ],
+        "uid": "wojtpoc",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Technologia żywności i żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "07:30",
+                        "to": "08:30"
+                    },
+                    "tuesday": {
+                        "from": "07:30",
+                        "to": "08:30"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "322",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "+48 794231557",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3244",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "525EC563-9E18-4D0B-B6E9-4D07206A184F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ilona",
+        "lastName": "Pyszka",
+        "aliasUTP": [
+            "Ilona.Pyszka@pbs.edu.pl"
+        ],
+        "uid": "ilonap",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {
+                    "thursday": {
+                        "from": "9.00",
+                        "to": "10.00"
+                    },
+                    "monday": {
+                        "from": "11.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "223",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-39",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1961",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DD2BDE3C-4D77-4AE9-B1E7-49D6A83F3878",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Rerek",
+        "aliasUTP": [
+            "Tomasz.Rerek@pbs.edu.pl"
+        ],
+        "uid": "tomrer000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1488",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "thursday": {
+                        "from": "9:30",
+                        "to": "10:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 312",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3819",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "35F7073E-AC3B-47F5-A3D3-EF42E56AB8EF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alina",
+        "lastName": "Semrau-Giłka",
+        "aliasUTP": [
+            "Alina.Semrau-Gilka@pbs.edu.pl"
+        ],
+        "uid": "alucha",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1424",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    }
+                },
+                "building": "F",
+                "room": "F 108",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340-86-41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2841",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "8D758EBB-CB15-4600-AF63-2D9EE629E940",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Oleksandr",
+        "lastName": "Shyichuk",
+        "aliasUTP": [
+            "Oleksandr.Shyichuk@pbs.edu.pl"
+        ],
+        "uid": "szyjczuk",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "137a",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-78",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2525",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "71776A5B-4D1F-4641-BD9D-88FF4AC1A486",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iryna",
+        "lastName": "Shyychuk",
+        "aliasUTP": [
+            "Iryna.Shyychuk@pbs.edu.pl"
+        ],
+        "uid": "Iryna.Shyychuk",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Wydziałowe Laboratorium Doświadczalne",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "50",
+                "subUnitCode": "02016000000",
+                "phoneNumber": "52 374-91-15",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3123",
+                "floor": "PARTER",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "EB5A60F0-8224-46E1-9CC6-02B1082E35C1",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Przemysław",
+        "lastName": "Siekierka",
+        "aliasUTP": [
+            "Przemyslaw.Siekierka@pbs.edu.pl"
+        ],
+        "uid": "psiekierka",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "238",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-54",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2996",
+                "floor": "II PIĘTRO",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "F94759E7-CCA9-4D13-9827-F8EEE850DEAF",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Siódmiak",
+        "aliasUTP": [
+            "Jacek.Siodmiak@pbs.edu.pl"
+        ],
+        "uid": "siedem",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Nauki Fizyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1500",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 323",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "52 340-86-25",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2425",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A0A6B3CF-AC3B-4D3A-9D10-099DFC5D60EB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Skotnicka",
+        "aliasUTP": [
+            "Agnieszka.Skotnicka@pbs.edu.pl"
+        ],
+        "uid": "askot",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Organicznej",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "78c",
+                "subUnitCode": "02015000000",
+                "phoneNumber": "52 374-91-11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2777",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6577AE27-036E-45DE-A744-70AEA5ED92E9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Skowroński",
+        "aliasUTP": [
+            "Lukasz.Skowronski@pbs.edu.pl"
+        ],
+        "uid": "lski",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu",
+                    "Prorektor ds. nauki i ewaluacj"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1480",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "monday": {
+                        "from": "10:15",
+                        "to": "11:45"
+                    }
+                },
+                "building": "F",
+                "room": "F 306",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "52 340-86-51",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2754",
+                "floor": "III PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0E23D7D0-ADE6-488C-A8FE-899E388ECF08",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Skórczewska",
+        "aliasUTP": [
+            "Katarzyna.Skorczewska@pbs.edu.pl"
+        ],
+        "uid": "kasiucha00sk",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    },
+                    "monday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "237",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-54",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2910",
+                "floor": "II PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "ED9AAF17-682E-4667-B152-E92F2B2AD55F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paulina",
+        "lastName": "Stanewicz",
+        "aliasUTP": [
+            "paulina.stanewicz@pbs.edu.pl"
+        ],
+        "uid": "pausta005",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "162a",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "523749073",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3912",
+                "floor": "I PIĘTRO",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "3330D5A0-4228-46C4-96A6-4C1EFCC1DF1E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Starczewska",
+        "aliasUTP": [
+            "Anna.Starczewska@pbs.edu.pl"
+        ],
+        "uid": "czanna",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1421",
+                "subUnitName": "Biuro Dziekana - WTiICh",
+                "consultations": {},
+                "building": "F",
+                "room": "F 106",
+                "subUnitCode": "02027000000",
+                "phoneNumber": "523408643",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "1980",
+                "floor": "I PIĘTRO",
+                "job": "Starszy specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "8D137739-C518-4A8A-AB3A-0E73F01E8DBF",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Waldemar",
+        "lastName": "Studziński",
+        "aliasUTP": [
+            "Waldemar.Studzinski@pbs.edu.pl"
+        ],
+        "uid": "walstu000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "4",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-67",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3476",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Administracja centralna",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "669",
+                "subUnitName": "Biuro BHP",
+                "consultations": {},
+                "building": "RCI",
+                "room": "RCI B111",
+                "subUnitCode": "99010004000",
+                "phoneNumber": "52 374 9428",
+                "occupationalGroup": "Prac.Adm.",
+                "ewidNo": "3496",
+                "floor": "I PIĘTRO",
+                "job": "Starszy specjalista ds. BHP"
+            }
+        ],
+        "guid": "8BF6C4CC-DB9C-4973-B108-6E66DF23BACC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Sulewski",
+        "aliasUTP": [
+            "Mariusz.Sulewski@pbs.edu.pl"
+        ],
+        "uid": "msulewski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka",
+            "Nauki Biologiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {
+                    "thursday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "146",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374-90-76, 52 374-90-50",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2971",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            },
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WTiICh",
+                "consultations": {
+                    "thursday": {
+                        "from": "9.00",
+                        "to": "14.00"
+                    },
+                    "friday": {
+                        "from": "11.00",
+                        "to": "13.00"
+                    },
+                    "tuesday": {
+                        "from": "8.00",
+                        "to": "13.00"
+                    },
+                    "monday": {
+                        "from": "11.00",
+                        "to": "17.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "77a",
+                "subUnitCode": "02027000000",
+                "phoneNumber": "52 3749050",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4108",
+                "floor": "PARTER",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "C5041712-3AB4-47D5-8A52-40C1FDBB11E3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Sypniewska",
+        "aliasUTP": [
+            "Malgorzata.Sypniewska@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Sypniewska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1495",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "tuesday": {
+                        "from": "11:30",
+                        "to": "12:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 318",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "523408665",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4072",
+                "floor": "III PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "22C9E6C5-BDB0-4D61-8D8F-FCD28A638C99",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kamil",
+        "lastName": "Szpotkowski",
+        "aliasUTP": [
+            "Kamil.Szpotkowski@pbs.edu.pl"
+        ],
+        "uid": "Kamil.Szpotkowski",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4297",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "CAC0B826-6875-410B-9D3E-633BC0822619",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Szulc",
+        "aliasUTP": [
+            "Joanna.Szulc@pbs.edu.pl"
+        ],
+        "uid": "joakan",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12",
+                        "to": "14"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "322",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3166",
+                "floor": "III PIĘTRO (poddasze)",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "16ABFB55-6817-4FDB-8469-6D3B8612C040",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Elżbieta",
+        "lastName": "Szynwelska",
+        "aliasUTP": [
+            "Elzbieta.Szynwelska@pbs.edu.pl"
+        ],
+        "uid": "elzbieta",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "126",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-34",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "82",
+                "floor": "I PIĘTRO",
+                "job": "Starszy specjalista chemik"
+            }
+        ],
+        "guid": "A3CE2DA8-E1E8-4E69-98A1-5B0FC261A8FD",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jolanta",
+        "lastName": "Tomaszewska",
+        "aliasUTP": [
+            "Jolanta.Tomaszewska@pbs.edu.pl"
+        ],
+        "uid": "jolat",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "233",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-52",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "81",
+                "floor": "II PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "8BCAA1B3-10E2-497D-BF0C-E95778C6A22D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wirginia",
+        "lastName": "Tomczak",
+        "aliasUTP": [
+            "wirginia.tomczak@pbs.edu.pl"
+        ],
+        "uid": "wirginia.tomczak",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "17",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "9066",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3838",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "5AAF0798-CDD0-4119-A20C-0FE71AC5F13C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ilona",
+        "lastName": "Trawczyńska",
+        "aliasUTP": [
+            "Ilona.Trawczynska@pbs.edu.pl"
+        ],
+        "uid": "ilona2010",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "118",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "52 374-90-87",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3180",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "EAF9C453-9587-4A42-BF00-EB08A2199CD1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Trzcinski",
+        "aliasUTP": [
+            "Marek.Trzcinski@pbs.edu.pl"
+        ],
+        "uid": "marekt",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1497",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 320",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "52 340-86-67",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2423",
+                "floor": "III PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "735CFB2D-B2D9-42C4-BACC-AE4EC1BAF5D5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Tworek",
+        "aliasUTP": [
+            "Magdalena.Tworek@pbs.edu.pl"
+        ],
+        "uid": "m.tworek",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "87",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-69",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3231",
+                "floor": "PARTER",
+                "job": "Specjalista chemik"
+            }
+        ],
+        "guid": "4E279E1D-183D-4F6C-8984-072320EE6F1C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Warczak",
+        "aliasUTP": [
+            "magdalena.warczak@pbs.edu.pl"
+        ],
+        "uid": "magdalena.warczak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "02023000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3935",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2D970CA3-C965-4D29-8CEB-6EA5182BA7EE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Wejnerowska",
+        "aliasUTP": [
+            "Grazyna.Wejnerowska@pbs.edu.pl"
+        ],
+        "uid": "grazyna",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Analityki Żywności i Ochrony Środowiska",
+                "consultations": {
+                    "thursday": {
+                        "from": "8.00",
+                        "to": "10.00"
+                    },
+                    "tuesday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "82a",
+                "subUnitCode": "02023000000",
+                "phoneNumber": "52 374-90-40",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1523",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B454F7C0-AB38-42A2-84AB-648A9E4FD5A9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sławomir",
+        "lastName": "Wilczewski",
+        "aliasUTP": [
+            "slawomir.wilczewski@pbs.edu.pl"
+        ],
+        "uid": "slawil001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "238",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "523749054",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3641",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BF1321D7-0407-42A8-8F58-7E4151F7B34A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Wiśniewska",
+        "aliasUTP": [
+            "Agnieszka.Wisniewska@pbs.edu.pl"
+        ],
+        "uid": "agaw",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Chemicznej i Fizykochemii Materiałów",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "224",
+                "subUnitCode": "02026000003",
+                "phoneNumber": "52 374-90-18",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2913",
+                "floor": "II PIĘTRO",
+                "job": "Samodzielny chemik"
+            }
+        ],
+        "guid": "EE11C23A-52EB-476B-8817-BE694DA56181",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Witt",
+        "aliasUTP": [
+            "Katarzyna.Witt@pbs.edu.pl"
+        ],
+        "uid": "wittkatarzyna",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Chemii Ogólnej i Nieorganicznej",
+                "consultations": {
+                    "monday": {
+                        "from": "12",
+                        "to": "14"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "54a",
+                "subUnitCode": "02022000000",
+                "phoneNumber": "52 374-90-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3023",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A4A15231-B4E3-49D3-9131-5988C1E460A2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Wyżgowski",
+        "aliasUTP": [
+            "Maciej.Wyzgowski@pbs.edu.pl"
+        ],
+        "uid": "wyzgowski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {},
+                "building": "BUDYNEK A Główny",
+                "room": "26",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "52 374-90-23",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "2813",
+                "floor": "PIWNICE",
+                "job": "Robotnik wykwalifikowany"
+            }
+        ],
+        "guid": "6127E25C-9830-4650-A75D-58411F9404A8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Zalewska",
+        "aliasUTP": [
+            "Anna.Zalewska@pbs.edu.pl"
+        ],
+        "uid": "aniazal",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii Polimerów i Powłok Ochronnych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "88",
+                "subUnitCode": "02025000000",
+                "phoneNumber": "52 374-90-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2549",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "8FE34E94-EB4B-4E58-9BC4-1D0F955CA0B9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Zarzycki",
+        "aliasUTP": [
+            "Adam.Zarzycki@pbs.edu.pl"
+        ],
+        "uid": "adamz",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1489",
+                "subUnitName": "Zakład Fizykochemii Powierzchni",
+                "consultations": {
+                    "thursday": {
+                        "from": "9:00",
+                        "to": "12:00"
+                    },
+                    "tuesday": {
+                        "from": "9:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 313",
+                "subUnitCode": "02030000000",
+                "phoneNumber": "52 340-86-20",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2683",
+                "floor": "III PIĘTRO",
+                "job": "Specjalista ds. technicznych"
+            }
+        ],
+        "guid": "5110D4AB-D549-456C-B424-B41A06D2D885",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwia",
+        "lastName": "Zielińska-Raczyńska",
+        "aliasUTP": [
+            "Sylwia.Zielinska-Raczynska@pbs.edu.pl"
+        ],
+        "uid": "sziel",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1479",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "8:30",
+                        "to": "11:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 305",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "52 340-86-88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "366",
+                "floor": "III PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "215C100B-AE8D-4ABD-AA96-69022D7A2F60",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Zielonka",
+        "aliasUTP": [
+            "Lukasz.Zielonka@pbs.edu.pl"
+        ],
+        "uid": "Lukasz.Zielonka",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Matematyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1417",
+                "subUnitName": "Zakład Matematyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:30",
+                        "to": "11:30"
+                    },
+                    "tuesday": {
+                        "from": "10:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 102",
+                "subUnitCode": "02028000000",
+                "phoneNumber": "52 340 86 82",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3376",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B92EE295-9DD4-41DA-BE88-5644DF76E0C4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "David",
+        "lastName": "Ziemkiewicz",
+        "aliasUTP": [
+            "David.Ziemkiewicz@pbs.edu.pl"
+        ],
+        "uid": "David.Ziemkiewicz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki Chemiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1489",
+                "subUnitName": "Zakład Fizyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "11.30",
+                        "to": "12.30"
+                    }
+                },
+                "building": "F",
+                "room": "F 313",
+                "subUnitCode": "02029000000",
+                "phoneNumber": "696777608",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3361",
+                "floor": "III PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F4E44856-AD02-4B07-A31C-218560854481",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Ziółkowska",
+        "aliasUTP": [
+            "Dorota.Ziolkowska@pbs.edu.pl"
+        ],
+        "uid": "dorota_z",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Technologii i Inżynierii Przemysłu Spożywczego",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "monday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "137a",
+                "subUnitCode": "02024000000",
+                "phoneNumber": "52 374-90-24",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1638",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F85591B0-0723-4DEC-8088-BFB430DD6DF6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sławomir",
+        "lastName": "Żak",
+        "aliasUTP": [
+            "Slawomir.Zak@pbs.edu.pl"
+        ],
+        "uid": "zak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Chemiczna",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Technologii i Inżynierii Chemicznej",
+                "functions": [],
+                "campus": "Seminaryjna 3-5",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Inżynierii Chemicznej i Bioprocesowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "18:30",
+                        "to": "19:30"
+                    },
+                    "tuesday": {
+                        "from": "14",
+                        "to": "16"
+                    }
+                },
+                "building": "BUDYNEK A Główny",
+                "room": "18",
+                "subUnitCode": "02017000000",
+                "phoneNumber": "52 374-90-37",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "10",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "61C726D6-7A67-4041-A6A5-7793B6AD52A0",
+        "academicTeacher": true
+    }
+]

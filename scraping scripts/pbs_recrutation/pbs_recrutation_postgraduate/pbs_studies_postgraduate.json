@@ -1,0 +1,118 @@
+{
+  "programs": [
+    {
+      "name": "Administracja i doradztwo w rolnictwie",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/administracja-i-doradztwo-w-rolnictwie/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Bezpieczeństwo ruchu drogowego",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/bezpieczenstwo-ruchu-drogowego/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Budownictwo energooszczędne i pasywne, charakterystyka energetyczna budynków i lokali",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/budownictwo-energooszczedne-i-pasywne-charakterystyka-energetyczna-budynkow-i-lokali/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Diagnozowanie stanu upraw rolnych",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/diagnozowanie-stanu-upraw-rolnych/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Dostępność dla koordynatorów dostępności",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/dostepnosc-dla-koordynatorow-dostepnosci/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Dostępność dla projektantów",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/dostepnosc-dla-projektantow/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Inżynier jako skuteczny menedżer",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynier-jako-skuteczny-menedzer/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Kynologia",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/kynologia/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Prawo i zarządzanie w ochronie zdrowia",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/prawo-i-zarzadzanie-w-ochronie-zdrowia/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Przetwórstwo i recykling tworzyw sztucznych",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/przetworstwo-i-recykling-tworzyw-sztucznych/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Przygotowanie pedagogiczne",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/przygotowanie-pedagogiczne/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Psychologia zwierząt towarzyszących",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/psychologia-zwierzat-towarzyszacych/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Trener wewnętrzny",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/trener-wewnetrzny/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie innowacją w strategii biznesowej",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-innowacja-w-strategii-biznesowej/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie produkcją dla liderek",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-produkcja-dla-liderek/podyplomowe/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie projektami dla inżynierów",
+      "type": "podyplomowe",
+      "mode": "niestacjonarne",
+      "duration": "2 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-projektami-dla-inzynierow/podyplomowe/niestacjonarne"
+    }
+  ],
+  "source": "https://pbs.edu.pl/pl/oferta-dydaktyczna/studia-podyplomowe",
+  "scraped_at": "2025-08-10T18:35:48.289832"
+}

@@ -1,0 +1,2159 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Aleksandrowicz",
+        "aliasUTP": [
+            "lukasz.aleksandrowicz@pbs.edu.pl"
+        ],
+        "uid": "lukasz.aleksandrowicz",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1832",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "thursday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "H",
+                "room": "H C101d",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3950",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "EC4F5DAE-E9AA-46B6-B384-78B8561919BD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Andrzejewska",
+        "aliasUTP": [
+            "Malgorzata.Andrzejewska@pbs.edu.pl"
+        ],
+        "uid": "m.andrzejewska",
+        "academicTitle": "dr hab. sztuki",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1829",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "monday": {
+                        "from": "13:45",
+                        "to": "15:15"
+                    }
+                },
+                "building": "H",
+                "room": "H C101a",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3208",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "6CF8DA94-D6B0-4619-B20D-4AAD1E760B60",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daria",
+        "lastName": "Babińska",
+        "aliasUTP": [
+            "Daria.Babinska@pbs.edu.pl"
+        ],
+        "uid": "Daria.Babinska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1585",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {},
+                "building": "I",
+                "room": "I 045",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4133",
+                "floor": "PARTER",
+                "job": "Referent ds. administracyjnych"
+            }
+        ],
+        "guid": "52DF54C6-CF8C-4071-8FD8-C9650C8614A9",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Barlik",
+        "aliasUTP": [
+            "Agata.Barlik@pbs.edu.pl"
+        ],
+        "uid": "Agata.Barlik",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "759",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "16:00",
+                        "to": "16:45"
+                    }
+                },
+                "building": "A",
+                "room": "A 008",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4213",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A732ED90-41CB-4A69-9F45-CE7677F67D7A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sara",
+        "lastName": "Betkier",
+        "aliasUTP": [
+            "Sara.Betkier@pbs.edu.pl"
+        ],
+        "uid": "Sara.Betkier",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "935",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17:00",
+                        "to": "18:30"
+                    }
+                },
+                "building": "D",
+                "room": "D 008",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "52 340 81 56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3723",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "52A98E7B-630D-4E0B-B97B-434B40713523",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Bochenek",
+        "aliasUTP": [
+            "Anna.Bochenek@pbs.edu.pl"
+        ],
+        "uid": "abochenek",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1610",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "tuesday": {
+                        "from": "17:15",
+                        "to": "18:45"
+                    }
+                },
+                "building": "I",
+                "room": "I 044",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340-85-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2885",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "0E520461-94FD-4538-A521-E6CA4513A566",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Buczek",
+        "aliasUTP": [
+            "marta.buczek@pbs.edu.pl"
+        ],
+        "uid": "marta.buczek",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1316",
+                "subUnitName": "Biuro Dziekana - WSP",
+                "consultations": {},
+                "building": "G",
+                "room": "G 111",
+                "subUnitCode": "15004000000",
+                "phoneNumber": "52 340 8112",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3873",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "8CD83B23-A65F-411D-B14F-BA01C60B862F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Cazac",
+        "aliasUTP": [
+            "Natalia.Cazac@pbs.edu.pl"
+        ],
+        "uid": "Natalia.Cazac",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "935",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:45-11:15",
+                        "to": "12:45-13:15"
+                    }
+                },
+                "building": "D",
+                "room": "D 008",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4101",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "8FBF285C-87D3-41D0-A6F4-E297E4838C96",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Urszula",
+        "lastName": "Czarnowska",
+        "aliasUTP": [
+            "urszula.Czarnowska@pbs.edu.pl"
+        ],
+        "uid": "urszula.Czarnowska",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.45",
+                        "to": "13.15"
+                    },
+                    "thursday": {
+                        "from": "12.30",
+                        "to": "13.30"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3499",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D93E0DF9-6389-4423-8BA6-F8FCE4348762",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Czerwińska",
+        "aliasUTP": [
+            "joanna.czerwinska@pbs.edu.pl"
+        ],
+        "uid": "joanna.czerwinska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1830",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {},
+                "building": "H",
+                "room": "H C101b",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4000",
+                "floor": "I PIĘTRO",
+                "job": "Referent ds. administracyjnych"
+            }
+        ],
+        "guid": "6B7E2ABC-59FB-4493-84B5-977FA67DEAFB",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maria",
+        "lastName": "Dudzic",
+        "aliasUTP": [
+            "maria.dudzic@pbs.edu.pl"
+        ],
+        "uid": "mardal003",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "933",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "monday": {
+                        "from": "15:00",
+                        "to": "16:30"
+                    }
+                },
+                "building": "D",
+                "room": "D 007",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3938",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "6327A351-9D79-49AF-B019-439F3F8A8D55",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Dyakowski",
+        "aliasUTP": [
+            "Michal.Dyakowski@pbs.edu.pl"
+        ],
+        "uid": "Michal.Dyakowski",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4163",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "31C0903F-E6F9-4B7B-A35C-E48877288495",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jakub",
+        "lastName": "Elwertowski",
+        "aliasUTP": [
+            "jakub.elwertowski@pbs.edu.pl"
+        ],
+        "uid": "jakub.elwertowski",
+        "academicTitle": "dr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1822",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "wednesday": {
+                        "from": "15.15",
+                        "to": "16.00"
+                    },
+                    "monday": {
+                        "from": "8.15",
+                        "to": "9.00"
+                    }
+                },
+                "building": "H",
+                "room": "H B104",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4099",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BDCCF822-32CE-43FF-9AAC-3EDAC506017C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Romuald",
+        "lastName": "Fajtanowski",
+        "aliasUTP": [
+            "Romuald.Fajtanowski@pbs.edu.pl"
+        ],
+        "uid": "r.fajtanowski",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1798",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17.30",
+                        "to": "18.15"
+                    },
+                    "tuesday": {
+                        "from": "13.15",
+                        "to": "14.00"
+                    }
+                },
+                "building": "H",
+                "room": "H B101b",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "52 340-81-18",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3059",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "819DEFE0-CB6F-451F-8F06-3F586421F6AB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dawid",
+        "lastName": "Fischer",
+        "aliasUTP": [
+            "Dawid.Fischer@pbs.edu.pl"
+        ],
+        "uid": "dawwie000",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "928",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "monday": {
+                        "from": "08:30",
+                        "to": "10:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 002",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3543",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0BDFD95E-171C-4A58-AD74-7C018A5A3424",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Frąckowicz",
+        "aliasUTP": [
+            "Anna.Frackowicz@pbs.edu.pl"
+        ],
+        "uid": "Anna.Frackowicz",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1609",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "thursday": {
+                        "from": "10.45",
+                        "to": "12.15"
+                    }
+                },
+                "building": "I",
+                "room": "I 044a",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3654",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0E720A13-C3D8-4A82-A664-72D4FCC5DF4F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Fujak",
+        "aliasUTP": [
+            "agnieszka.fujak@pbs.edu.pl"
+        ],
+        "uid": "agnieszka.fujak",
+        "academicTitle": "dr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1826",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "wednesday": {
+                        "from": "15:00",
+                        "to": "16:30"
+                    },
+                    "thursday": {
+                        "from": "17:30",
+                        "to": "19:00"
+                    }
+                },
+                "building": "H",
+                "room": "H B110",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "52 340 81 56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3786",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "ACEE8518-8484-4C5C-BA15-B65BB4C670D5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Gębska",
+        "aliasUTP": [
+            "marta.gebska@pbs.edu.pl"
+        ],
+        "uid": "marta.gebska",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "841",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "8:15-9:15",
+                        "to": "10:45-11:15"
+                    }
+                },
+                "building": "H",
+                "room": "B 107",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "52 340 81 56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3877",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BE7895E9-C812-409D-86EB-4EDEB700CA66",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Grajnert-Hałupka",
+        "aliasUTP": [
+            "Ewa.grajnert-halupka@pbs.edu.pl"
+        ],
+        "uid": "Ewa.grajnert-halupka",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1823",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "thursday": {
+                        "from": "18:00",
+                        "to": "19:30"
+                    }
+                },
+                "building": "H",
+                "room": "H B107",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "52 340 81 56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3994",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "7AD14470-D71F-4E1F-8368-3CF6AA38FD22",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Remigiusz",
+        "lastName": "Grochal",
+        "aliasUTP": [
+            "remigiusz.grochal@pbs.edu.pl"
+        ],
+        "uid": "remigiusz.grochal",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1609",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "12:30"
+                    }
+                },
+                "building": "I",
+                "room": "I 044a",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340-85-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3388",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "D5CCA648-06C1-4947-88AC-DBDD7316223F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Grygorkiewicz",
+        "aliasUTP": [
+            "Piotr.Grygorkiewicz@pbs.edu.pl"
+        ],
+        "uid": "grygor",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1829",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    }
+                },
+                "building": "H",
+                "room": "H C101a",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "52 340-86-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3154",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "77DCD150-5CAF-4348-B703-8810E84D2B3F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Desy",
+        "lastName": "Gumilar",
+        "aliasUTP": [
+            "Teija.Gumilar@pbs.edu.pl"
+        ],
+        "uid": "Teija.Gumilar",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1800",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "16.45",
+                        "to": "18.15"
+                    }
+                },
+                "building": "H",
+                "room": "H B101",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "+48 - 608871821",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3703",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5B9AFA81-3A5A-423C-B408-4BC92393EE71",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Iwiński",
+        "aliasUTP": [
+            "marek.iwinski@pbs.edu.pl"
+        ],
+        "uid": "marek.iwinski",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1821",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "18:45",
+                        "to": "19:00"
+                    },
+                    "monday": {
+                        "from": "19:15",
+                        "to": "20:00"
+                    }
+                },
+                "building": "H",
+                "room": "H B103",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3928",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "408D7923-4AA0-46E6-9743-FA00C6881755",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Jaworski",
+        "aliasUTP": [
+            "mariusz.jaworski@pbs.edu.pl"
+        ],
+        "uid": "marjaw000",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17:00",
+                        "to": "18:30"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "523408522",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3876",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "51083E25-904C-4D6A-B7B9-560A4C38487F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Kranz",
+        "aliasUTP": [
+            "Natalia.Kranz@pbs.edu.pl"
+        ],
+        "uid": "Natalia.Kranz",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "931",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:45",
+                        "to": "11:15"
+                    }
+                },
+                "building": "D",
+                "room": "D 005",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "609988907",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4217",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "251228D5-B1D4-4EC9-8657-47E821E1F955",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dominika",
+        "lastName": "Krawańska",
+        "aliasUTP": [
+            "dominika.krawanska@pbs.edu.pl"
+        ],
+        "uid": "dominika.krawanska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1315",
+                "subUnitName": "Biuro Dziekana - WSP",
+                "consultations": {},
+                "building": "G",
+                "room": "G 110",
+                "subUnitCode": "15004000000",
+                "phoneNumber": "+48 52 340 81 00",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3947",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista asystent dziekana"
+            }
+        ],
+        "guid": "E85F234C-5215-4C34-A063-7E27148C2320",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Kucewicz-Wasilewska",
+        "aliasUTP": [
+            " Aleksandra.Kucewicz-Wasilewska@pbs.edu.pl"
+        ],
+        "uid": "aleksandra.kucewicz",
+        "academicTitle": "dr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8:00",
+                        "to": "9:30"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4083",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3E954F08-9D83-4675-803E-8AFC5EF80109",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Julia",
+        "lastName": "Lewandowska",
+        "aliasUTP": [
+            "Julia.Lewandowska@pbs.edu.pl"
+        ],
+        "uid": "Julia.Lewandowska",
+        "academicTitle": "dr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1826",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "monday": {
+                        "from": "12.20",
+                        "to": "13.50"
+                    }
+                },
+                "building": "H",
+                "room": "H B110",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4164",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DF562E7A-3CBA-419B-8561-23D26D99EA5C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mikołaj",
+        "lastName": "Lubczyński",
+        "aliasUTP": [
+            "Mikolaj.Lubczynski@pbs.edu.pl"
+        ],
+        "uid": "mykliu002",
+        "academicTitle": "dr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1610",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9:15",
+                        "to": "12:15"
+                    }
+                },
+                "building": "I",
+                "room": "I 044",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 - 85 -22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3643",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "93DB6E84-E71D-4838-99FB-F562D590D2D0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Mierzwa",
+        "aliasUTP": [
+            "Agnieszka.Mierzwa@pbs.edu.pl"
+        ],
+        "uid": "a.mierzwa",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:15",
+                        "to": "14:00"
+                    },
+                    "tuesday": {
+                        "from": "12:15",
+                        "to": "13:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340-85-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3145",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3B095C67-10E1-44FC-9D07-5E34D44DDB2A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Modrzejewski",
+        "aliasUTP": [
+            "Wojciech.Modrzejewski@pbs.edu.pl"
+        ],
+        "uid": "Wojciech.Modrzejewski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4208",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "10E4E499-999B-4C84-B33B-51410E3E479E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Muszyńska",
+        "aliasUTP": [
+            "joanna.muszynska@pbs.edu.pl"
+        ],
+        "uid": "joanna.muszynska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1315",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "15:00",
+                        "to": "16:30"
+                    }
+                },
+                "building": "G",
+                "room": "G 110",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "523408120",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3846",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2DDA3395-80A3-46BF-966C-8290EEE7BDCA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dominika",
+        "lastName": "Muszyńska-Jeleszyńska",
+        "aliasUTP": [
+            "dominika.muszynska-jeleszynska@pbs.edu.pl"
+        ],
+        "uid": "dominika.muszynska-jeleszynska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1315",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {},
+                "building": "G",
+                "room": "G 110",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "+48 52 340 81 02",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3850",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "DA012F7B-C0F0-4E8D-99CE-8664604AC5DB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Szymon",
+        "lastName": "Owsiański",
+        "aliasUTP": [
+            "Szymon.Owsianski@pbs.edu.pl"
+        ],
+        "uid": "Szymon.Owsianski",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1585",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:30"
+                    }
+                },
+                "building": "I",
+                "room": "I 045",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4106",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7442655B-3B1F-42B9-BCC7-7F910120F5D8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bartosz",
+        "lastName": "Pawlonka",
+        "aliasUTP": [
+            "bartosz.pawlonka@pbs.edu.pl"
+        ],
+        "uid": "bartosz.pawlonka",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1832",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "15:00",
+                        "to": "16:00"
+                    },
+                    "monday": {
+                        "from": "11:30",
+                        "to": "12:30"
+                    }
+                },
+                "building": "H",
+                "room": "H C101d",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3943",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "68AA0F9B-1DE3-4810-97B6-C47A1E3892F0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Pochylski",
+        "aliasUTP": [
+            "lukasz.pochylski@pbs.edu.pl"
+        ],
+        "uid": "lukasz.pochylski",
+        "academicTitle": "dr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "931",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:45",
+                        "to": "15:15"
+                    }
+                },
+                "building": "D",
+                "room": "D 005",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3942",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DBDD2226-C2C2-426B-8DE3-2670CBC7147E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Pomianowska",
+        "aliasUTP": [
+            "dorota.pomianowska@pbs.edu.pl"
+        ],
+        "uid": "dorota.pomianowska",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1316",
+                "subUnitName": "Biuro Dziekana - WSP",
+                "consultations": {},
+                "building": "G",
+                "room": "G 111",
+                "subUnitCode": "15004000000",
+                "phoneNumber": "52 340 8122",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2376",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. badań naukowych"
+            }
+        ],
+        "guid": "00A8A0D0-747B-4FBB-BC71-DE1A8F9C6144",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Weronika",
+        "lastName": "Poręba",
+        "aliasUTP": [
+            "weronika.poreba@pbs.edu.pl"
+        ],
+        "uid": "werpor002",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1798",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:30",
+                        "to": "13:00"
+                    }
+                },
+                "building": "H",
+                "room": "H B101b",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3845",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "231AD37E-9083-49B6-AA25-BFCE7958C387",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Rucińska",
+        "aliasUTP": [
+            "Magdalena.Rucinska@pbs.edu.pl"
+        ],
+        "uid": "M.Rucinska",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1584",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:30",
+                        "to": "11:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 045a",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "608 114 980",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3301",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "FC0A4405-6CA9-4CE8-9FBE-EB105C88D922",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Rumińska-Rutkowska",
+        "aliasUTP": [
+            "Katarzyna.Ruminska-Rutkowska@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Ruminska-Rutkowska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1829",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "monday": {
+                        "from": "14:00",
+                        "to": "15:30"
+                    }
+                },
+                "building": "H",
+                "room": "H C101a",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4293",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D8C3584D-5D2E-4927-8320-D52649B2BF13",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Edward",
+        "lastName": "Saliński",
+        "aliasUTP": [
+            "Edward.Salinski@pbs.edu.pl"
+        ],
+        "uid": "Edward.Salinski",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1832",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:30",
+                        "to": "13:30"
+                    },
+                    "friday": {
+                        "from": "13:30",
+                        "to": "14:30"
+                    }
+                },
+                "building": "H",
+                "room": "H C101d",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3615",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "4669CA5D-A680-4AAF-8A42-07C2AF3FE2C6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Szymon",
+        "lastName": "Saliński",
+        "aliasUTP": [
+            "Szymon.Salinski@pbs.edu.pl"
+        ],
+        "uid": "Szymon.Salinski",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1832",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "monday": {
+                        "from": "13:30",
+                        "to": "15:30"
+                    }
+                },
+                "building": "H",
+                "room": "H C101d",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3701",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A38DFAF3-CF64-439A-B827-54CA3363B84B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Simińska",
+        "aliasUTP": [
+            "Aleksandra.Siminska@pbs.edu.pl"
+        ],
+        "uid": "asiminska",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1609",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:45",
+                        "to": "15:15"
+                    }
+                },
+                "building": "I",
+                "room": "I 044a",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340-85-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2830",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "19F5937E-329B-480D-BF2A-EFF01743A56B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Sobczyk",
+        "aliasUTP": [
+            "ewa.sobczyk@pbs.edu.pl"
+        ],
+        "uid": "ewa.Sobczyk",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1610",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {},
+                "building": "I",
+                "room": "I 044",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "+48 52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4082",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6495537D-8B22-4A89-B38C-2A2AF9B67831",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Stępnakowski",
+        "aliasUTP": [
+            "Jaroslaw.Stepnakowski@pbs.edu.pl"
+        ],
+        "uid": "Jaroslaw.Stepnakowski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "928",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {},
+                "building": "D",
+                "room": "D 002",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3267",
+                "floor": "PARTER",
+                "job": "Starszy mechanik"
+            }
+        ],
+        "guid": "F38D8B78-1843-4768-998E-16C14013049E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Szewczykowska",
+        "aliasUTP": [
+            "Katarzyna.Szewczykowska@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Szewczykowska",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1830",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {},
+                "building": "H",
+                "room": "H C101b",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "523408156",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3509",
+                "floor": "I PIĘTRO",
+                "job": "Referent ds. administracyjnych"
+            }
+        ],
+        "guid": "B757CB04-0CF3-4FEC-969F-DCC73367A51E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anita",
+        "lastName": "Szymankiewicz",
+        "aliasUTP": [
+            "Anita.Szymankiewicz@pbs.edu.pl"
+        ],
+        "uid": "anisko000",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1825",
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {},
+                "building": "H",
+                "room": "H B109",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3618",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "2959EF9B-DDC3-41C9-A303-0DA22D8C2FFE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ariel",
+        "lastName": "Śliwiński",
+        "aliasUTP": [
+            "Ariel.Sliwinski@pbs.edu.pl"
+        ],
+        "uid": "arisli000",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "monday": {
+                        "from": "11:15",
+                        "to": "13:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3534",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "F6F1B179-893D-4134-86E7-9D8DDA5F34F1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Tołoczko",
+        "aliasUTP": [
+            "Piotr.Toloczko@pbs.edu.pl"
+        ],
+        "uid": "p.toloczko",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1582",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "monday": {
+                        "from": "11.45",
+                        "to": "13.15"
+                    }
+                },
+                "building": "I",
+                "room": "I 041",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "523408522",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3140",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "00A93384-2B3D-40B2-8449-535CB3E41E80",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Treichel",
+        "aliasUTP": [
+            "Marcin.Treichel@pbs.edu.pl"
+        ],
+        "uid": "Marcin.Treichel",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "15005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4209",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "3815AAAA-159C-447A-AB92-23D297BEFFCE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Tretyn",
+        "aliasUTP": [
+            "Katarzyna.Tretyn@pbs.edu.pl"
+        ],
+        "uid": "K.Tretyn-Zecevic",
+        "academicTitle": "dr hab. sztuki",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1317",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {},
+                "building": "G",
+                "room": "G 112",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "8182",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3539",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "8A91D62D-B0D0-4314-9326-CAF7D9F9BA9A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Walther",
+        "aliasUTP": [
+            "Agnieszka.Walther@pbs.edu.pl"
+        ],
+        "uid": "agnwal001",
+        "academicTitle": "mgr",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:30",
+                        "to": "11:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3612",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "36699DCD-6A2D-4931-86A4-3F9C6721E830",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Wiese",
+        "aliasUTP": [
+            "Lukasz.Wiese@pbs.edu.pl"
+        ],
+        "uid": "Lukasz.Wiese",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1825",
+                "subUnitName": "Katedra Komunikacji Wizualnej",
+                "consultations": {
+                    "monday": {
+                        "from": "16.00",
+                        "to": "17.30"
+                    }
+                },
+                "building": "H",
+                "room": "H B109",
+                "subUnitCode": "15005000000",
+                "phoneNumber": "502114506",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4097",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "BF7BC26D-9137-4988-B4C2-0DAFCE0798A7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Julia",
+        "lastName": "Wleklińska",
+        "aliasUTP": [
+            "Julia.Wleklinska@pbs.edu.pl"
+        ],
+        "uid": "Julia.Wleklinska",
+        "academicTitle": "dr sztuki",
+        "disciplines": [
+            "Sztuki plastyczne i konserwacja dzieł sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1608",
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.15, 13:45",
+                        "to": "13:15, 14:15"
+                    }
+                },
+                "building": "I",
+                "room": "I 044b",
+                "subUnitCode": "15003000000",
+                "phoneNumber": "52 340 85 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3655",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E9C462A1-E9FA-4FAA-8D9B-0071D1C78640",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Wota",
+        "aliasUTP": [
+            "Marta.Wota@pbs.edu.pl"
+        ],
+        "uid": "Marta.Wota",
+        "academicTitle": "mgr sztuki",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "thursday": {
+                        "from": "19:30",
+                        "to": "20:15"
+                    },
+                    "tuesday": {
+                        "from": "19:10",
+                        "to": "19:55"
+                    }
+                },
+                "building": "J",
+                "room": "J 209",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4116",
+                "floor": "II PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "44600633-A2D3-4D4B-B8B3-EF93384949F5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Zabel",
+        "aliasUTP": [
+            "wojciech.zabel@pbs.edu.pl"
+        ],
+        "uid": "wojzab000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Wzornictwa",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17:00",
+                        "to": "17:45"
+                    },
+                    "tuesday": {
+                        "from": "17:15",
+                        "to": "18:00"
+                    }
+                },
+                "building": "J",
+                "room": "J 001",
+                "subUnitCode": "15002000000",
+                "phoneNumber": "+48 52 340 86 57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4098",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "382C779D-3F1E-4BEB-9332-5AED6476821B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Zarańska",
+        "aliasUTP": [
+            "Marta.Zaranska@pbs.edu.pl"
+        ],
+        "uid": "Marta.Zaranska",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Sztuk Projektowych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury Wnętrz",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:00",
+                        "to": "14:30"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "15003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4214",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "DFF72DAB-6A95-4F1C-9CBE-B58C21A3B187",
+        "academicTeacher": true
+    }
+]

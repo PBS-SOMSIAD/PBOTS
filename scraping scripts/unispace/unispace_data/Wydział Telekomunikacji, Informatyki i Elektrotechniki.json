@@ -1,0 +1,3310 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Andrysiak",
+        "aliasUTP": [
+            "Tomasz.Andrysiak@pbs.edu.pl"
+        ],
+        "uid": "andrys",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1088",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "09:45",
+                        "to": "11:45"
+                    }
+                },
+                "building": "C",
+                "room": "C 110",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-81-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1239",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "6B2B83E7-33AF-4B41-A0F9-1A9AB72B3180",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jan",
+        "lastName": "Baumgart",
+        "aliasUTP": [
+            "jan.baumgart@pbs.edu.pl"
+        ],
+        "uid": "jan.baumgart",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {
+                    "thursday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4191",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "F0B85363-6CA8-4334-8471-BEB329802046",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Benecka",
+        "aliasUTP": [
+            "Agnieszka.Benecka@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Benecka",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1372",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "G",
+                "room": "G 317",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-85-20",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4062",
+                "floor": "3 PIĘTRO",
+                "job": "Młodszy specjalista"
+            }
+        ],
+        "guid": "DD112115-700C-4A48-A051-B3CC40F0398B",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kazimierz",
+        "lastName": "Bieliński",
+        "aliasUTP": [
+            "Kazimierz.Bielinski@pbs.edu.pl"
+        ],
+        "uid": "kbiel",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1309",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 103",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-18",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2859",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C5DF636D-D53F-4590-B999-9C6E8CC04627",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Boniecki",
+        "aliasUTP": [
+            "Rafal.Boniecki@pbs.edu.pl"
+        ],
+        "uid": "raboni",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "thursday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-60",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "377",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "55F25537-D9F1-4A2C-B013-985CFF2D1526",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Boniewicz",
+        "aliasUTP": [
+            "Piotr.Boniewicz@pbs.edu.pl"
+        ],
+        "uid": "peterbon",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1337",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 208",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "52 340-85-72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1506",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DE7A1133-7649-4FD7-BDDD-A4C2326A700B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sławomir",
+        "lastName": "Bujnowski",
+        "aliasUTP": [
+            "Slawomir.Bujnowski@pbs.edu.pl"
+        ],
+        "uid": "slawb",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1293",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:15",
+                        "to": "13:00"
+                    },
+                    "friday": {
+                        "from": "17:30",
+                        "to": "18:30"
+                    }
+                },
+                "building": "G",
+                "room": "G 013",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-83-94",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "380",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "26F35DB5-42EA-4C9D-955D-8BACA68A65A7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Przemysław",
+        "lastName": "Charendziak",
+        "aliasUTP": [
+            "Przemyslaw.Charendziak@pbs.edu.pl"
+        ],
+        "uid": "harryman",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1117",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "C",
+                "room": "C 216",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-88-12",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2377",
+                "floor": "2 PIĘTRO",
+                "job": "Starszy specjalista"
+            }
+        ],
+        "guid": "95E43959-1D8C-4EB6-883A-2F2DD95AF51D",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ryszard",
+        "lastName": "Choraś",
+        "aliasUTP": [
+            "Ryszard.Choras@pbs.edu.pl"
+        ],
+        "uid": "choras",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1369",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "saturday": {
+                        "from": "8.40*",
+                        "to": "9.40*"
+                    },
+                    "tuesday": {
+                        "from": "11.15",
+                        "to": "12.15"
+                    }
+                },
+                "building": "G",
+                "room": "G 314",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "339",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "8F613C1C-FEEA-4473-BE2D-762791BD3916",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Choraś",
+        "aliasUTP": [
+            "Michal.Choras@pbs.edu.pl"
+        ],
+        "uid": "chorasm",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1110",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.30",
+                        "to": "10.00"
+                    }
+                },
+                "building": "C",
+                "room": "C 209",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2515",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "D03EEEAD-06BB-446D-8F18-07EDFE3425CE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sławomir",
+        "lastName": "Cieślik",
+        "aliasUTP": [
+            "Slawomir.Cieslik@pbs.edu.pl"
+        ],
+        "uid": "slavcies",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1356",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "friday": {
+                        "from": "11:00",
+                        "to": "12:00"
+                    },
+                    "monday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 302",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-60",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1380",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "80839A6A-871E-4A57-9C1E-9A1C9916B94C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Cofta",
+        "aliasUTP": [
+            "Piotr.Cofta@pbs.edu.pl"
+        ],
+        "uid": "Piotr.Cofta",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1121",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {},
+                "building": "C",
+                "room": "C 220",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3546",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "BBA46ACB-84CF-4E2D-BC91-042975C33E5D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Czeczot",
+        "aliasUTP": [
+            "Grzegorz.Czeczot@pbs.edu.pl"
+        ],
+        "uid": "Grzegorz.Czeczot",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4220",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "37EF0BD5-7C25-4E31-BE84-4903B8019D20",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Czerniak",
+        "aliasUTP": [
+            "jacek.czerniak@pbs.edu.pl"
+        ],
+        "uid": "jacek.czerniak",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    },
+                    "thursday": {
+                        "from": "14:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "52 340 8377",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4192",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "DDADDC2B-6EC9-4AE1-B52D-359686E9989C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jakub",
+        "lastName": "Dalecki",
+        "aliasUTP": [
+            "Jakub.Dalecki@pbs.edu.pl"
+        ],
+        "uid": "dalecki",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1057",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "monday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 005",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "602470138",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3178",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "161DF3AC-46BF-461C-A19A-B86E564C7D21",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Długosz",
+        "aliasUTP": [
+            "Rafal.Dlugosz@pbs.edu.pl"
+        ],
+        "uid": "Rafal.Dlugosz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne",
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1056",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "friday": {
+                        "from": "16:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 004",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3135",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "CFB8242B-EE0C-4481-A83C-46AD13428E62",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Dobrosielski",
+        "aliasUTP": [
+            "wojciech.dobrosielski@pbs.edu.pl"
+        ],
+        "uid": "wojciech.dobrosielski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {},
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4195",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A3A25BF7-A1B0-4DA1-B7EA-3E414C4FB977",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Drechny",
+        "aliasUTP": [
+            "Marcin.Drechny@pbs.edu.pl"
+        ],
+        "uid": "mardrech",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Pełnomocnik Rektora ds. jakości i ewaluacji kształcenia"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1319",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 114",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-63",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2399",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "77C0C70B-5FEA-4D56-8ABC-EFD5F0AFD745",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Janusz",
+        "lastName": "Dyduch",
+        "aliasUTP": [
+            "Janusz.Dyduch@pbs.edu.pl"
+        ],
+        "uid": "Janusz.Dyduch",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "05016000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4295",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "013CE28B-9753-4F12-978E-419A698C4DF2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dawid",
+        "lastName": "Ewald",
+        "aliasUTP": [
+            "Dawid.Ewald@pbs.edu.pl"
+        ],
+        "uid": "Dawid.Ewald",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:15",
+                        "to": "13:15"
+                    }
+                },
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4193",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "03B01159-B97B-4029-937F-09C846884994",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Fajfer",
+        "aliasUTP": [
+            "Maciej.Fajfer@pbs.edu.pl"
+        ],
+        "uid": "Maciej.Fajfer",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1362",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "14.30",
+                        "to": "16.30"
+                    }
+                },
+                "building": "G",
+                "room": "G 307",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-81-65",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3223",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A163970A-D5C1-4BE9-B8F8-00BAF7D5C541",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewelina",
+        "lastName": "Fischer",
+        "aliasUTP": [
+            "Ewelina.Fischer@pbs.edu.pl"
+        ],
+        "uid": "efischer",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1168",
+                "subUnitName": "Biuro Dziekana - WTIiE",
+                "consultations": {},
+                "building": "E",
+                "room": "E 011",
+                "subUnitCode": "05005000000",
+                "phoneNumber": "52 340 8011",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3232",
+                "floor": "PARTER",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "667DBEC0-D9A2-4A4B-A465-A33C755D5EE7",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Flizikowski",
+        "aliasUTP": [
+            "Adam.Flizikowski@pbs.edu.pl"
+        ],
+        "uid": "adamfli",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1066",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "monday": {
+                        "from": "15.00",
+                        "to": "16.00"
+                    }
+                },
+                "building": "C",
+                "room": "C 013",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "52 340-83-33",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2675",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "51D2C022-EBC8-4925-A6FE-30DD24DEA716",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Frymark",
+        "aliasUTP": [
+            "Jaroslaw.Frymark@pbs.edu.pl"
+        ],
+        "uid": "jfym",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1104",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "thursday": {
+                        "from": "12",
+                        "to": "14"
+                    }
+                },
+                "building": "C",
+                "room": "C 203",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340 8313",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1414",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E2CC35B1-63DC-4059-8C24-049359B83F2A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Gackowska-Kątek",
+        "aliasUTP": [
+            " marta.gackowska-katek@pbs.edu.pl"
+        ],
+        "uid": "margac001",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1172",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8:30",
+                        "to": "10:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 013",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340 81 86",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3742",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "CCFE2D65-96B0-462C-8F32-46B4EA0DA3B1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Giełczyk",
+        "aliasUTP": [
+            "Agata.Gielczyk@pbs.edu.pl"
+        ],
+        "uid": "agawoj001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1172",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:00",
+                        "to": "12:00 Konsultacje w E013 oraz via MS Teams (kod: sxzzety)."
+                    }
+                },
+                "building": "E",
+                "room": "E 013",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3474",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DC0E9568-AE19-436E-92BB-4CB25C436CD7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Gieras",
+        "aliasUTP": [
+            "Jacek.Gieras@pbs.edu.pl"
+        ],
+        "uid": "gieras",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1343",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "friday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 213",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "+1 860 573 6683",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2887",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "DD1D211D-94EB-4FB6-A050-CE7414F659F3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kacper",
+        "lastName": "Grabiński",
+        "aliasUTP": [
+            "kacper.grabinski@pbs.edu.pl"
+        ],
+        "uid": "kacgra000",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1117",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "C",
+                "room": "C 216",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3858",
+                "floor": "2 PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "7F54B48E-2DCB-4502-B1C9-872F33506E79",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Grad",
+        "aliasUTP": [
+            "Piotr.Grad@pbs.edu.pl"
+        ],
+        "uid": "grad",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:45",
+                        "to": "14:15"
+                    }
+                },
+                "building": "C",
+                "room": "004a",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1325",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "30239303-6408-4D8D-84F9-ECDFD965ACC9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Grugel",
+        "aliasUTP": [
+            "Piotr.Grugel@pbs.edu.pl"
+        ],
+        "uid": "p.gr",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1333",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "monday": {
+                        "from": "10:30",
+                        "to": "12:30"
+                    }
+                },
+                "building": "G",
+                "room": "G 204",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "52 340-85-13",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2896",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "EE0B39EF-E356-4754-8EB2-72706948E43D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Hartwig",
+        "aliasUTP": [
+            "Karol.Hartwig@pbs.edu.pl"
+        ],
+        "uid": "karhar001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1172",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "monday": {
+                        "from": "9:45",
+                        "to": "11:45"
+                    }
+                },
+                "building": "E",
+                "room": "E 013",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340 81 86",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3694",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "DB7CF84E-1476-4650-8F3D-1C8C9080B87F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Witold",
+        "lastName": "Hołubowicz",
+        "aliasUTP": [
+            "Witold.Holubowicz@pbs.edu.pl"
+        ],
+        "uid": "Witold.Holubowicz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1121",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "thursday": {
+                        "from": "14:00",
+                        "to": "15:30"
+                    }
+                },
+                "building": "C",
+                "room": "C 220",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "52 340-83-65",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1605",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "B8D22FE6-FB76-4E77-826A-F200F6767984",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Jaroszewska",
+        "aliasUTP": [
+            "Kinga.Jaroszewska@pbs.edu.pl"
+        ],
+        "uid": "Kinga.Jaroszewska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1112",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "C",
+                "room": "C 211",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-84-32",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3159",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "BE02EDEC-3F11-429F-B26D-DD834F32B5E4",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krystian",
+        "lastName": "Kaczerski",
+        "aliasUTP": [
+            "Krystian.Kaczerski@pbs.edu.pl"
+        ],
+        "uid": "Krystian.Kaczerski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1307",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "15",
+                        "to": "17"
+                    }
+                },
+                "building": "G",
+                "room": "G 101",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4175",
+                "floor": "1 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "97219384-070E-40E2-A827-488DEA9E2AFD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Gracjan",
+        "lastName": "Kątek",
+        "aliasUTP": [
+            "Gracjan.Katek@pbs.edu.pl"
+        ],
+        "uid": "grakat001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1172",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "monday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 013",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3693",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "3889CCF6-8EE4-4B36-AA60-B8BC5B2BFB76",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Kiedrowski",
+        "aliasUTP": [
+            "Piotr.Kiedrowski@pbs.edu.pl"
+        ],
+        "uid": "pkied",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Działu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1106",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "C",
+                "room": "C 205",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-39",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1394",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "36245D98-EB6F-4DEF-BAE4-02C3C9A7A170",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Kłosowski",
+        "aliasUTP": [
+            "Zbigniew.Klosowski@pbs.edu.pl"
+        ],
+        "uid": "klosowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1318",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "G",
+                "room": "G 113",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-26",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3106",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E751EC04-505D-42CF-94D9-22D77E0F6818",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Kolasa",
+        "aliasUTP": [
+            "Marta.Kolasa@pbs.edu.pl"
+        ],
+        "uid": "markol",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1334",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 205",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-80",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2802",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2D8D665D-A4C0-4D68-A4B2-465C8F54C9A4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jan",
+        "lastName": "Kołodziej",
+        "aliasUTP": [
+            "Jan.Kolodziej@pbs.edu.pl"
+        ],
+        "uid": "janko",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1062",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:30",
+                        "to": "14:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 008",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-80",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "414",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "08D68538-AB3E-4C20-8B6F-E1696FD2DB94",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Kosowska",
+        "aliasUTP": [
+            "monika.kosowska@pbs.edu.pl"
+        ],
+        "uid": "monika.kosowska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:15",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-08",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3801",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7F3A69E8-3F80-438C-9A9A-0F898DDCAB20",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krystyna",
+        "lastName": "Kowalczewska",
+        "aliasUTP": [
+            "Krystyna.Kowalczewska@pbs.edu.pl"
+        ],
+        "uid": "krystynak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WTIiE",
+                "consultations": {},
+                "building": "E",
+                "room": null,
+                "subUnitCode": "05005000000",
+                "phoneNumber": "52 340-83-64",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "149",
+                "floor": null,
+                "job": "Główny specjalista ds. finans-administr"
+            },
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WTIiE",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "05005000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "149",
+                "floor": null,
+                "job": "Główny specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "C976B415-EED3-466F-87D0-D91BF73BE74E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Kozik",
+        "aliasUTP": [
+            "Rafal.Kozik@pbs.edu.pl"
+        ],
+        "uid": "rkozik",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1110",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:30",
+                        "to": "13:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 209",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "52 340-83-68",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2988",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "D58EE532-D035-4783-8359-D7D6BE5B8D69",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Kruczkowski",
+        "aliasUTP": [
+            "Michal.Kruczkowski@pbs.edu.pl"
+        ],
+        "uid": "Michal.Kruczkowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "monday": {
+                        "from": "11.45",
+                        "to": "13.15"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3545",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F3460A1A-C2CB-415B-BD05-8B01CAF3F6F2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jadwiga",
+        "lastName": "Książek",
+        "aliasUTP": [
+            "Jadwiga.Ksiazek@pbs.edu.pl"
+        ],
+        "uid": "Jadwiga.Ksiazek",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1366",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {},
+                "building": "G",
+                "room": "G 311",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-85-66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2344",
+                "floor": "3 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "53F1AF90-8C0F-4990-A333-1B9F1FEB521D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Ledzińska",
+        "aliasUTP": [
+            "agnieszka.ledzinska@pbs.edu.pl"
+        ],
+        "uid": "agnieszka.ledzinska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1113",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "C",
+                "room": "C 212",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 3408004",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3392",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista"
+            }
+        ],
+        "guid": "4992EE2F-7569-4F71-A067-62E16E0B088F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Damian",
+        "lastName": "Ledziński",
+        "aliasUTP": [
+            "Damian.Ledzinski@pbs.edu.pl"
+        ],
+        "uid": "dledzinski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja",
+            "Inżynieria Biomedyczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1088",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    },
+                    "thursday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 110",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-83-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3075",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1389",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {},
+                "building": "F",
+                "room": "F 013",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3075",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "904D8750-862B-4837-B1A4-7AE32E5A327B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Lutowski",
+        "aliasUTP": [
+            "Zbigniew.Lutowski@pbs.edu.pl"
+        ],
+        "uid": "z.lutowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1090",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 112",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-98",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1391",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2BEE3EEE-1DCB-47EE-8CDC-6711EA48712C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Włodzimierz",
+        "lastName": "Majewski",
+        "aliasUTP": [
+            "Wlodzimierz.Majewski@pbs.edu.pl"
+        ],
+        "uid": "maj",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1361",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "G",
+                "room": "G 306",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-81-77",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "145",
+                "floor": "3 PIĘTRO",
+                "job": "Starszy specjalista elektronik"
+            }
+        ],
+        "guid": "BC3C4E66-30D2-4415-BCC0-59014960F96F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Majewski",
+        "aliasUTP": [
+            "Jacek.Majewski@pbs.edu.pl"
+        ],
+        "uid": "jamaje",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1120",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12.15",
+                        "to": "14.15"
+                    }
+                },
+                "building": "C",
+                "room": "C 219",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-17",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1314",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "9175A9DE-DFB3-41C8-B7D8-4C5E8A95B70D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Marchewka",
+        "aliasUTP": [
+            "Adam.Marchewka@pbs.edu.pl"
+        ],
+        "uid": "adimar",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1171",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 012",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-80-08",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2514",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "CD2DDE0D-1803-4D38-A85C-B2986F2FFF92",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Beata",
+        "lastName": "Marciniak",
+        "aliasUTP": [
+            "Beata.Marciniak@pbs.edu.pl"
+        ],
+        "uid": "beamar",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1167",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 010",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1326",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "14A1FD8A-D510-4E4A-BE6C-943C8AFD1055",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Marciniak",
+        "aliasUTP": [
+            "Tomasz.Marciniak@pbs.edu.pl"
+        ],
+        "uid": "tommar",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1168",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 011",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-80-11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1313",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "66AA7B3F-676D-4564-A25A-9AA536091F14",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mirosław",
+        "lastName": "Maszewski",
+        "aliasUTP": [
+            "Miroslaw.Maszewski@pbs.edu.pl"
+        ],
+        "uid": "mmasz",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1086",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:15",
+                        "to": "14:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 108",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-02",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1592",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Administracja centralna",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1052",
+                "subUnitName": "Sekcja Wsparcia Technicznego",
+                "consultations": {},
+                "building": "C",
+                "room": "C 001",
+                "subUnitCode": "99010014024",
+                "phoneNumber": "52 340-89-00, 83-02",
+                "occupationalGroup": "Prac.Adm.",
+                "ewidNo": "2937",
+                "floor": "PARTER",
+                "job": "Specjalista ds. adm. sys. centr. tel."
+            }
+        ],
+        "guid": "10EF6BEC-4A26-40A6-AF52-77F0C50560BB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Mazur",
+        "aliasUTP": [
+            "Lukasz.Mazur@pbs.edu.pl"
+        ],
+        "uid": "lukmaz003",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1358",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    },
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 304",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340 85 42",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3530",
+                "floor": "3 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "E77B4E40-120F-4802-A7AA-DB1F1185DAD7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Meckien",
+        "aliasUTP": [
+            "Grzegorz.Meckien@pbs.edu.pl"
+        ],
+        "uid": "gregm",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1340",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "monday": {
+                        "from": "11",
+                        "to": "13"
+                    }
+                },
+                "building": "G",
+                "room": "G 211",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "52 340-85-64",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1327",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "09840D69-0706-48D4-BDAC-DE54F94340A4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mirosław",
+        "lastName": "Miciak",
+        "aliasUTP": [
+            "Miroslaw.Miciak@pbs.edu.pl"
+        ],
+        "uid": "miciak",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "monday": {
+                        "from": "8:00 (TP) 8:00 (TN)",
+                        "to": "9:30 (TP) 9:30 (TN)"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-15",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2536",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "85B1B999-3F13-4F40-A076-F090A648B73B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jan",
+        "lastName": "Mućko",
+        "aliasUTP": [
+            "Jan.Mucko@pbs.edu.pl"
+        ],
+        "uid": "mucko",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1345",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00-11:00  i 13:00-14:00",
+                        "to": "19:00-20:00 na MS Teams"
+                    }
+                },
+                "building": "G",
+                "room": "G 215",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "52 340-85-41, 52 340-85-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "349",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "90631A32-BD60-4385-9F7B-2AD6F2748555",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ireneusz",
+        "lastName": "Olszewski",
+        "aliasUTP": [
+            "Ireneusz.Olszewski@pbs.edu.pl"
+        ],
+        "uid": "irek",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1056",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "monday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 004",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-20",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "416",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "319B7F62-62BF-4648-A07C-CD80F4B30DEE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ihor",
+        "lastName": "Orlovskyi",
+        "aliasUTP": [
+            "Ihor.Orlovskyi@pbs.edu.pl"
+        ],
+        "uid": "Ihor.Orlovskyi",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1344",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "thursday": {
+                        "from": "10-00",
+                        "to": "12-00"
+                    }
+                },
+                "building": "G",
+                "room": "G 214",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "514852434",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3423",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "366B4288-5732-4B19-AECF-D233615D5511",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Pawlicki",
+        "aliasUTP": [
+            "Marek.Pawlicki@pbs.edu.pl"
+        ],
+        "uid": "Marek.Pawlicki",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1110",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:30",
+                        "to": "10:15"
+                    },
+                    "monday": {
+                        "from": "12:00",
+                        "to": "13:15"
+                    }
+                },
+                "building": "C",
+                "room": "C 209",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3602",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "BE045325-606C-4238-888D-B04E08554A32",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mirosław",
+        "lastName": "Pisarek",
+        "aliasUTP": [
+            "Miroslaw.Pisarek@pbs.edu.pl"
+        ],
+        "uid": "mirekp",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1062",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "11:30"
+                    }
+                },
+                "building": "C",
+                "room": "C 008",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-20",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "417",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "41663574-180E-4CB6-84BC-3FA361121DA1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Arkadiusz",
+        "lastName": "Rajs",
+        "aliasUTP": [
+            "Arkadiusz.Rajs@pbs.edu.pl"
+        ],
+        "uid": "arajs",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1115",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "thursday": {
+                        "from": "8.00",
+                        "to": "9.45"
+                    }
+                },
+                "building": "C",
+                "room": "C 214",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1492",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "29157A6B-EA76-4227-B710-3EAF3A3A7B90",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Ratuszek",
+        "aliasUTP": [
+            "Malgorzata.Ratuszek@pbs.edu.pl"
+        ],
+        "uid": "mratuszek",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11, 14",
+                        "to": "12, 15"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-08",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "419",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "19B015F4-B767-4CAD-820D-C6151035C9AF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tadeusz",
+        "lastName": "Redelbach",
+        "aliasUTP": [
+            "Tadeusz.Redelbach@pbs.edu.pl"
+        ],
+        "uid": "tadred",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1290",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "G",
+                "room": "G 010a",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-85-28",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1990",
+                "floor": "PARTER",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "C9A8FC34-A1DB-4ED7-AD83-9B5F18183077",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Leonid",
+        "lastName": "Rusanov",
+        "aliasUTP": [
+            "leonid.rusanov@pbs.edu.pl"
+        ],
+        "uid": "leonid.rusanov",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1173",
+                "subUnitName": "Zakład Inteligentnych Systemów",
+                "consultations": {},
+                "building": "E",
+                "room": "E 001",
+                "subUnitCode": "05012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4194",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "7BC40521-4434-4462-95D7-B319A2821014",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Saganowski",
+        "aliasUTP": [
+            "Lukasz.Saganowski@pbs.edu.pl"
+        ],
+        "uid": "luksag",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1090",
+                "subUnitName": "Zakład Informatyki Stosowanej i Inżynierii Systemów",
+                "consultations": {
+                    "thursday": {
+                        "from": "10.00",
+                        "to": "11.30"
+                    }
+                },
+                "building": "C",
+                "room": "C 112",
+                "subUnitCode": "05011000000",
+                "phoneNumber": "52 340-83-73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2534",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "ED6664D3-81B4-40AE-89EB-714DA4C9E468",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marlena",
+        "lastName": "Sänger-Pisarek",
+        "aliasUTP": [
+            "sanger@pbs.edu.pl"
+        ],
+        "uid": "sanger",
+        "academicTitle": "lic.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1171",
+                "subUnitName": "Biuro Dziekana - WTIiE",
+                "consultations": {},
+                "building": "E",
+                "room": "E 012",
+                "subUnitCode": "05005000000",
+                "phoneNumber": "52 340-80-45",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2774",
+                "floor": "PARTER",
+                "job": "Starszy specjalista ds. dydaktycznych"
+            }
+        ],
+        "guid": "BF14C51C-7CC2-4D28-98EC-FD7625D3DAE4",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Skowron",
+        "aliasUTP": [
+            "Karolina.Skowron@pbs.edu.pl"
+        ],
+        "uid": "k.skowron",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1112",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {},
+                "building": "C",
+                "room": "C 211",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-83-29",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3028",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "534C13B8-0360-4A2C-BE70-D8B1644860C1",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Sulima",
+        "aliasUTP": [
+            "Mariusz.Sulima@pbs.edu.pl"
+        ],
+        "uid": "sulima",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1057",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {
+                    "friday": {
+                        "from": "7:00",
+                        "to": "8:30"
+                    }
+                },
+                "building": "C",
+                "room": "C 005",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "502272571",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2782",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "ED5A6161-DDC5-42EF-9E72-4669CBF04F68",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Surma",
+        "aliasUTP": [
+            "Dariusz.Surma@pbs.edu.pl"
+        ],
+        "uid": "surma",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1336",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 207",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340-81-68",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1553",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1442A70A-CFAE-4090-84FA-F6F09EBF4FBE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Damian",
+        "lastName": "Szczegielniak",
+        "aliasUTP": [
+            "Damian.Szczegielniak@pbs.edu.pl"
+        ],
+        "uid": "dszczeg",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:15",
+                        "to": "15:15"
+                    }
+                },
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2894",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D4CDD996-E740-42A8-9AAB-882A694F4249",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Szczegielniak",
+        "aliasUTP": [
+            "Marcin.Szczegielniak@pbs.edu.pl"
+        ],
+        "uid": "szczegielniakm",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1166",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {},
+                "building": "E",
+                "room": "E 009",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-81-73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2938",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "68AAF2D3-9DE3-43CE-AC51-3088513444E5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Leszek",
+        "lastName": "Szychta",
+        "aliasUTP": [
+            "Leszek.Szychta@pbs.edu.pl"
+        ],
+        "uid": "Leszek.Szychta",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1370",
+                "subUnitName": "Zakład Energoelektroniki, Maszyn i Napędów Elektrycznych",
+                "consultations": {
+                    "thursday": {
+                        "from": "8.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "G",
+                "room": "G 315",
+                "subUnitCode": "05010000000",
+                "phoneNumber": "608322007",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3607",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "04EE44ED-CBC5-4E4D-8345-423819AAD78C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Elżbieta",
+        "lastName": "Szychta",
+        "aliasUTP": [
+            "Elzbieta.Szychta@pbs.edu.pl"
+        ],
+        "uid": "Elzbieta.Szychta",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1314",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "8.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "G",
+                "room": "G 109",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "604 777 407",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3608",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "60911B0B-B142-4CD1-A761-142D27EB89AE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zdzisław",
+        "lastName": "Świderski",
+        "aliasUTP": [
+            "Zdzislaw.Swiderski@pbs.edu.pl"
+        ],
+        "uid": "Zdzislaw.Swiderski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1307",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 101",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340-85-09",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3268",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "E2A24402-F08A-4BF5-8F11-7F893F74AF89",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Talaśka",
+        "aliasUTP": [
+            "Tomasz.Talaska@pbs.edu.pl"
+        ],
+        "uid": "talaska",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Automatyka, Elektronika, Elektrotechnika I Technologie Kosmiczne",
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Kierownik Zakładu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1055",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:30"
+                    }
+                },
+                "building": "C",
+                "room": "C 003",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-89",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2532",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            },
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1055",
+                "subUnitName": "Zakład Sztucznej Inteligencji i Przetwarzania Sygnałów",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:30"
+                    }
+                },
+                "building": "C",
+                "room": "C 003",
+                "subUnitCode": "05014000000",
+                "phoneNumber": "52 340-81-89",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2532",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "891077D1-A226-46BC-9B51-A5A7FB9A6276",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Martyna",
+        "lastName": "Tarczewska",
+        "aliasUTP": [
+            "Martyna.Tarczewska@pbs.edu.pl"
+        ],
+        "uid": "martar003",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1172",
+                "subUnitName": "Zakład Systemów Teleinformatycznych",
+                "consultations": {},
+                "building": "E",
+                "room": "E 013",
+                "subUnitCode": "05013000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4070",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "51A298DB-6FBC-4B39-AC60-03DEDA8E2A0E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Malwina",
+        "lastName": "Tatarewicz",
+        "aliasUTP": [
+            "Malwina.Tatarewicz@pbs.edu.pl"
+        ],
+        "uid": "malmie000",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1291",
+                "subUnitName": "Centrum Techniczne WTIiE",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 011",
+                "subUnitCode": "05006000000",
+                "phoneNumber": "52 340 85 88",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4042",
+                "floor": "PARTER",
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "5AE39154-9652-425B-BCA1-38CAA7D3EFE6",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Walkowiak",
+        "aliasUTP": [
+            "Maciej.Walkowiak@pbs.edu.pl"
+        ],
+        "uid": "Maciej.Walkowiak",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1108",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:30 parz.; 12.45 niep",
+                        "to": "11:15 parz; 14:15 niep"
+                    }
+                },
+                "building": "C",
+                "room": "C 207",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-36",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3327",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "B07D4A39-41E0-4A95-8FE2-DB7A76497829",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Miłosz",
+        "lastName": "Węgierek",
+        "aliasUTP": [
+            "Milosz.Wegierek@pbs.edu.pl"
+        ],
+        "uid": "milweg002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1368",
+                "subUnitName": "Zakład Elektrotechniki i Elektroenergetyki",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "G",
+                "room": "G 313",
+                "subUnitCode": "05009000000",
+                "phoneNumber": "52 340 85 10",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3728",
+                "floor": "3 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "88FEA6D8-800E-4002-B64B-328B1AECF7AF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Witenberg",
+        "aliasUTP": [
+            "Anna.Witenberg@pbs.edu.pl"
+        ],
+        "uid": "Anna.Witenberg",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1115",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "friday": {
+                        "from": "12:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 214",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-36",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3374",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6818A7A6-F437-431C-BF10-3032423A0797",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tadeusz",
+        "lastName": "Wysocki",
+        "aliasUTP": [
+            "Tadeusz.Wysocki@pbs.edu.pl"
+        ],
+        "uid": "Tadeusz.Wysocki",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1121",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 220",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "523408392",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "367",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "CED1E789-48C1-447F-B357-EDA3EE533F13",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ihor",
+        "lastName": "Yavorskyy",
+        "aliasUTP": [
+            "ihor.yavorskyy@pbs.edu.pl"
+        ],
+        "uid": "javor",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1102",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 201",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-78",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1510",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "AEC91E7C-CED2-4AF3-BF8D-DD139677FC96",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Zabłudowski",
+        "aliasUTP": [
+            "Lukasz.Zabludowski@pbs.edu.pl"
+        ],
+        "uid": "zabludowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1106",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "monday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 205",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-83-96",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3105",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "05015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3105",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B2F082A6-DCDB-40B8-B87D-7598A958EEC9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Zakrzewski",
+        "aliasUTP": [
+            "Zbigniew.Zakrzewski@pbs.edu.pl"
+        ],
+        "uid": "zbizak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Informatyka Techniczna I Telekomunikacja"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1104",
+                "subUnitName": "Zakład Teletransmisji",
+                "consultations": {
+                    "monday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 203",
+                "subUnitCode": "05016000000",
+                "phoneNumber": "52 340-83-18",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1315",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "02889FAE-DD37-470D-85BE-4C69DF8801A4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Zdrojewski",
+        "aliasUTP": [
+            "Jaroslaw.Zdrojewski@pbs.edu.pl"
+        ],
+        "uid": "jaz",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Telekomunikacji, Informatyki i Elektrotechniki",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1120",
+                "subUnitName": "Zakład Techniki Cyfrowej",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 219",
+                "subUnitCode": "05015000000",
+                "phoneNumber": "52 340-81-30",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "425",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A4AE2355-9127-463E-AD4D-598AEBE41A98",
+        "academicTeacher": true
+    }
+]

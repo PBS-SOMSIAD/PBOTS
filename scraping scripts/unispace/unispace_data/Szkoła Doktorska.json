@@ -1,0 +1,34 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Rakowska",
+        "aliasUTP": [
+            "Agnieszka.Rakowska@pbs.edu.pl"
+        ],
+        "uid": "arakowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Szkoła Doktorska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "750",
+                "subUnitName": "Biuro Szkoły Doktorskiej",
+                "consultations": {},
+                "building": "A",
+                "room": "A 029",
+                "subUnitCode": "14001000000",
+                "phoneNumber": "52 374-93-30",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2869",
+                "floor": null,
+                "job": "Starszy specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "C455053E-404A-4DC3-B9C7-272E54A29054",
+        "academicTeacher": false
+    }
+]

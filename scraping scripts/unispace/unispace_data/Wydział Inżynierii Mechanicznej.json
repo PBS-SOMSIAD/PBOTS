@@ -1,0 +1,3497 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Aleksandrowicz",
+        "aliasUTP": [
+            "Piotr.Aleksandrowicz@pbs.edu.pl"
+        ],
+        "uid": "P.Aleksandrowicz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "966",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12",
+                        "to": "13"
+                    },
+                    "friday": {
+                        "from": "12",
+                        "to": "13"
+                    }
+                },
+                "building": "D",
+                "room": "D 110",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "523408242",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3319",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "9E19C9FC-F3F7-4076-948A-5B308FB29DFF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Balcer",
+        "aliasUTP": [
+            "Katarzyna.Balcer@pbs.edu.pl"
+        ],
+        "uid": "katbal002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "976",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {},
+                "building": "D",
+                "room": "D 119",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4044",
+                "floor": "1 PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "8222A4D1-DE77-498D-BD39-D63C51CAC152",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patrycja",
+        "lastName": "Bałdowska-Witos",
+        "aliasUTP": [
+            "Patrycja.Baldowska-Witos@pbs.edu.pl"
+        ],
+        "uid": "patbal000",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1801",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "H",
+                "room": "H B105a",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3617",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "2D74E21E-279C-4D5F-81E6-29B487F5E78C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Andrzej",
+        "lastName": "Bochat",
+        "aliasUTP": [
+            "Andrzej.Bochat@pbs.edu.pl"
+        ],
+        "uid": "bochat",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1782",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 109",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "626",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "B83F01EF-6A14-4F60-8FD7-18641C401906",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Boroński",
+        "aliasUTP": [
+            "Dariusz.Boronski@pbs.edu.pl"
+        ],
+        "uid": "daborpkm",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1021",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "monday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "D",
+                "room": "D 302",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-82-16",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "690",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "95FA30F8-AA26-4A2D-96F3-6AA24B4CB0B9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwester",
+        "lastName": "Borowski",
+        "aliasUTP": [
+            "Sylwester.Borowski@pbs.edu.pl"
+        ],
+        "uid": "sylwa",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1786",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12",
+                        "to": "13"
+                    },
+                    "monday": {
+                        "from": "12",
+                        "to": "13"
+                    }
+                },
+                "building": "H",
+                "room": "H 113",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "606476414",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2448",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "349137F3-7EA0-4E24-A586-6132D1ECB529",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Burzyński",
+        "aliasUTP": [
+            "Pawel.Burzynski@pbs.edu.pl"
+        ],
+        "uid": "pablito",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "998",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {},
+                "building": "D",
+                "room": "D 208",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-23",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2039",
+                "floor": "2 PIĘTRO",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "A24EADAC-C0CB-4246-A68E-1E2CEEC41E7F",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maria",
+        "lastName": "Chrapkowska",
+        "aliasUTP": [
+            "Maria.Chrapkowska@pbs.edu.pl"
+        ],
+        "uid": "mchrapkowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "961",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 105",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340-82-70",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3040",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy specjalista ds. dydakt. i studenckich"
+            }
+        ],
+        "guid": "C7A70FC2-2819-4859-ACAF-66D770C5366C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Helena",
+        "lastName": "Ciara",
+        "aliasUTP": [
+            "Helena.Ciara@pbs.edu.pl"
+        ],
+        "uid": "hel",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "961",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 105",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "523408273",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "702",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "DBDEBA18-9C52-4293-9983-57B3DB255E9C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Artur",
+        "lastName": "Cichański",
+        "aliasUTP": [
+            "Artur.Cichanski@pbs.edu.pl"
+        ],
+        "uid": "arci",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1008",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 217",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-35",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "689",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E1CBBC8B-9DE2-4791-8FF1-9153DB0C0F3E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Czapla",
+        "aliasUTP": [
+            "Joanna.Czapla@pbs.edu.pl"
+        ],
+        "uid": "Joanna.Czapla",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "982",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 124",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340-82-44",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3236",
+                "floor": "1 PIĘTRO",
+                "job": "Główny specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "31096474-B7F2-4704-8EAB-440880F8D0E2",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Czyżewski",
+        "aliasUTP": [
+            "Piotr.Czyzewski@pbs.edu.pl"
+        ],
+        "uid": "p.czyzewski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1690",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "friday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    },
+                    "monday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 009",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52340-87-19",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3211",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "30AA7E54-A31B-4E2B-8EDB-7E029E17FCDF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Danilewicz",
+        "aliasUTP": [
+            "dorota.danilewicz@pbs.edu.pl"
+        ],
+        "uid": "ddanilewicz",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "957",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 102",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340-82-40",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3233",
+                "floor": "1 PIĘTRO",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "B9383445-969C-4FB1-AA90-D76DBEE685B2",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Domanowski",
+        "aliasUTP": [
+            "Piotr.Domanowski@pbs.edu.pl"
+        ],
+        "uid": "pedom",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1677",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "14.00",
+                        "to": "15.15"
+                    }
+                },
+                "building": "H",
+                "room": "H 003",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1263",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "3C2ECF0E-0901-4169-BE01-FBB2A2EDD95C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mateusz",
+        "lastName": "Fankidejski",
+        "aliasUTP": [
+            " Mateusz.Fankidejski@pbs.edu.pl"
+        ],
+        "uid": "matfan000",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4165",
+                "floor": null,
+                "job": "Technik"
+            }
+        ],
+        "guid": "ACC56CAB-D5D6-494A-9E59-387B87937254",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Frelichowska",
+        "aliasUTP": [
+            "Ewa.Frelichowska@pbs.edu.pl"
+        ],
+        "uid": "freliche",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "982",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 124",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340-82-82",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2926",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "70AF6AE4-3901-46F5-A569-2D110409CD78",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Gajewski",
+        "aliasUTP": [
+            " Maciej.Gajewski@pbs.edu.pl"
+        ],
+        "uid": "macgaj001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1785",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 112",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "601259662",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4237",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4316",
+                "floor": null,
+                "job": "Technik"
+            }
+        ],
+        "guid": "511EBAEC-1499-499A-95F9-6E36F97F9B7D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Gniot",
+        "aliasUTP": [
+            "Maciej.Gniot@pbs.edu.pl"
+        ],
+        "uid": "Maciej.Gniot",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "973",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    }
+                },
+                "building": "D",
+                "room": "D 115",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-84-81",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3381",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E45CF52B-BF79-4881-9986-2DEFFDD4C867",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Gromnicki",
+        "aliasUTP": [
+            "Michal.Gromnicki@pbs.edu.pl"
+        ],
+        "uid": "micgro006",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1785",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "thursday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "H",
+                "room": "H 112",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4105",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1785",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {},
+                "building": "H",
+                "room": "H 112",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4166",
+                "floor": "I PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "464F1C60-2BD3-4E26-84AC-71093BDE19D8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Jarzyna",
+        "aliasUTP": [
+            "Tomasz.Jarzyna@pbs.edu.pl"
+        ],
+        "uid": "tjarzyna",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1010",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "friday": {
+                        "from": "9",
+                        "to": "11"
+                    }
+                },
+                "building": "D",
+                "room": "D 219",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2773",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "54C48FC2-6A42-4C87-B307-34F2CC9B1A3C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Jasik",
+        "aliasUTP": [
+            "Jaroslaw.Jasik@pbs.edu.pl"
+        ],
+        "uid": "jarjas002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1683",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "H",
+                "room": "H 005",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "84-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3565",
+                "floor": "PARTER",
+                "job": "Asystent"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1683",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12",
+                        "to": "14"
+                    }
+                },
+                "building": "H",
+                "room": "H 005",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3565",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "7085FEFD-0F8C-4008-8C7A-0D04974ECFE4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Kałaczyński",
+        "aliasUTP": [
+            "Tomasz.Kalaczynski@pbs.edu.pl"
+        ],
+        "uid": "kalaczynskit",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "968",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "friday": {
+                        "from": "08.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "D",
+                "room": "D 112",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-86",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2924",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "87F1A0BB-DE33-4BA4-8B3B-5C126936D521",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Karolewska",
+        "aliasUTP": [
+            "Karolina.Karolewska@pbs.edu.pl"
+        ],
+        "uid": "karkar003",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "967",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "monday": {
+                        "from": "12",
+                        "to": "14"
+                    }
+                },
+                "building": "D",
+                "room": "D 111",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-86-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3541",
+                "floor": "1 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AE7C518F-D295-4FE1-87A0-ABE07250ABCF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Kasner",
+        "aliasUTP": [
+            "Robert.Kasner@pbs.edu.pl"
+        ],
+        "uid": "Robert.Kasner",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1777",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "thursday": {
+                        "from": "15.00",
+                        "to": "16.00"
+                    }
+                },
+                "building": "H",
+                "room": "H 104",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3940",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "EA30583B-FE7A-4AAF-BB32-29994B604057",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jerzy",
+        "lastName": "Kaszkowiak",
+        "aliasUTP": [
+            "Jerzy.Kaszkowiak@pbs.edu.pl"
+        ],
+        "uid": "kaszk",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1786",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9.00",
+                        "to": "10.00"
+                    },
+                    "monday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "H",
+                "room": "H 113",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "606722815",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1952",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F4AE307A-E3A0-4417-BE59-3403F473BCA3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Kiełpińska",
+        "aliasUTP": [
+            " Natalia.Kielpinska@pbs.edu.pl"
+        ],
+        "uid": "natkon002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1783",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "12:15"
+                    },
+                    "monday": {
+                        "from": "10:30",
+                        "to": "11:15"
+                    }
+                },
+                "building": "H",
+                "room": "H 110",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52-340-87-26",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3803",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "C04D8825-BE21-4E02-AC9B-144293F4F051",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Kolber",
+        "aliasUTP": [
+            "Piotr.Kolber@pbs.edu.pl"
+        ],
+        "uid": "pkolber",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1773",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "H",
+                "room": "H 102",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "713",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "75285B0E-9488-47AC-85AA-7C541261E320",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Artur",
+        "lastName": "Kościuszko",
+        "aliasUTP": [
+            "Artur.Kosciuszko@pbs.edu.pl"
+        ],
+        "uid": "artkos",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1695",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 012",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-44",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3266",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F5276B5D-19CE-4B9E-9EFF-F07F6144B77A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Kotyk",
+        "aliasUTP": [
+            "Maciej.Kotyk@pbs.edu.pl"
+        ],
+        "uid": "mackot001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1022",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {},
+                "building": "D",
+                "room": "D 303",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340 82 12",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3331",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "8FA82BFF-107D-4E08-8402-ABFBAED2C964",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daria",
+        "lastName": "Kowalczyk",
+        "aliasUTP": [
+            "daria.kowalczyk@pbs.edu.pl"
+        ],
+        "uid": "daria.kowalczyk",
+        "academicTitle": "lic.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "981",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 123",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340 82 07",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3748",
+                "floor": "1 PIĘTRO",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "B5CB0B9B-934D-49B5-B90B-DA99CF0CAA5A",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Weronika",
+        "lastName": "Kruszelnicka",
+        "aliasUTP": [
+            "weronika.kruszelnicka@pbs.edu.pl"
+        ],
+        "uid": "werkru001",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1777",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 104",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3532",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "E52D84AF-9B98-4AAD-8E64-031BD5B1FC05",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Kukliński",
+        "aliasUTP": [
+            "Mariusz.Kuklinski@pbs.edu.pl"
+        ],
+        "uid": "mariusz1966",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1007",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "13:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 216",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "514-832-911",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2908",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A6DA6BEA-C67F-4020-B102-57B744BFD76B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Kuliś",
+        "aliasUTP": [
+            "Ewa.Kulis@pbs.edu.pl"
+        ],
+        "uid": "ekukla",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "976",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "D",
+                "room": "D 119",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-51",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3207",
+                "floor": "1 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "6F390225-C3BB-4F7C-8333-97491D291A0B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paulina",
+        "lastName": "Kwela",
+        "aliasUTP": [
+            "paulina.kwela@pbs.edu.pl"
+        ],
+        "uid": "paulina.kwela",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "961",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 105",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340 82 70",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4007",
+                "floor": "1 PIĘTRO",
+                "job": "Referent ds. administracyjnych"
+            }
+        ],
+        "guid": "6C804212-881D-46A6-8D5A-0E66AC2A4F33",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bogdan",
+        "lastName": "Landowski",
+        "aliasUTP": [
+            "Bogdan.Landowski@pbs.edu.pl"
+        ],
+        "uid": "lbogdan",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "972",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "friday": {
+                        "from": "11:15",
+                        "to": "13:15"
+                    }
+                },
+                "building": "D",
+                "room": "D 116",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1340",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D2FCD8D9-75C3-4543-BAE5-BED18A659566",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Lipski",
+        "aliasUTP": [
+            "Adam.Lipski@pbs.edu.pl"
+        ],
+        "uid": "adlippkm",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1042",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {
+                    "friday": {
+                        "from": "13:00",
+                        "to": "13:45"
+                    }
+                },
+                "building": "D",
+                "room": "D 323",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1473",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "5F7257C1-0C82-4FE5-AE1C-60567677BBE6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Lis",
+        "aliasUTP": [
+            "Zbigniew.Lis@pbs.edu.pl"
+        ],
+        "uid": "lisekpkm",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1712",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {},
+                "building": "H",
+                "room": "H A002b",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "52 340-82-70",
+                "occupationalGroup": "Prac N-A.",
+                "ewidNo": "2334",
+                "floor": "PARTER",
+                "job": "Starszy specjalista badawczo - techniczny"
+            }
+        ],
+        "guid": "F3FE7491-44ED-4F22-9C5F-4697CAE13707",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Liss",
+        "aliasUTP": [
+            "Michal.Liss@pbs.edu.pl"
+        ],
+        "uid": "Michal.Liss",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "971",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "monday": {
+                        "from": "08:30",
+                        "to": "09:30"
+                    }
+                },
+                "building": "D",
+                "room": "D 114",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-84",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3175",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "97D60920-528F-417C-93BF-84925BB364FA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Łaz",
+        "aliasUTP": [
+            "Katarzyna.Laz@pbs.edu.pl"
+        ],
+        "uid": "kasial",
+        "academicTitle": "lic.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "961",
+                "subUnitName": "Biuro Dziekana - WIM",
+                "consultations": {},
+                "building": "D",
+                "room": "D 105",
+                "subUnitCode": "03028000000",
+                "phoneNumber": "52 340-82-70",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "1511",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "540E6A17-D9EC-4BE0-9262-4C9D697E1E94",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Łukasiewicz",
+        "aliasUTP": [
+            "Marcin.Lukasiewicz@pbs.edu.pl"
+        ],
+        "uid": "mlukas",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "971",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 114",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-84",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2445",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6115F00B-B0D6-4936-8EB0-C7BD4F50B42F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Maćkowiak",
+        "aliasUTP": [
+            "Pawel.Mackowiak@pbs.edu.pl"
+        ],
+        "uid": "pawmac001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1021",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "thursday": {
+                        "from": "9:45",
+                        "to": "11:15"
+                    }
+                },
+                "building": "D",
+                "room": "D 302",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340 82 99",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3395",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "AC6D1CE1-5F16-44FB-B2B3-AA692C2DFF4E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Majewska-Laks",
+        "aliasUTP": [
+            "Kinga.Majewska-Laks@pbs.edu.pl"
+        ],
+        "uid": "kinmaj001",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1695",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {},
+                "building": "H",
+                "room": "H 012",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-44",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3658",
+                "floor": "PARTER",
+                "job": "Technik"
+            }
+        ],
+        "guid": "40CE2BCF-3E75-4CE2-8B27-8C4247AB6031",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dawid",
+        "lastName": "Marciniak",
+        "aliasUTP": [
+            "Dawid.Marciniak@pbs.edu.pl"
+        ],
+        "uid": "dawmar000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1696",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "wednesday": {
+                        "from": "14",
+                        "to": "16"
+                    }
+                },
+                "building": "H",
+                "room": "H 013a",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "523408719",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3479",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A928F5B4-0DBF-45D8-B40D-D2490A9C6FE3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marietta",
+        "lastName": "Markiewicz",
+        "aliasUTP": [
+            "marietta.markiewicz@pbs.edu.pl"
+        ],
+        "uid": "marmar000",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "967",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 111",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340 8658",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3437",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "DB1518CD-D19D-4CEA-A5C0-1B187FFFAA56",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adrian",
+        "lastName": "Marszałkowski",
+        "aliasUTP": [
+            "Adrian.Marszalkowski@pbs.edu.pl"
+        ],
+        "uid": "adrmar003",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4336",
+                "floor": null,
+                "job": "Technik"
+            }
+        ],
+        "guid": "507E06FD-1C40-4D29-B030-9724594C6DD3",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Mazurkiewicz",
+        "aliasUTP": [
+            "Adam.Mazurkiewicz@pbs.edu.pl"
+        ],
+        "uid": "fazipkm",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Biomedyczna",
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1801",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "monday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "H",
+                "room": "H B105a",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-82-29",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2270",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "578792CB-AB56-4C02-AD02-780D7C3DF96F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mieczysław",
+        "lastName": "Mieczysławski",
+        "aliasUTP": [
+            "Mieczyslaw.Mieczyslawski@pbs.edu.pl"
+        ],
+        "uid": "Mieczyslaw.Mieczyslawski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03026000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3426",
+                "floor": null,
+                "job": "samodzielny elektronik"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03026000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3426",
+                "floor": null,
+                "job": "samodzielny elektronik"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1712",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {},
+                "building": "H",
+                "room": "H A002b",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "3408223",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3426",
+                "floor": null,
+                "job": "samodzielny elektronik"
+            }
+        ],
+        "guid": "85EB675F-CC65-4012-9CF8-9A90CDCD4BA6",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Stanisław",
+        "lastName": "Mroziński",
+        "aliasUTP": [
+            "Stanislaw.Mrozinski@pbs.edu.pl"
+        ],
+        "uid": "stmpkm",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Laboratorium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "933",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 007",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "52 340-82-64",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "679",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "E004431D-3C78-4AA7-A047-8BD45C267DDE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Mroziński",
+        "aliasUTP": [
+            "Adam.Mrozinski@pbs.edu.pl"
+        ],
+        "uid": "adammroz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1779",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 106",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "52 340-84-53",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1571",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F415C4FA-6816-4197-9809-4D36F8F2265E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Muślewski",
+        "aliasUTP": [
+            "Lukasz.Muslewski@pbs.edu.pl"
+        ],
+        "uid": "lukasz.m",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "970",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    },
+                    "saturday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "monday": {
+                        "from": "11.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "D",
+                "room": "D 113a",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2745",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "970",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    },
+                    "saturday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "monday": {
+                        "from": "11.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "D",
+                "room": "D 113a",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2745",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "7C96C1EE-53C0-4AAD-841D-6A298CB45AF3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Nowicki",
+        "aliasUTP": [
+            "Krzysztof.Nowicki@pbs.edu.pl"
+        ],
+        "uid": "knowicki",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1784",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 111",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1544",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "AE0D09F6-71F4-41E8-8482-954B2A4864E9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bartosz",
+        "lastName": "Nowinka",
+        "aliasUTP": [
+            "Bartosz.Nowinka@pbs.edu.pl"
+        ],
+        "uid": "barnow005",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1675",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {},
+                "building": "H",
+                "room": "H 002",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "523408255",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3722",
+                "floor": "PARTER",
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "E5442C57-725C-486B-B9FC-D789260B414B",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Paczkowski",
+        "aliasUTP": [
+            "Tomasz.Paczkowski@pbs.edu.pl"
+        ],
+        "uid": "tompacz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1681",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 004",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-33",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "724",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "FC106C65-4401-4A75-A9DD-E3F34C0B8CCD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Pejkowski",
+        "aliasUTP": [
+            "Lukasz.Pejkowski@pbs.edu.pl"
+        ],
+        "uid": "l.pejkowski",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1012",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 221",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-54",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3150",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "05D3EFC4-E933-4785-A4DE-734684AFD23D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Pepliński",
+        "aliasUTP": [
+            "Karol.Peplinski@pbs.edu.pl"
+        ],
+        "uid": "karolpep",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1689",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 008",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "+48 52 340 8739",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2893",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B5B3CEFD-75CC-44A5-A6B5-6FCC090B6EC4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daniel",
+        "lastName": "Perczyński",
+        "aliasUTP": [
+            "Daniel.Perczynski@pbs.edu.pl"
+        ],
+        "uid": "perkol",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1772",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 101",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-95",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "680",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "12B7B0D7-D913-4F3B-968F-04F79B7AD9EA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Piasecka",
+        "aliasUTP": [
+            "Izabela.Piasecka@pbs.edu.pl"
+        ],
+        "uid": "izapia000",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1731",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "wednesday": {
+                        "from": "09:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "H",
+                "room": "H B004a",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "+48 52 340-84-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3427",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "46E7A03D-33FA-4B3A-88B3-53150529DB47",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Piątkowski",
+        "aliasUTP": [
+            "Tomasz.Piatkowski@pbs.edu.pl"
+        ],
+        "uid": "topiat",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1002",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "11.30",
+                        "to": "13.30"
+                    }
+                },
+                "building": "D",
+                "room": "D 211",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-81-45",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "428",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "422F1BD1-0149-4C81-8344-F5DDF556B435",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Piotrowski",
+        "aliasUTP": [
+            "Michal.Piotrowski@pbs.edu.pl"
+        ],
+        "uid": "m.piotrowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1027",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {
+                    "friday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 308",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3167",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B5D81B7D-2BBC-4C75-93D6-0080C0BC5E23",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dominika",
+        "lastName": "Płaczek",
+        "aliasUTP": [
+            "Dominika.Placzek@pbs.edu.pl"
+        ],
+        "uid": "dompla002",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1039",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 320",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340 87 10",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3717",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7663B75E-BAFF-49C8-B5F0-4B4E27221EB3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Polasik",
+        "aliasUTP": [
+            "Robert.Polasik@pbs.edu.pl"
+        ],
+        "uid": "robpol",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1683",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:10",
+                        "to": "15:10"
+                    }
+                },
+                "building": "H",
+                "room": "H 005",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-84-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1578",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D8B00A43-6458-4255-8A05-AD5533F277A6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Rakowski",
+        "aliasUTP": [
+            "Jaroslaw.Rakowski@pbs.edu.pl"
+        ],
+        "uid": "rak",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1741",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {},
+                "building": "H",
+                "room": "H C005",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-8733",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "1572",
+                "floor": "PARTER",
+                "job": "Technik"
+            }
+        ],
+        "guid": "CD7D8E10-08C9-4026-9BE0-7DDFAA0C6C37",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mateusz",
+        "lastName": "Rojewski",
+        "aliasUTP": [
+            "mateusz.rojewski@pbs.edu.pl"
+        ],
+        "uid": "matroj000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1690",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9",
+                        "to": "11"
+                    }
+                },
+                "building": "H",
+                "room": "H 009",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "523408222",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3775",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "CC73861E-1FE5-493E-A3CC-889C1FED09C2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Janusz",
+        "lastName": "Sempruch",
+        "aliasUTP": [
+            "Janusz.Sempruch@pbs.edu.pl"
+        ],
+        "uid": "semjan",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "996",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "friday": {
+                        "from": "10.00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 206",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-79",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "653",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "1F5D2C7B-3FBE-4157-8EDC-6D10F66DCF65",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Andrzej",
+        "lastName": "Skibicki",
+        "aliasUTP": [
+            "Andrzej.Skibicki@pbs.edu.pl"
+        ],
+        "uid": "askibic",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1029",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "monday": {
+                        "from": "1315",
+                        "to": "1515"
+                    }
+                },
+                "building": "D",
+                "room": "D 310",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-87-28",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "683",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BED698AB-E1FE-4F02-85F3-0CFC3E0884C7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Skibicki",
+        "aliasUTP": [
+            "Dariusz.Skibicki@pbs.edu.pl"
+        ],
+        "uid": "darski",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Dyrektor Szkoły Doktorskiej"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1000",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "friday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 210",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-47",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1229",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1000",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "friday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 210",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-47",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1229",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "BF7C191F-C6AB-45FB-9C41-9E8F1C208005",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Emil",
+        "lastName": "Smyk",
+        "aliasUTP": [
+            "emil.smyk@pbs.edu.pl"
+        ],
+        "uid": "emismy001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1004",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11",
+                        "to": "13"
+                    }
+                },
+                "building": "D",
+                "room": "D 213",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3455",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "4322558A-D041-4037-9103-AE9DB9035A5D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Sołtysiak",
+        "aliasUTP": [
+            "Agnieszka.Soltysiak@pbs.edu.pl"
+        ],
+        "uid": "agnmic002",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1040",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "11",
+                        "to": "13"
+                    }
+                },
+                "building": "D",
+                "room": "D 321",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340 87 11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3542",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "457DD985-942C-4883-87A9-1104EA4C2C05",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Sołtysiak",
+        "aliasUTP": [
+            "Robert.Soltysiak@pbs.edu.pl"
+        ],
+        "uid": "robsol",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1023",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 304",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-82-78",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3008",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "8E4E6ED6-A499-4161-95A4-74A8AB670355",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Radosław",
+        "lastName": "Stachowiak",
+        "aliasUTP": [
+            "radoslaw.stachowiak@pbs.edu.pl"
+        ],
+        "uid": "radsta005",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "976",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {},
+                "building": "D",
+                "room": "D 119",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3983",
+                "floor": "1 PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "BB33FE86-626F-4004-B795-90AF8B88A288",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Stopel",
+        "aliasUTP": [
+            "Michal.Stopel@pbs.edu.pl"
+        ],
+        "uid": "Michal.Stopel",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1011",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "D",
+                "room": "D 220",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-02",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3318",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "CF62B7D0-50B1-46F9-A952-40365F32A8C9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Przemysław",
+        "lastName": "Strzelecki",
+        "aliasUTP": [
+            "Przemyslaw.Strzelecki@pbs.edu.pl"
+        ],
+        "uid": "p.strzelecki",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "993",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 203",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-82-80",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3352",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C69F8BFF-6AD3-41C7-8734-D85F3D5D1D69",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Swacha",
+        "aliasUTP": [
+            "Piotr.Swacha@pbs.edu.pl"
+        ],
+        "uid": "pioswa002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1712",
+                "subUnitName": "Laboratorium Badań Materiałów i Konstrukcji",
+                "consultations": {},
+                "building": "H",
+                "room": "H A002b",
+                "subUnitCode": "03026000000",
+                "phoneNumber": "52 340-82-70",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3764",
+                "floor": "PARTER",
+                "job": "Technik"
+            }
+        ],
+        "guid": "51FE0534-0F6D-4BDD-8DE6-ED6035E266B7",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Sykutera",
+        "aliasUTP": [
+            "Dariusz.Sykutera@pbs.edu.pl"
+        ],
+        "uid": "sykutera",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1693",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "friday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 011",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-82-24",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "682",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "4111B1AF-4FD3-4887-AEF5-8AB69557AC04",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Szewczykowski",
+        "aliasUTP": [
+            "Piotr.Szewczykowski@pbs.edu.pl"
+        ],
+        "uid": "Piotr.Szewczykowski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": null,
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-44",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3332",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "71A4BA07-2E61-42B3-BAB4-34DF0ECC91A0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sandra",
+        "lastName": "Śmigiel",
+        "aliasUTP": [
+            "Sandra.Smigiel@pbs.edu.pl"
+        ],
+        "uid": "sansmi000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1088",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    },
+                    "tuesday": {
+                        "from": "09:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "C",
+                "room": "C 110",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-83-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3421",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1026",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    },
+                    "tuesday": {
+                        "from": "09:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "D",
+                "room": "D 307",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "52 340-83-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3421",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3121441B-BF38-48E2-9B5D-7FDC05BA40AB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Tomaszewski",
+        "aliasUTP": [
+            "Tomasz.Tomaszewski@pbs.edu.pl"
+        ],
+        "uid": "tomaszewski",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "995",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "D",
+                "room": "D 205",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "52 340-86-72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3003",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "58C439F9-9FC0-4814-9A17-30618544A3C8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Andrzej",
+        "lastName": "Tomporowski",
+        "aliasUTP": [
+            "Andrzej.Tomporowski@pbs.edu.pl"
+        ],
+        "uid": "a.tomporowski",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1779",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "friday": {
+                        "from": "8.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "H",
+                "room": "H 106",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "52 340-82-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2947",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "00D611DF-3A12-483A-98BE-A68FA1CA3163",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Trepczyńska-Łent",
+        "aliasUTP": [
+            "Malgorzata.Trepczynska-Lent@pbs.edu.pl"
+        ],
+        "uid": "trema",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Materiałowa",
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1783",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "friday": {
+                        "from": "11:30",
+                        "to": "13:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 110",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-26",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "685",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "325112C6-D419-4A9C-A780-16933609593F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Troszyński",
+        "aliasUTP": [
+            "Adam.Troszynski@pbs.edu.pl"
+        ],
+        "uid": "adatro000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1683",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {
+                    "monday": {
+                        "from": "9.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "H",
+                "room": "H 005",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-84-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3339",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "8050CF89-3FD5-46BF-AD7E-E7E6D669F70C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Urbaniak",
+        "aliasUTP": [
+            "Wojciech.Urbaniak@pbs.edu.pl"
+        ],
+        "uid": "Wojciech.Urbaniak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1716",
+                "subUnitName": "Katedra Mechaniki i Metod Komputerowych",
+                "consultations": {},
+                "building": "H",
+                "room": "H B002",
+                "subUnitCode": "03021000000",
+                "phoneNumber": "340 87 59",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3577",
+                "floor": "PARTER",
+                "job": "Starszy mechanik"
+            }
+        ],
+        "guid": "2F328FC1-B6BA-4C72-9E75-8A05E3592540",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patrycja",
+        "lastName": "Walichnowska",
+        "aliasUTP": [
+            "Patrycja.Walichnowska@pbs.edu.pl"
+        ],
+        "uid": "paturb003",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1779",
+                "subUnitName": "Katedra Inż. Odnawialnych Źródeł Energii i Systemów Tech.",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "H",
+                "room": "H 106",
+                "subUnitCode": "03029000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3995",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A184B875-9764-42E9-8ACE-A3C5C4008B3E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwester",
+        "lastName": "Wawrzyniak",
+        "aliasUTP": [
+            "Sylwester.Wawrzyniak@pbs.edu.pl"
+        ],
+        "uid": "sylas",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1773",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.30",
+                        "to": "11.30"
+                    },
+                    "tuesday": {
+                        "from": "11.30",
+                        "to": "12.30"
+                    }
+                },
+                "building": "H",
+                "room": "H 102",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1594",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6C5487F3-6502-4FE6-8A4A-AA15A1AE8B3D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Wilczarska",
+        "aliasUTP": [
+            "Joanna.Wilczarska@pbs.edu.pl"
+        ],
+        "uid": "asiulazol",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "977",
+                "subUnitName": "Katedra Eksploatacji Maszyn i Transportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "D",
+                "room": "D 120",
+                "subUnitCode": "03020000000",
+                "phoneNumber": "52 340-82-83",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2682",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B2CCBA9F-ADE4-4E11-9E7D-1AC8DE245EBF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Szymon",
+        "lastName": "Wyrąbkiewicz",
+        "aliasUTP": [
+            "szymon.wyrabkiewicz@pbs.edu.pl",
+            "szymon.wyrabkiewicz@pbs.edu.pl"
+        ],
+        "uid": "szywyr001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "03030000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4315",
+                "floor": null,
+                "job": "Technik"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1785",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 112",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "666595593",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4238",
+                "floor": "I PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "498474C7-A5B3-4CA5-950B-E46CE1257F92",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Zastempowski",
+        "aliasUTP": [
+            "Marcin.Zastempowski@pbs.edu.pl"
+        ],
+        "uid": "zastemp",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1774",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 103",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-49, 601 05 05 15",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3097",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            },
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1774",
+                "subUnitName": "Katedra Mechatroniki i Maszyn Roboczych",
+                "consultations": {
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "H",
+                "room": "H 103",
+                "subUnitCode": "03030000000",
+                "phoneNumber": "52 340-82-49, 601 05 05 15",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3097",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "BFD236BF-6D78-4F89-B2F7-C697FB44FC5E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Zawadzki",
+        "aliasUTP": [
+            "Robert.Zawadzki@pbs.edu.pl"
+        ],
+        "uid": "zawada",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1721",
+                "subUnitName": "Katedra Technik Wytwarzania",
+                "consultations": {},
+                "building": "H",
+                "room": "H A002",
+                "subUnitCode": "03024000000",
+                "phoneNumber": "52 340-87-36",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2318",
+                "floor": "PARTER",
+                "job": "Technik"
+            }
+        ],
+        "guid": "0E66E5CD-1916-423B-8AF6-CB8651EE7E33",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Ziółkowski",
+        "aliasUTP": [
+            "wojciech.ziolkowski@pbs.edu.pl"
+        ],
+        "uid": "wojzio002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Inżynierii Mechanicznej",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1038",
+                "subUnitName": "Katedra Podstaw Konstrukcji Maszyn i Inżynierii Biomedycznej",
+                "consultations": {},
+                "building": "D",
+                "room": "D 318",
+                "subUnitCode": "03023000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3980",
+                "floor": "3 PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "F63CC422-FB5A-4327-B7AA-6B9D561E1BBC",
+        "academicTeacher": false
+    }
+]

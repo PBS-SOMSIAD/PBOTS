@@ -1,0 +1,1915 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Androsiuk",
+        "aliasUTP": [
+            "Joanna.Androsiuk-Perkowska@pbs.edu.pl"
+        ],
+        "uid": "Joanna.Androsiuk-Perkowska",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4239",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F71834BB-8859-4701-938F-59B457E717D8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksander",
+        "lastName": "Araszkiewicz",
+        "aliasUTP": [
+            "aleksander.araszkiewicz@pbs.edu.pl"
+        ],
+        "uid": "aleksander.araszkiewicz",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4009",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "392DAB35-6E02-4525-8EFF-0A93502C3674",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mateusz",
+        "lastName": "Badura",
+        "aliasUTP": [
+            "mateusz.badura@pbs.edu.pl"
+        ],
+        "uid": "mateusz.badura",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4338",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "7FE57C87-C088-4C5C-93CA-23998C83C38E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Barczykowska",
+        "aliasUTP": [
+            "Ewa.Barczykowska@pbs.edu.pl"
+        ],
+        "uid": "Ewa.Barczykowska",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4266",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3091EE00-9D21-4955-AEAB-FE26AAC96576",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sławomir",
+        "lastName": "Biedrzycki",
+        "aliasUTP": [
+            "slawomir.biedrzycki@pbs.edu.pl"
+        ],
+        "uid": "slawomir.biedrzycki",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4187",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0F79CB2E-F4B9-4B7D-BE03-6C4E398C5FE5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Julita",
+        "lastName": "Birska",
+        "aliasUTP": [
+            "Julita.Birska@pbs.edu.pl"
+        ],
+        "uid": "Julita.Birska",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4296",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6329115C-79CA-4806-B8C3-88CC4A8263CA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Blok",
+        "aliasUTP": [
+            "Maciej.Blok@pbs.edu.pl"
+        ],
+        "uid": "Maciej.Blok",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4121",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "684726DE-36FA-402F-A90F-0EB5269B2741",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jędrzej",
+        "lastName": "Borowczak",
+        "aliasUTP": [
+            "Jedrzej.Borowczak@pbs.edu.pl"
+        ],
+        "uid": "Jedrzej.Borowczak",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4354",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5248929B-FD80-41D4-88C2-5F2BD76CCBBE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marian",
+        "lastName": "Burysz",
+        "aliasUTP": [
+            "Marian.Burysz@pbs.edu.pl"
+        ],
+        "uid": "Marian.Burysz",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4274",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7DD12475-5BE5-49B4-9CA7-0ACBEA7CAD35",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Butowt",
+        "aliasUTP": [
+            "Rafal.Butowt@pbs.edu.pl"
+        ],
+        "uid": "Rafal.Butowt",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4058",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F84D39EE-890B-4AD2-92CF-24CE077818CA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Dalke",
+        "aliasUTP": [
+            "Krzysztof.Dalke@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Dalke",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4119",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D44182EB-1063-488D-B5BC-FB610BD54E2A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Dmitruk",
+        "aliasUTP": [
+            "Katarzyna.Dmitruk@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Dmitruk",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "4718",
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": "A",
+                "room": "R10",
+                "subUnitCode": "17002000000",
+                "phoneNumber": "52 374 9602",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4288",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "151E4831-62B9-476D-9D1C-15D2C597E098",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Dombek",
+        "aliasUTP": [
+            "Malgorzata.Dombek@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Dombek",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "16:00",
+                        "to": "18:00"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4202",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "99CC03B8-1DD5-40CE-955B-11FE574C0A16",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Furtak",
+        "aliasUTP": [
+            "Jacek.Furtak@pbs.edu.pl"
+        ],
+        "uid": "Jacek.Furtak",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4060",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "571B461F-206C-4F5B-9FD6-DF7C04D35AAD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Gajewski",
+        "aliasUTP": [
+            "Piotr.Gajewski@pbs.edu.pl"
+        ],
+        "uid": "Piotr.Gajewski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {
+                    "thursday": {
+                        "from": "17:45",
+                        "to": "18:45"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4225",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2CEF9B26-C4E4-406F-A46B-6798BB60F9D3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Gałązka",
+        "aliasUTP": [
+            "malgorzata.galazka@pbs.edu.pl"
+        ],
+        "uid": "malgorzata.galazka",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Kierownik Centrum Symulacji Medycznych"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "4720",
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": "A",
+                "room": "R12",
+                "subUnitCode": "17002000000",
+                "phoneNumber": "523749602",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4199",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "04E1EDF2-F4A6-4D86-981D-A856174CD25B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Grabiec",
+        "aliasUTP": [
+            "Marek.Grabiec@pbs.edu.pl"
+        ],
+        "uid": "Marek.Grabiec",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4124",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "732C5BC1-512D-4F42-8AFC-1AD9BC06573E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Gruszczyński",
+        "aliasUTP": [
+            "Jacek.Gruszczynski@pbs.edu.pl"
+        ],
+        "uid": "Jacek.Gruszczynski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4203",
+                "floor": null,
+                "job": "Technik"
+            }
+        ],
+        "guid": "894297C9-59B7-4814-AF06-2ABAE7493D9C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Harat",
+        "aliasUTP": [
+            "maciej.harat@pbs.edu.pl"
+        ],
+        "uid": "maciej.harat",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4052",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A1E90630-A0FA-405B-A4A6-15BD755A5910",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Harat",
+        "aliasUTP": [
+            "Marek.Harat@pbs.edu.pl"
+        ],
+        "uid": "Marek.Harat",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4008",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "A7AD710E-60F5-475B-A8CA-0084576533A7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Szymon",
+        "lastName": "Hoppe",
+        "aliasUTP": [
+            "Szymon.Hoppe@pbs.edu.pl"
+        ],
+        "uid": "Szymon.Hoppe",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4126",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "3AE17F9C-4890-42C8-892A-FE82ABA9F105",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Halina",
+        "lastName": "Idczak",
+        "aliasUTP": [
+            "Halina.Idczak@pbs.edu.pl"
+        ],
+        "uid": "Halina.Idczak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4265",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0987C610-EFFE-4ED9-AA06-15617265E519",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marlena",
+        "lastName": "Karwacka",
+        "aliasUTP": [
+            "Marlena.Karwacka@pbs.edu.pl"
+        ],
+        "uid": "Marlena.Karwacka",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4264",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7FDD8063-5407-4C1E-BF5D-FE356F29D712",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Klawe",
+        "aliasUTP": [
+            "Jacek.Klawe@pbs.edu.pl"
+        ],
+        "uid": "Jacek.Klawe",
+        "academicTitle": "prof. dr. hab. n. o zdr.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3170",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "73405390-A197-4B48-9E46-D1A8BCAFB5FA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwester",
+        "lastName": "Kloska",
+        "aliasUTP": [
+            "sylwester.kloska@pbs.edu.pl"
+        ],
+        "uid": "sylwester.kloska",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4092",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A1A430AC-342A-4783-AA18-82DB0B123CCE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Kloska",
+        "aliasUTP": [
+            "Anna.Kloska@pbs.edu.pl"
+        ],
+        "uid": "annmar004",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": "A",
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "523749603",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4089",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A0648D00-5B14-4FD6-A47E-6955E22D8750",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Kowalewski",
+        "aliasUTP": [
+            "Adam.Kowalewski@pbs.edu.pl"
+        ],
+        "uid": "Adam.Kowalewski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4122",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "8FE3143F-5B81-4602-B989-EBEADE66286E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bartosz",
+        "lastName": "Kozłowski",
+        "aliasUTP": [
+            "Bartosz.Kozlowski@pbs.edu.pl"
+        ],
+        "uid": "Bartosz.Kozlowski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4180",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "E46B1011-35A4-4E39-8FA1-F1CC2FABDB00",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Stanisław",
+        "lastName": "Krajewski",
+        "aliasUTP": [
+            "Stanislaw.Krajewski@pbs.edu.pl"
+        ],
+        "uid": "Stanislaw.Krajewski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4226",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "806FE1CB-EF00-4520-ADF5-9BDAC1A77960",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Lewandowski",
+        "aliasUTP": [
+            "Marek.Lewandowski@pbs.edu.pl"
+        ],
+        "uid": "Marek.Lewandowski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4057",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "9B29127F-4C6C-472F-87CA-7031126C7FCB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Radosław",
+        "lastName": "Litwinowicz",
+        "aliasUTP": [
+            " Radoslaw.Litwinowicz@pbs.edu.pl"
+        ],
+        "uid": " Radoslaw.Litwinowicz",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4267",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "D0C02C97-D0C6-4F70-AC01-622AE605B2E7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sonia",
+        "lastName": "Łazarz",
+        "aliasUTP": [
+            "sonia.lazarz@pbs.edu.pl"
+        ],
+        "uid": "sonia.lazarz",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4185",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0D5EA909-66BC-48E0-A96D-145156594CA2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Małłek-Grabowska",
+        "aliasUTP": [
+            "Malgorzata.Mallek-Grabowska@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Mallek-Grabowska",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4179",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0EFB908C-4BB2-4990-9B60-A206620DB65E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Marjański",
+        "aliasUTP": [
+            "Michal.Marjanski@pbs.edu.pl"
+        ],
+        "uid": "Michal.Marjanski",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4120",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AF317B35-711B-429C-8D20-74677874813F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Balbina",
+        "lastName": "Martini",
+        "aliasUTP": [
+            "Balbina.Martini@pbs.edu.pl"
+        ],
+        "uid": "Balbina.Martini",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4276",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0B872E44-0F44-45F9-86C7-78B4DC2ABE4C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Matiakowska-Bryk",
+        "aliasUTP": [
+            "Karolina.Matiakowska-Bryk@pbs.edu.pl"
+        ],
+        "uid": "Karolina.Matiakowska-Bryk",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4353",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A1BBD834-21DF-477E-B7A3-D6A6DE891782",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Matulewicz",
+        "aliasUTP": [
+            "karolina.matulewicz@pbs.edu.pl"
+        ],
+        "uid": "karolina.matulewicz",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4188",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "CCBC3434-8ADA-4FA7-AB5B-2F7C55FD7067",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Meder",
+        "aliasUTP": [
+            "Agnieszka.Meder@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Meder",
+        "academicTitle": "dr n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4055",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "ABB615EC-AB01-49CB-B20B-5998E0D08ED4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bartosz",
+        "lastName": "Nadolski",
+        "aliasUTP": [
+            "bartosz.nadolski@pbs.edu.pl"
+        ],
+        "uid": "bartosz.nadolski",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4186",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AFE0994A-A8DE-4A11-9335-31112ED7E8D6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wioletta",
+        "lastName": "Nowak",
+        "aliasUTP": [
+            "Wioletta.Nowak@pbs.edu.pl"
+        ],
+        "uid": "Wioletta.Nowak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4298",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "CC20C48B-92C8-43ED-9318-4C82A3B1415D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Pawlak-Osińska",
+        "aliasUTP": [
+            "katarzyna.pawlak-osinska@pbs.edu.pl"
+        ],
+        "uid": "katarzyna.pawlak-osinska",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4010",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "7B825A2D-D0A4-43D1-8BAB-E433BC14DD09",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Gwidon",
+        "lastName": "Polak",
+        "aliasUTP": [
+            "Gwidon.Polak@pbs.edu.pl"
+        ],
+        "uid": "Gwidon.Polak",
+        "academicTitle": "dr n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4053",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F8E68908-64AF-453B-AA32-E7FD02ECBB37",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marianna",
+        "lastName": "Robakowska",
+        "aliasUTP": [
+            "Marianna.Robakowska@pbs.edu.pl"
+        ],
+        "uid": "Marianna.Robakowska",
+        "academicTitle": "lek. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4262",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "9491B387-EA88-451A-89AD-DFD0532B4C6A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Cezary",
+        "lastName": "Rybacki",
+        "aliasUTP": [
+            "cezary.rybacki@pbs.edu.pl"
+        ],
+        "uid": "cezary.rybacki",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4184",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5815AB74-D01C-46FB-8237-6CD74A517578",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Rzepiński",
+        "aliasUTP": [
+            "Lukasz.Rzepinski@pbs.edu.pl"
+        ],
+        "uid": "Lukasz.Rzepinski",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4263",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "3D0A75BD-F6B7-48A5-ACAC-BD5B545F183D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Sadłecki",
+        "aliasUTP": [
+            "Pawel.Sadlecki@pbs.edu.pl"
+        ],
+        "uid": "Pawel.Sadlecki",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4147",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "08A4A350-B3C9-4260-9209-80CF512FD455",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Serafin",
+        "aliasUTP": [
+            "zbigniew.serafin@pbs.edu.pl"
+        ],
+        "uid": "zbigniew.serafin",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4215",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "DDC6B752-908C-48D4-8228-C9A7643FAEEC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Sierakowska",
+        "aliasUTP": [
+            "katarzyna.sierakowska@pbs.edu.pl"
+        ],
+        "uid": "katarzyna.wawrzyniak",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [
+            "Nauki Medyczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4048",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "DDA3FCC0-3C0C-4759-8CC2-F193B86AF5ED",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Hanna",
+        "lastName": "Szafrańska",
+        "aliasUTP": [
+            "Hanna.Szafranska@pbs.edu.pl"
+        ],
+        "uid": "Hanna.Szafranska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "4720",
+                "subUnitName": "Biuro Dziekana WM",
+                "consultations": {},
+                "building": "A",
+                "room": "R12",
+                "subUnitCode": "17001000000",
+                "phoneNumber": "52 374-96-01",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4127",
+                "floor": "PARTER",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "344DED87-128D-482D-9D8C-48194DAED1C8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Michał",
+        "lastName": "Szpinda",
+        "aliasUTP": [
+            "Michal.Szpinda@pbs.edu.pl"
+        ],
+        "uid": "Michal.Szpinda",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {
+                    "monday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4201",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "B990C9F3-BE1E-46BF-8440-0F806CEAC4E9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Szwed",
+        "aliasUTP": [
+            "Krzysztof.Szwed@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Szwed",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4275",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "6A1D8CEC-FB34-4A9D-8999-8B0AD43F14C2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Tafil-Klawe",
+        "aliasUTP": [
+            "Malgorzata.Tafil-Klawe@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Tafil-Klawe",
+        "academicTitle": "prof. dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "4720",
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": "A",
+                "room": "R12",
+                "subUnitCode": "17002000000",
+                "phoneNumber": "523749601",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4117",
+                "floor": "PARTER",
+                "job": "Profesor"
+            },
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "4720",
+                "subUnitName": "Katedra Badań Podstawowych",
+                "consultations": {},
+                "building": "A",
+                "room": "R12",
+                "subUnitCode": "17002000000",
+                "phoneNumber": "523749601",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4117",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "2C083F6B-0A53-4246-8B3E-5E13B405278D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Remigiusz",
+        "lastName": "Tomczyk",
+        "aliasUTP": [
+            "Remigiusz.Tomczyk@pbs.edu.pl"
+        ],
+        "uid": "Remigiusz.Tomczyk",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4174",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D0B4EFDB-09D2-4058-ABC4-D946F21AFA70",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Urbańczyk",
+        "aliasUTP": [
+            "Anna.Urbanczyk@pbs.edu.pl"
+        ],
+        "uid": "Anna.Urbanczyk",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4332",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B27223F1-06D7-4B7E-8A95-02E2E51BE3A7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Walentowicz-Sadłecka",
+        "aliasUTP": [
+            "Malgorzata.Walentowicz-Sadlecka@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Walentowicz-Sadlecka",
+        "academicTitle": "dr hab. n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4118",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "D3B2D697-1542-448D-8A21-F54B03C9B747",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Włodarski",
+        "aliasUTP": [
+            "robert.wlodarski@pbs.edu.pl"
+        ],
+        "uid": "robert.wlodarski",
+        "academicTitle": "dr n. med.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Medycyny Klinicznej",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17003000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4176",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1DA0122E-F7B1-4E19-AEE8-F62A35117123",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Renata",
+        "lastName": "Wojciechowska",
+        "aliasUTP": [
+            "Renata.Wojciechowska@pbs.edu.pl"
+        ],
+        "uid": "Renata.Wojciechowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana WM",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17001000000",
+                "phoneNumber": "52 374 96 08",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4268",
+                "floor": null,
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "3F5EF581-C799-43F6-B3B9-37C735518E16",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Wysocka",
+        "aliasUTP": [
+            "Aleksandra.Wysocka@pbs.edu.pl"
+        ],
+        "uid": "alewys000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Medyczny",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Centrum Symulacji Medycznych",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "17004000000",
+                "phoneNumber": "523749606",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4125",
+                "floor": null,
+                "job": "Samodzielny technik"
+            }
+        ],
+        "guid": "1230D9BC-E27D-44E3-BA3A-C969BCE883C6",
+        "academicTeacher": false
+    }
+]
