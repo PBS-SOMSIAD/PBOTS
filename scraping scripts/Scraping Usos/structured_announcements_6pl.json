@@ -1,0 +1,22 @@
+{
+  "source": "https://usosweb.pbs.edu.pl/kontroler.php?_action=news/default&panel=DOMYSLNY&file=6pl.html",
+  "scraped_at": "2025-08-23",
+  "sections": [
+    {
+      "items": [
+        {
+          "question": "Nie otrzymałem wiadomości z danymi do logowania / Nie znam swojej nazwy użytkownika / Zapomniałem hasła - co dalej?",
+          "answer": "Aplikacja służąca do przypominania loginu oraz wygenerowania nowego hasła znajduje się pod adresem: <https://unispace.pbs.edu.pl/user/remind-password>."
+        },
+        {
+          "question": "Gdzie mogę zmienić swoje hasło do systemu USOSweb?",
+          "answer": "Zmiany hasła do systemu USOSweb można dokonać za pomocą CAS - [ZMIANA HASŁA](https://unispace.pbs.edu.pl/user/remind-password)."
+        },
+        {
+          "question": "Dlaczego zostały naliczone mi odsetki skoro dokonałem wpłaty należności w termine?",
+          "answer": "Należy zwrócić uwagę na to, że system płatności korzysta z daty zaksięgowania wpłaty na koncie bankowym (daty wpływu), a nie z daty fizycznego dokonania płatności."
+        }
+      ]
+    }
+  ]
+}
