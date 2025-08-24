@@ -73,7 +73,7 @@ class AgentFactory:
 
         return main_agent, intents_agent
 
-class DndKnowledgeBase:
+class PBSKnowledgeBase:
     def __init__(self):
         self.qdrant_service = QdrantService()
         self.agent_factory = AgentFactory()

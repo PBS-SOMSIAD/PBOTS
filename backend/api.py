@@ -26,7 +26,7 @@ from docling.datamodel.base_models import InputFormat
 from docling.document_converter import DocumentConverter
 
 from main import (
-    DndKnowledgeBase,
+    PBSKnowledgeBase,
     QDRANT_URL,
     COLLECTION_NAME,
     EMBEDDING_MODEL
@@ -36,12 +36,12 @@ logfire.configure(token=os.environ['LOGFIRE_TOKEN'],)
 logfire.instrument_pydantic_ai()
 
 app = FastAPI(
-    title="D&D Knowledge Base API",
-    description="API for answering Dungeons & Dragons 5th Edition questions",
+    title="API Bazy Wiedzy PBS",
+    description="API do odpowiadania na pytania o PBS",
     version="1.0.0"
 )
 
-kb = DndKnowledgeBase()
+kb = PBSKnowledgeBase()
 main_agent = kb.get_main_agent()
 intents_agent = kb.get_intents_agent()
 deps = kb.get_deps()
