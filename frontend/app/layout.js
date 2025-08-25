@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "D&D Agent",
-  description: "Ask questions about Dungeons & Dragons 5th Edition",
+  title: "PBOTS",
+  description: "Asystent PBOTS",
 };
 
 export default function RootLayout({ children }) {

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Image from 'next/image';
 
 const ChatForm = ({ onSubmit, isLoading }) => {
   const [question, setQuestion] = useState('');
@@ -17,13 +18,20 @@ const ChatForm = ({ onSubmit, isLoading }) => {
       <input
         type="text"
         id="question"
-        placeholder="Ask a question about D&D..."
+        placeholder="ZADAJ PYTANIE ..."
         value={question}
         onChange={(e) => setQuestion(e.target.value)}
         disabled={isLoading}
       />
       <button type="submit" disabled={isLoading || !question.trim()}>
-        {isLoading ? 'Thinking...' : 'Ask'}
+        {isLoading ? 'MYŚLĘ ...' : (
+          <Image
+            src="/assets/arrow_up.png"          
+            alt="arrowIcon"
+            width={50}
+            height={50}
+            />
+        )}
       </button>
     </form>
   );
