@@ -22,12 +22,11 @@ const ChatMessage = ({ message, isUser }) => {
           <Image
             src="/assets/pbots_logo.png"
             alt="logo"
-            width={30}
-            height={30}
+            width={52}
+            height={52}
           />
         </div>
       )}
-      {/* Dymek */}
       <div className={`message ${isUser ? 'user' : 'api'}`}>
         <span className="tag">{isUser ? 'Użytkownik' : 'PBotŚ'}</span>
         {isUser ? (
@@ -41,6 +40,16 @@ const ChatMessage = ({ message, isUser }) => {
           />
         )}
       </div>
+      {isUser && (
+        <div className="message-avatar">
+          <Image
+            src="/assets/user_icon.png"
+            alt="user avatar"
+            width={40}
+            height={40}
+          />
+        </div>
+      )}
     </div>
   );
 };

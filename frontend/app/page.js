@@ -92,7 +92,7 @@ export default function Home() {
             />
             <h1>PBotŚ</h1>
           </header>
-          <p className="prompt-text">CZEŚĆ, JAK MOGE CI POMÓC?</p>
+          <p className="prompt-text">CZEŚĆ, JAK MOGĘ CI POMÓC?</p>
           <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
         </>
       ) : (

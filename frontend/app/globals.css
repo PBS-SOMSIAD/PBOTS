@@ -34,7 +34,7 @@ body {
   width: 100%;
   height: 100%; 
   align-items: center;
-  padding: 20px 0 10px;
+  padding: 15px 0 5px;
   box-sizing: border-box;
 }
 
@@ -68,14 +68,15 @@ header h1 {
   flex: 1;
   border-radius: 10px;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 10px; 
 }
 
 #messages {
   flex: 1;
-  padding: 10px;
   overflow-y: auto;
-  color: whitesmoke;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 .message-content{
@@ -84,10 +85,19 @@ header h1 {
   color: whitesmoke;
 }
 
+.message.api .message-content > *:first-child {
+  margin-top: 0;
+}
+
+.message.api .message-content > *:last-child {
+  margin-bottom: 0;
+}
+
 .message {
-  margin-bottom: 10px;
-  padding: 10px;
-  border-radius: 25px; 
+  max-width: 75%; 
+  padding: 10px 15px;
+  border-radius: 18px;
+  position: relative;
 }
 
 .message .tag {
@@ -120,23 +130,48 @@ header h1 {
 
 .message-row {
   display: flex;
+  width: 100%;
+  margin-bottom: 15px;
   align-items: flex-end; 
-  margin-bottom: 10px;
 }
 
 .message-row.user {
-  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.message-row.api {
+  justify-content: flex-start;
+}
+
+.message-row.api .message-avatar {
+  margin-right: 10px;
+}
+
+.message-row.user .message-avatar {
+  margin-left: 10px;
+}
+
+.message-avatar {
+  position: relative;
+  top: 7px; 
+}
+
+.message-row.api .message-avatar img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.message-row.user .message-avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .message-avatar {
   margin-right: 10px;
-}
-
-.message-avatar img {
-  width: 48px; 
-  height: 48px;
-  border-radius: 50%;
-  object-fit: cover;
 }
 
 .chat-view > #chat-form {
@@ -148,7 +183,7 @@ header h1 {
 
 #chat-form {
   display: flex;
-  padding: 10px;
+  padding: 5px 5px 15px; 
   width: 80%;
   max-width: 1000px;
   margin-top: 0;
