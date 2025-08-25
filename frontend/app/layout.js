@@ -1,30 +1,21 @@
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+import './globals.css';
+import { Saira } from 'next/font/google';
 
-// Konfiguracja czcionek 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const saira = Saira({
+  subsets: ['latin'],
+  display: 'swap',
+  weight: ['400', '700'],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-//Metadane strony
 export const metadata = {
   title: "PBOTS",
   description: "Asystent PBOTS",
 };
 
-//Definicja układu strony
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
-      </body>
+    <html lang="pl" className={saira.className}>
+      <body>{children}</body>
     </html>
   );
 }
