@@ -17,7 +17,6 @@ const ChatMessage = ({ message, isUser }) => {
 
   return (
     <div className={`message-row ${isUser ? 'user' : 'api'}`}>
-      {/* Avatar tylko dla API */}
       {!isUser && (
         <div className="message-avatar">
           <Image
@@ -30,7 +29,7 @@ const ChatMessage = ({ message, isUser }) => {
       )}
       {/* Dymek */}
       <div className={`message ${isUser ? 'user' : 'api'}`}>
-        <span className="tag">{isUser ? 'Użytkownik' : 'PBotS'}</span>
+        <span className="tag">{isUser ? 'Użytkownik' : 'PBotŚ'}</span>
         {isUser ? (
           <div className="message-content">
             {message}

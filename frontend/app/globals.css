@@ -24,7 +24,18 @@ body {
   width: 100vw;
   height: 100vh;
   padding: 0;
-  padding-top: 80px; /* Dodaj odstęp od góry równy wysokości paska */
+  padding-top: 80px; 
+  box-sizing: border-box;
+}
+
+.chat-view {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%; 
+  align-items: center;
+  padding: 20px 0 10px;
+  box-sizing: border-box;
 }
 
 header {
@@ -33,21 +44,20 @@ header {
   justify-content: center;
   gap: 20px;
   padding: 20px;
-  margin-bottom: 20px; /* Dodano margines, aby odsunąć od nowego napisu */
+  margin-bottom: 20px;
 }
 
 header h1 {
   margin: 0;
-  font-size: 5em; /* Znacznie powiększono napis "PBotS" */
+  font-size: 5em; 
 }
 
-/* Usuwamy starą regułę dla 'header p' i tworzymy nową */
 .prompt-text {
-  font-size: 2em; /* Powiększono napis */
+  font-size: 2em; 
   color: #333;
-  margin-bottom: 0px; /* Zmniejszono odstęp od pola tekstowego */
+  margin-bottom: 10px;
   text-align: center;
-  font-weight: 700; /* Dodano pogrubienie */
+  font-weight: 700;
 }
 
 #chat-container {
@@ -55,10 +65,10 @@ header h1 {
   flex-direction: column;
   width: 80%;
   max-width: 1000px;
-  height: 80%;
+  flex: 1;
   border-radius: 10px;
   overflow: hidden;
-  /* Usunięto position: relative, bo formularz jest na zewnątrz */
+  margin-bottom: 20px;
 }
 
 #messages {
@@ -119,29 +129,29 @@ header h1 {
 }
 
 .message-avatar {
-  width: 40px;
-  height: 40px;
-  margin: 0 10px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 10px; 
+  margin-right: 10px;
 }
 
 .message-avatar img {
-  width: 40px;
-  height: 40px;
+  width: 48px; 
+  height: 48px;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.chat-view > #chat-form {
+  width: 80%;
+  max-width: 1000px;
+  margin-top: 0;
+  flex-shrink: 0;
 }
 
 #chat-form {
   display: flex;
   padding: 10px;
-  /* Ustawiamy szerokość formularza, aby pasował do reszty */
   width: 80%;
   max-width: 1000px;
-  margin-top: 0; /* Zmniejszono odstęp od góry do zera */
+  margin-top: 0;
 }
 
 #question {
@@ -187,10 +197,10 @@ button:disabled {
   width: 100%;
   height: 80px;
   background-color: #7d1818;
-  position: fixed; /* Zmień pozycję na fixed */
-  top: 0;          /* Przymocuj do górnej krawędzi */
-  left: 0;         /* Przymocuj do lewej krawędzi */
-  z-index: 1000;   /* Upewnij się, że pasek jest zawsze na wierzchu */
+  position: fixed; 
+  top: 0;         
+  left: 0;        
+  z-index: 1000;  
   display: flex;
   align-items: center;
 }
@@ -200,17 +210,63 @@ button:disabled {
   font-size: 2em;
   font-weight: 700;
   letter-spacing: 2px;
-  /* Centrowanie napisu */
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
 }
 
-/* Style dla ikony w prawym rogu */
 .red-bar .icon {
   position: absolute;
-  right: 32px; /* Odstęp od prawej krawędzi */
+  right: 32px;
   top: 50%;
   transform: translateY(-50%);
-  filter: brightness(0) invert(1); /* Zmienia kolor ikony na biały */
+  filter: brightness(0) invert(1);
+  cursor: pointer;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 2em;
+  cursor: pointer;
+  color: #555;
+}
+
+.modal-content h2 {
+  margin-top: 0;
+  color: #7d1818;
+}
+
+.modal-content ul {
+  padding-left: 20px;
+}
+
+.modal-content li {
+  margin-bottom: 10px;
 }
