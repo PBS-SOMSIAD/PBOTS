@@ -92,6 +92,7 @@ header h1 {
 }
 
 .message {
+  min-width: 120px;
   max-width: 75%; 
   padding: 10px 15px;
   border-radius: 18px;
@@ -306,9 +307,12 @@ button:disabled {
 
 .dots {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   gap: 4px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+
 }
 
 .dots span {

@@ -95,6 +95,7 @@ class DndKnowledgeBase:
             Queries the local vector database (Qdrant) using the provided search query.
             Returns a concatenated string of relevant documents from the D&D 5e knowledge base.
             """
+            return "Politechnika Bydgoska"
             results = self.qdrant_service.query_documents(COLLECTION_NAME, search_query)
             return "\n".join(results)
 
