@@ -22,5 +22,4 @@ jobs:
           pip install pytest
 
       - name: Run tests
-        working-directory: ./backend/chatbot_api
         run: pytest
