@@ -1,15 +1,17 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
-import ChatContainer from './components/ChatContainer'; // Zmienimy jego rolę
+import ChatContainer from './components/ChatContainer';
 import ChatForm from './components/ChatForm';
 import Image from 'next/image';
+import InfoModal from './components/InfoModal'; 
 
 export default function Home() {
   const [chatStarted, setChatStarted] = useState(false);
   const [showTitleOnBar, setShowTitleOnBar] = useState(false);
   const [messages, setMessages] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const handleFirstSubmit = async (question) => {
     if (!chatStarted) {
@@ -71,36 +73,36 @@ export default function Home() {
         <Image
           src="/assets/info_icon.png"
           alt="Info Icon"
-          width={40}
-          height={40}
+          width={50}
+          height={50}
           className="icon"
+          onClick={() => setIsModalOpen(true)}
         />
-        {showTitleOnBar && <span className="bar-title">PBotS</span>}
+        {showTitleOnBar && <span className="bar-title">PBotŚ</span>}
       </div>
 
-      {/* Warunkowe wyświetlanie: albo nagłówek, albo czat */}
       {!chatStarted ? (
-        <header>
-          <Image
-            src="/assets/pbots_logo.png"
-            alt="PBOTS Logo"
-            width={120} /* Zwiększono rozmiar logo */
-            height={120}
-          />
-          <h1>PBotS</h1>
-          {/* Usunięto <p>Zadaj pytanie!</p> stąd */}
-        </header>
+        <>
+          <header>
+            <Image
+              src="/assets/pbots_logo.png"
+              alt="PBOTS Logo"
+              width={120}
+              height={120}
+            />
+            <h1>PBotŚ</h1>
+          </header>
+          <p className="prompt-text">CZEŚĆ, JAK MOGĘ CI POMÓC?</p>
+          <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
+        </>
       ) : (
-        <ChatContainer messages={messages} />
+        <div className="chat-view">
+          <ChatContainer messages={messages} isLoading={isLoading} />
+          <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
+        </div>
       )}
 
-      {/* Krok 1: Dodaj napis "Zadaj pytanie!" tutaj, widoczny tylko przed startem czatu */}
-      {!chatStarted && (
-        <p className="prompt-text">CZEŚĆ, JAK MOGE CI POMOC?</p>
-      )}
-
-      {/* Formularz jest na dole */}
-      <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
+      {isModalOpen && <InfoModal onClose={() => setIsModalOpen(false)} />}
     </div>
   );
 }

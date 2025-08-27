@@ -3,7 +3,7 @@ import { marked } from 'marked';
 import Image from 'next/image';
 import DOMPurify from 'dompurify';
 
-const ChatMessage = ({ message, isUser }) => {
+const ChatMessage = ({ message, isLoading, isUser }) => {
   const renderMarkdown = (content) => {
     if (!content) return '';
     try {
@@ -17,31 +17,45 @@ const ChatMessage = ({ message, isUser }) => {
 
   return (
     <div className={`message-row ${isUser ? 'user' : 'api'}`}>
-      {/* Avatar tylko dla API */}
       {!isUser && (
         <div className="message-avatar">
           <Image
             src="/assets/pbots_logo.png"
             alt="logo"
-            width={30}
-            height={30}
+            width={52}
+            height={52}
           />
         </div>
       )}
-      {/* Dymek */}
       <div className={`message ${isUser ? 'user' : 'api'}`}>
-        <span className="tag">{isUser ? 'Użytkownik' : 'PBotS'}</span>
-        {isUser ? (
-          <div className="message-content">
-            {message}
-          </div>
-        ) : (
-          <div 
-            className="message-content"
-            dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
-          />
-        )}
+        <span className="tag">{isUser ? 'Użytkownik' : 'PBotŚ'}</span>
+        <div className="message-content">
+          {isLoading && !isUser ? (
+            <div className="dots">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          ) : isUser ? (
+            message
+          ) : (
+            <div
+              dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
+            />
+          )}
+        </div>
       </div>
+
+      {isUser && (
+        <div className="message-avatar">
+          <Image
+            src="/assets/user_icon.png"
+            alt="user avatar"
+            width={40}
+            height={40}
+          />
+        </div>
+      )}
     </div>
   );
 };
