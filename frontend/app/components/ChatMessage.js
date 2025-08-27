@@ -3,7 +3,7 @@ import { marked } from 'marked';
 import Image from 'next/image';
 import DOMPurify from 'dompurify';
 
-const ChatMessage = ({ message, isUser }) => {
+const ChatMessage = ({ message, isLoading, isUser }) => {
   const renderMarkdown = (content) => {
     if (!content) return '';
     try {
@@ -29,17 +29,23 @@ const ChatMessage = ({ message, isUser }) => {
       )}
       <div className={`message ${isUser ? 'user' : 'api'}`}>
         <span className="tag">{isUser ? 'Użytkownik' : 'PBotŚ'}</span>
-        {isUser ? (
-          <div className="message-content">
-            {message}
-          </div>
-        ) : (
-          <div 
-            className="message-content"
-            dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
-          />
-        )}
+        <div className="message-content">
+          {isLoading && !isUser ? (
+            <div className="dots">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          ) : isUser ? (
+            message
+          ) : (
+            <div
+              dangerouslySetInnerHTML={{ __html: renderMarkdown(message) }}
+            />
+          )}
+        </div>
       </div>
+
       {isUser && (
         <div className="message-avatar">
           <Image
