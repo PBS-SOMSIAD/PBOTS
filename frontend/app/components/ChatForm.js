@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 
 const ChatForm = ({ onSubmit, isLoading, onStop }) => {
-const ChatForm = ({ onSubmit, isLoading, onStop }) => {
   const [question, setQuestion] = useState('');
 
   const handleSubmit = (e) => {
@@ -36,15 +35,6 @@ const ChatForm = ({ onSubmit, isLoading, onStop }) => {
         onChange={(e) => setQuestion(e.target.value)}
         disabled={isLoading}
       />
-      <button type="submit" disabled={!isLoading && !question.trim()}>
-        {isLoading ? (
-          <Image
-            src="/assets/stop_icon.png"
-            alt="stopIcon"
-            width={50}
-            height={50}
-          />
-        ) : (
       <button type="submit" disabled={!isLoading && !question.trim()}>
         {isLoading ? (
           <Image
