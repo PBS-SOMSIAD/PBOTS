@@ -18,8 +18,20 @@ const ChatContainer = ({ messages }) => {
     <div id="chat-container">
       <div id="messages">
         {messages.map((msg, index) => (
-          <ChatMessage key={index} message={msg.content} isUser={msg.isUser} />
+          <ChatMessage
+            key={index}
+            message={msg.content}
+            isUser={msg.isUser}
+            isLoading={false}
+          />
         ))}
+        {isLoading && (
+          <ChatMessage
+            message=""
+            isUser={false}
+            isLoading={true}
+          />
+        )}
         <div ref={messagesEndRef} />
       </div>
     </div>
