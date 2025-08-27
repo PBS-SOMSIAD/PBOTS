@@ -13,6 +13,33 @@ export default function Home() {
   const [isLoading, setIsLoading] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
+  // AbortController do przerywania żądań
+  const abortControllerRef = useRef(null);
+
+  const handleStop = () => {
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+      abortControllerRef.current = null;
+      setIsLoading(false);
+
+
+      setMessages((prevMessages) => {
+        const updatedMessages = [...prevMessages];
+        if (updatedMessages.length > 0 && !updatedMessages[updatedMessages.length - 1].isUser) {
+          if (updatedMessages[updatedMessages.length - 1].content.trim() === '') {
+
+            updatedMessages[updatedMessages.length - 1].content = '[Odpowiedź przerwana przez użytkownika]';
+          } else {
+            updatedMessages[updatedMessages.length - 1].content += '\n\n[Odpowiedź przerwana przez użytkownika]';
+          }
+        } else {
+          updatedMessages.push({ content: '[Odpowiedź przerwana przez użytkownika]', isUser: false });
+        }
+        return updatedMessages;
+      });
+    }
+  };
+
   const handleFirstSubmit = async (question) => {
     if (!chatStarted) {
       setChatStarted(true);
@@ -23,11 +50,14 @@ export default function Home() {
     const newMessages = [...messages, { content: question, isUser: true }];
     setMessages(newMessages);
 
+    abortControllerRef.current = new AbortController();
+
     try {
       const response = await fetch('/api/ask/stream', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question }),
+        signal: abortControllerRef.current.signal //signal do żądania
       });
 
       if (!response.ok || !response.body) {
@@ -57,6 +87,11 @@ export default function Home() {
         });
       }
     } catch (error) {
+      if (error.name === 'AbortError') {
+        console.log('Żądanie zostało przerwane przez użytkownika');
+        return;
+      }
+
       console.error('Error fetching stream:', error);
       setMessages((prevMessages) => [
         ...prevMessages,
@@ -64,8 +99,17 @@ export default function Home() {
       ]);
     } finally {
       setIsLoading(false);
+      abortControllerRef.current = null;
     }
   };
+
+  useEffect(() => {
+    return () => {
+      if (abortControllerRef.current) {
+        abortControllerRef.current.abort();
+      }
+    };
+  }, []);
 
   return (
     <div className="page">
@@ -93,12 +137,20 @@ export default function Home() {
             <h1>PBotŚ</h1>
           </header>
           <p className="prompt-text">CZEŚĆ, JAK MOGĘ CI POMÓC?</p>
-          <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
+          <ChatForm
+            onSubmit={handleFirstSubmit}
+            isLoading={isLoading}
+            onStop={handleStop}
+          />
         </>
       ) : (
         <div className="chat-view">
           <ChatContainer messages={messages} isLoading={isLoading} />
-          <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
+          <ChatForm
+            onSubmit={handleFirstSubmit}
+            isLoading={isLoading}
+            onStop={handleStop}
+          />
         </div>
       )}
 
