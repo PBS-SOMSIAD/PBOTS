@@ -97,7 +97,7 @@ export default function Home() {
         </>
       ) : (
         <div className="chat-view">
-          <ChatContainer messages={messages} />
+          <ChatContainer messages={messages} isLoading={isLoading} />
           <ChatForm onSubmit={handleFirstSubmit} isLoading={isLoading} />
         </div>
       )}
