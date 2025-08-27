@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import ChatMessage from './ChatMessage';
 
-const ChatContainer = ({ messages }) => {
+const ChatContainer = ({ messages, isLoading}) => {
   const messagesEndRef = useRef(null);
 
   const scrollToBottom = () => {
