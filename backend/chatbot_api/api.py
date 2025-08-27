@@ -21,7 +21,7 @@ from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 
 
-from main import DndKnowledgeBase
+from chatbot_api.main import DndKnowledgeBase
 
 from pydantic import BaseModel
 

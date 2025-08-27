@@ -9,14 +9,15 @@ import os
 from dataclasses import dataclass
 from typing import Tuple
 
-import system_prompts
+
+from chatbot_api import system_prompts
 from pydantic import BaseModel
 from pydantic_ai import Agent, RunContext
 from pydantic_ai.models.openai import OpenAIModel
 from pydantic_ai.providers.openai import OpenAIProvider
 from qdrant_client import QdrantClient
 
-from web_search import WebSearchTool
+from chatbot_api.web_search import WebSearchTool
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
