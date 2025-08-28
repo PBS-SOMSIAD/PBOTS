@@ -17,7 +17,7 @@ const ChatForm = ({ onSubmit, isLoading }) => {
       <input
         type="text"
         id="question"
-        placeholder="Ask a question about D&D..."
+        placeholder="Zadaj pytanie dotyczące Politechniki Bydgoskiej..."
         value={question}
         onChange={(e) => setQuestion(e.target.value)}
         disabled={isLoading}
