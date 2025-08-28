@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Image from 'next/image';
 
 const ChatForm = ({ onSubmit, isLoading }) => {
   const [question, setQuestion] = useState('');
@@ -23,7 +24,14 @@ const ChatForm = ({ onSubmit, isLoading }) => {
         disabled={isLoading}
       />
       <button type="submit" disabled={isLoading || !question.trim()}>
-        {isLoading ? 'Thinking...' : 'Ask'}
+        {isLoading ? 'MYŚLĘ ...' : (
+          <Image
+            src="/assets/arrow_up.png"          
+            alt="arrowIcon"
+            width={50}
+            height={50}
+            />
+        )}
       </button>
     </form>
   );
