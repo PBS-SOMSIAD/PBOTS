@@ -22,7 +22,7 @@ QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
 MODEL_NAME = "qwen3:1.7b"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTION_NAME = "handbook"
+COLLECTIONS = ["faq", "aktualnosci", "rekrutacja", "pracownicy"]
 
 
 class WebSearchResult(BaseModel):
@@ -88,14 +88,16 @@ class PBSKnowledgeBase:
 
     def _register_tools(self) -> None:
         @self.main_agent.tool
-        async def retrieve(context: RunContext[Deps], search_query: str) -> str:
+        async def retrieve(
+            context: RunContext[Deps], search_query: str, collection_name: str = "faq"
+        ) -> str:
             """
             Tool: retrieve
 
-            Queries the local vector database (Qdrant) using the provided search query.
+            Queries the local vector database (Qdrant) using the provided search query and collection name.
             Returns a concatenated string of relevant documents from the PBS knowledge base.
             """
-            results = self.qdrant_service.query_documents(COLLECTION_NAME, search_query)
+            results = self.qdrant_service.query_documents(collection_name, search_query)
             return "\n".join(results)
 
         @self.main_agent.tool
@@ -113,6 +115,15 @@ class PBSKnowledgeBase:
             url = search_result.results[0].url
             content = self.web_tool.web_scrap(url)
             return WebSearchResult(url=url, content=content)
+
+        @self.main_agent.tool
+        async def list_collections(context: RunContext[Deps]) -> str:
+            """
+            Tool: list_collections
+
+            Lists available knowledge base collections.
+            """
+            return ", ".join(COLLECTIONS)
 
     def get_main_agent(self) -> Agent:
         return self.main_agent

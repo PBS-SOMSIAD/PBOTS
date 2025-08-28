@@ -1,24 +1,35 @@
 import uvicorn
+import os
+import json
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from pydantic import BaseModel
+from typing import List
 
 from qdrant_client import QdrantClient
+from qdrant_client.http import models as rest
 from docling.chunking import HybridChunker
 from docling.datamodel.base_models import InputFormat
 from docling.document_converter import DocumentConverter
-import os
 
 
-class DatabaseGenerationResponse(BaseModel):
+class UploadJsonResponse(BaseModel):
     status: str
-    document_count: int
+    uploaded_count: int
+
+
+class UploadDocumentResponse(BaseModel):
+    status: str
+    uploaded_count: int
+
+
+class UploadDirectoryResponse(BaseModel):
+    status: str
+    collections: dict
 
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTION_NAME = "handbook"
-
 
 app = FastAPI(
     title="PBS Knowledge Base API",
@@ -27,17 +38,62 @@ app = FastAPI(
 )
 
 
-@app.post("/generate_database")
-async def generate_database() -> DatabaseGenerationResponse:
+def create_collection_if_not_exists(client, collection_name, dim=384):
+    if collection_name not in [c.name for c in client.get_collections().collections]:
+        client.create_collection(
+            collection_name=collection_name,
+            vectors_config=rest.VectorParams(size=dim, distance=rest.Distance.COSINE),
+        )
+
+
+@app.post("/upload_json")
+async def upload_json(
+    collection_name: str = Form(...), file: UploadFile = File(...)
+) -> UploadJsonResponse:
     try:
-        doc_converter = DocumentConverter(allowed_formats=[InputFormat.PDF])
         db_client = QdrantClient(location=QDRANT_URL)
         db_client.set_model(EMBEDDING_MODEL)
         db_client.set_sparse_model("Qdrant/bm25")
+        create_collection_if_not_exists(db_client, collection_name)
 
-        result = doc_converter.convert(
-            "https://media.wizards.com/2014/downloads/dnd/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf"
+        content = await file.read()
+        try:
+            data = json.loads(content)
+        except Exception as e:
+            raise HTTPException(status_code=400, detail=f"Invalid JSON: {e}")
+
+        text = json.dumps(data, indent=2, ensure_ascii=False)
+        vector = db_client.embed_model.embed(text)
+        db_client.upsert(
+            collection_name=collection_name,
+            points=[
+                rest.PointStruct(
+                    id=file.filename,
+                    vector=vector,
+                    payload={"filename": file.filename, "content": text},
+                )
+            ],
         )
+        return UploadJsonResponse(status="success", uploaded_count=1)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to upload JSON: {str(e)}")
+
+
+@app.post("/upload_document")
+async def upload_document(
+    collection_name: str = Form(...), file: UploadFile = File(...)
+) -> UploadDocumentResponse:
+    try:
+        db_client = QdrantClient(location=QDRANT_URL)
+        db_client.set_model(EMBEDDING_MODEL)
+        db_client.set_sparse_model("Qdrant/bm25")
+        create_collection_if_not_exists(db_client, collection_name)
+
+        doc_converter = DocumentConverter(allowed_formats=[InputFormat.PDF])
+        contents = await file.read()
+        with open(f"/tmp/{file.filename}", "wb") as f:
+            f.write(contents)
+        result = doc_converter.convert(f"/tmp/{file.filename}")
 
         documents, metadatas = [], []
         for chunk in HybridChunker().chunk(result.document):
@@ -45,20 +101,50 @@ async def generate_database() -> DatabaseGenerationResponse:
             metadatas.append(chunk.meta.export_json_dict())
 
         db_client.add(
-            collection_name=COLLECTION_NAME,
+            collection_name=collection_name,
             documents=documents,
             metadata=metadatas,
             batch_size=64,
         )
-
-        return DatabaseGenerationResponse(
-            status="success", document_count=len(documents)
-        )
-
+        return UploadDocumentResponse(status="success", uploaded_count=len(documents))
     except Exception as e:
-        raise HTTPException(
-            status_code=500, detail=f"Failed to generate database: {str(e)}"
-        )
+        raise HTTPException(status_code=500, detail=f"Failed to upload document: {str(e)}")
+
+
+@app.post("/upload_directory")
+async def upload_directory(root_dir: str = Form(...)) -> UploadDirectoryResponse:
+    db_client = QdrantClient(location=QDRANT_URL)
+    db_client.set_model(EMBEDDING_MODEL)
+    db_client.set_sparse_model("Qdrant/bm25")
+    collections = {}
+    for root, dirs, files in os.walk(root_dir):
+        rel_path = os.path.relpath(root, root_dir)
+        collection_name = rel_path.replace(os.sep, "_") or "root"
+        uploaded = 0
+        points = []
+        for file in files:
+            if file.endswith(".json"):
+                file_path = os.path.join(root, file)
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+                    text = json.dumps(data, indent=2, ensure_ascii=False)
+                    vector = db_client.embed_model.embed(text)
+                    points.append(
+                        rest.PointStruct(
+                            id=file,
+                            vector=vector,
+                            payload={"filename": file, "content": text},
+                        )
+                    )
+                    uploaded += 1
+                except Exception:
+                    continue
+        if points:
+            create_collection_if_not_exists(db_client, collection_name)
+            db_client.upsert(collection_name=collection_name, points=points)
+        collections[collection_name] = uploaded
+    return UploadDirectoryResponse(status="success", collections=collections)
 
 
 @app.get("/health")
