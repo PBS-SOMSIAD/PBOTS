@@ -1,8 +1,8 @@
 """
-D&D Knowledge Base - Main Module (Object-Oriented)
+PBS Knowledge Base - Main Module (Object-Oriented)
 
-This module configures and initializes the D&D knowledge agent using pydantic-ai and Qdrant.
-It provides core functionality for retrieving D&D information from a vector database and web.
+This module configures and initializes the PBS knowledge agent using pydantic-ai and Qdrant.
+It provides core functionality for retrieving PBS information from a vector database and web.
 """
 
 import os
@@ -78,7 +78,7 @@ class AgentFactory:
         return main_agent, intents_agent
 
 
-class DndKnowledgeBase:
+class PBSKnowledgeBase:
     def __init__(self):
         self.qdrant_service = QdrantService()
         self.agent_factory = AgentFactory()
@@ -93,7 +93,7 @@ class DndKnowledgeBase:
             Tool: retrieve
 
             Queries the local vector database (Qdrant) using the provided search query.
-            Returns a concatenated string of relevant documents from the D&D 5e knowledge base.
+            Returns a concatenated string of relevant documents from the PBS knowledge base.
             """
             results = self.qdrant_service.query_documents(COLLECTION_NAME, search_query)
             return "\n".join(results)

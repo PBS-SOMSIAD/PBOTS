@@ -1,7 +1,7 @@
 """
-D&D Knowledge Base - FastAPI Server
+PBS Knowledge Base - FastAPI Server
 
-This module provides the FastAPI server implementation for the D&D knowledge base,
+This module provides the FastAPI server implementation for the PBS knowledge base,
 offering endpoints to ask questions and generate the vector database.
 
 Example usage:
@@ -11,6 +11,20 @@ curl -X POST http://localhost:8000/ask/stream \
   -d '{"question": "Describe the spell Fireball in D&D 5e."}'
 
 curl -X POST http://localhost:8000/generate_database
+
+upload_document:
+
+curl -X POST "http://localhost:8001/upload_document" \
+  -F "collection_name=handbook" \
+  -F "file=@/ścieżka/do/pliku/dokument.pdf;type=application/pdf"
+Dokumenty muszą zostać przekształcone przez docling.
+
+upload_json:
+
+curl -X POST "http://localhost:8001/upload_json" \
+  -H "Content-Type: application/json" \
+  --data @body.json
+
 """
 
 import os
@@ -21,8 +35,7 @@ from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 
 
-from main import DndKnowledgeBase
-
+from main import PBSKnowledgeBase
 from pydantic import BaseModel
 
 
@@ -37,12 +50,12 @@ if "LOGFIRE_TOKEN" in os.environ:
     logfire.instrument_pydantic_ai()
 
 app = FastAPI(
-    title="D&D Knowledge Base API",
-    description="API for answering Dungeons & Dragons 5th Edition questions",
+    title="PBS Knowledge Base API",
+    description="API for answering PBS questions",
     version="1.0.0",
 )
 
-kb = DndKnowledgeBase()
+kb = PBSKnowledgeBase()
 main_agent = kb.get_main_agent()
 intents_agent = kb.get_intents_agent()
 deps = kb.get_deps()
@@ -55,7 +68,7 @@ async def ask_question_stream(request: QuestionRequest) -> StreamingResponse:
     if not is_related.output:
 
         async def error_generator():
-            yield "Sorry, I can only answer questions related to Dungeons and Dragons 5th Edition."
+            yield "Sorry, I can only answer questions related to PBS."
 
         return StreamingResponse(error_generator(), media_type="text/plain")
 

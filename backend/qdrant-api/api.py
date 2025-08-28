@@ -21,8 +21,8 @@ COLLECTION_NAME = "handbook"
 
 
 app = FastAPI(
-    title="D&D Knowledge Base API",
-    description="API for answering Dungeons & Dragons 5th Edition questions",
+    title="PBS Knowledge Base API",
+    description="API for answering PBS questions",
     version="1.0.0",
 )
 
