@@ -1,14 +1,14 @@
 """
-D&D Knowledge Base - FastAPI Server
+Baza wiedzy na temat Politechniki Bydgoskiej - FastAPI Server
 
-This module provides the FastAPI server implementation for the D&D knowledge base,
-offering endpoints to ask questions and generate the vector database.
+Ten moduł zapewnia implemetacje FastAPI do bazy wiedzy o PBŚ,
+oferuje endpoint do zadawania pytań i generowania bazy wektorowej.
 
-Example usage:
+Przykład użycia:
 
 curl -X POST http://localhost:8000/ask/stream \
   -H "Content-Type: application/json" \
-  -d '{"question": "Describe the spell Fireball in D&D 5e."}'
+  -d '{"question": "Wyjaśnij jak zdobyć stypendium."}'
 
 curl -X POST http://localhost:8000/generate_database
 """
@@ -37,8 +37,8 @@ if "LOGFIRE_TOKEN" in os.environ:
     logfire.instrument_pydantic_ai()
 
 app = FastAPI(
-    title="D&D Knowledge Base API",
-    description="API for answering Dungeons & Dragons 5th Edition questions",
+    title="API Bazy wiedzy o PBŚ",
+    description="API do odpowiadania na pytania o Politechnice Bydgoskiej",
     version="1.0.0",
 )
 
@@ -55,7 +55,7 @@ async def ask_question_stream(request: QuestionRequest) -> StreamingResponse:
     if not is_related.output:
 
         async def error_generator():
-            yield "Sorry, I can only answer questions related to Dungeons and Dragons 5th Edition."
+            yield "Przepraszam, mogę odpowiadać tylko na pytania dotyczące Politechniki Bydgoskiej i jej spraw."
 
         return StreamingResponse(error_generator(), media_type="text/plain")
 
