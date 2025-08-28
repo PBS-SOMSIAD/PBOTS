@@ -1,8 +1,8 @@
 """
-D&D Knowledge Base - Main Module (Object-Oriented)
+Baza wiedzy o PBŚ - Moduł główny (Obiektowy)
 
-This module configures and initializes the D&D knowledge agent using pydantic-ai and Qdrant.
-It provides core functionality for retrieving D&D information from a vector database and web.
+Ten moduł konfiguruje i inicjalizuje agenta wiedzy korzystając z pydantic-ai i Qdrant.
+Zapewnie kluczową funkcjonalność retrievalu wiedzy z wektorowej bazy danych.
 """
 
 import os
@@ -90,10 +90,10 @@ class DndKnowledgeBase:
         @self.main_agent.tool
         async def retrieve(context: RunContext[Deps], search_query: str) -> str:
             """
-            Tool: retrieve
+            Narzędzie: retrieve
 
-            Queries the local vector database (Qdrant) using the provided search query.
-            Returns a concatenated string of relevant documents from the D&D 5e knowledge base.
+            Odpytuje lokalną wektorową baze danych (Qdrant) korzystając z zapewnionego search query.
+            Zwraca tekst z dokumentów z bazy wiedzy.
             """
             results = self.qdrant_service.query_documents(COLLECTION_NAME, search_query)
             return "\n".join(results)
