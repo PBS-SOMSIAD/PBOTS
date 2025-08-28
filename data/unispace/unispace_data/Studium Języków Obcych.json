@@ -1,0 +1,1096 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Danuta",
+        "lastName": "Adamczak",
+        "aliasUTP": [
+            "Danuta.Adamczak@pbs.edu.pl"
+        ],
+        "uid": "dana618",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "friday": {
+                        "from": "16.00",
+                        "to": "17.30"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "523408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2807",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "56B8D138-CF7B-48C2-987E-74B7F7AC0CB9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Bieńkowska",
+        "aliasUTP": [
+            "Magdalena.Bienkowska@pbs.edu.pl"
+        ],
+        "uid": "mbienkowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9.30",
+                        "to": "11.00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340-84-90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1597",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "26CFA2E8-481B-40FD-89F5-4134EC45B2C5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Borowska",
+        "aliasUTP": [
+            "Malgorzata.Borowska@pbs.edu.pl"
+        ],
+        "uid": "m-borowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "11.30"
+                    },
+                    "monday": {
+                        "from": "10.00",
+                        "to": "11.30"
+                    }
+                },
+                "building": "J",
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2594",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "13316AA5-03B3-4D46-9892-08B20C959137",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Drechny",
+        "aliasUTP": [
+            "Anna.Drechny@pbs.edu.pl"
+        ],
+        "uid": "Anna.Drechny",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "thursday": {
+                        "from": "12.30",
+                        "to": "14.00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4061",
+                "floor": "Parter",
+                "job": "Lektor"
+            }
+        ],
+        "guid": "9E4ED9D2-BD73-42B8-9387-EC61D8B34C1F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Frąckowiak",
+        "aliasUTP": [
+            "Agata.Frackowiak@pbs.edu.pl"
+        ],
+        "uid": "Agata.Frackowiak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:10",
+                        "to": "12:40"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "340 84 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4088",
+                "floor": "Parter",
+                "job": "Lektor"
+            }
+        ],
+        "guid": "64BAC436-79A4-446D-9C62-76B0CC7584D3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marta",
+        "lastName": "Giersz",
+        "aliasUTP": [
+            "marta.giersz@pbs.edu.pl"
+        ],
+        "uid": "marta.giersz",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [
+                    "Kierownik Studium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "11:00",
+                        "to": "12:30"
+                    }
+                },
+                "building": "J",
+                "room": "J 011",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 8400",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3783",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "68C8C925-DD3D-4737-85FB-A83F81227FEC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Górecka",
+        "aliasUTP": [
+            "Agnieszka.Gorecka@pbs.edu.pl"
+        ],
+        "uid": "agag",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "thursday": {
+                        "from": "12.15",
+                        "to": "13.45"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2667",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "4EA57B20-C1ED-4970-980D-0E3D21A9F3AA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Górzyńska",
+        "aliasUTP": [
+            "joanna.gorzynska@pbs.edu.pl"
+        ],
+        "uid": "joanna.gorzynska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [
+                    "Zastępca Kierownika Studium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "11.15",
+                        "to": "12.45"
+                    }
+                },
+                "building": "J",
+                "room": "J 010",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3402",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AE7EF4A3-C9E1-424D-B305-29A48B538BE1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Graliński",
+        "aliasUTP": [
+            " Rafal.Gralinski@pbs.edu.pl"
+        ],
+        "uid": "rafgra000",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4212",
+                "floor": null,
+                "job": "Lektor"
+            }
+        ],
+        "guid": "CC198180-8364-4C34-8E39-5EABD0714CC5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zofia",
+        "lastName": "Heliasz",
+        "aliasUTP": [
+            "Zofia.Heliasz@pbs.edu.pl"
+        ],
+        "uid": "Zofia.Heliasz",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [
+                    "Zastępca Kierownika Studium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {},
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "340 84 55, 501 516 953",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3137",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "62BED849-FA91-4766-A66A-C37ECFE09B0E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Kaleta-Kuzińska",
+        "aliasUTP": [
+            "Magdalena.Kaleta-Kuzinska@pbs.edu.pl"
+        ],
+        "uid": "Magdalena.Kaleta-Kuzinska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "11:25",
+                        "to": "12:55"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "3408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4094",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0AFC58D3-35FF-4E5F-92B7-311EAF06D025",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Kania",
+        "aliasUTP": [
+            "Karol.Kania@pbs.edu.pl"
+        ],
+        "uid": "Karol.Kania",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11.00",
+                        "to": "12.30"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3242",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "2CDB94C1-B784-4236-A834-BFA753D0DDFD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Kirkiłło-Stacewicz",
+        "aliasUTP": [
+            "Krzysztof.Kirkillo-Stacewicz@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Stacewicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:00",
+                        "to": "14:30"
+                    }
+                },
+                "building": "J",
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2768",
+                "floor": "Parter",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "72E09015-C203-4092-BD46-A221E03EEC63",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Malwina",
+        "lastName": "Kłosowska",
+        "aliasUTP": [
+            "malwina.klosowska@pbs.edu.pl"
+        ],
+        "uid": "m.rakowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:30",
+                        "to": "12:00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3222",
+                "floor": "Parter",
+                "job": "Lektor"
+            }
+        ],
+        "guid": "8A9C0911-E565-4B72-8578-96E4AE94EFB6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Korpal",
+        "aliasUTP": [
+            "Aleksandra.Korpal@pbs.edu.pl"
+        ],
+        "uid": "Aleksandra.Korpal",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4222",
+                "floor": null,
+                "job": "Lektor"
+            }
+        ],
+        "guid": "B5BBA726-7D45-43C8-950E-D21D9C0968C4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Kotowska",
+        "aliasUTP": [
+            "grazyna.kotowska@pbs.edu.pl"
+        ],
+        "uid": "grazyna.kotowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9.30",
+                        "to": "11.00"
+                    }
+                },
+                "building": "J",
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "340 84 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3925",
+                "floor": null,
+                "job": "Lektor"
+            }
+        ],
+        "guid": "F18D60C3-2FE8-4200-9232-C438492D026B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Edyta",
+        "lastName": "Krajewska",
+        "aliasUTP": [
+            "edyta.krajewska@pbs.edu.pl"
+        ],
+        "uid": "edyta.krajewska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17:00",
+                        "to": "18:00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3924",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "C42986DA-EE2A-4D21-896A-EAF94F132D55",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Kraszkiewicz",
+        "aliasUTP": [
+            "Magdalena.Kraszkiewicz@pbs.edu.pl"
+        ],
+        "uid": "magi",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "697",
+                "subUnitName": "Sekretariat SJO",
+                "consultations": {},
+                "building": "J",
+                "room": "011",
+                "subUnitCode": "09001000000",
+                "phoneNumber": "52 340-84-90",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2117",
+                "floor": null,
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "1C0CCAC6-11EF-4F70-BE78-3207E074DC40",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Krawczyk",
+        "aliasUTP": [
+            "ewa.krawczyk@pbs.edu.pl"
+        ],
+        "uid": "ewa.krawczyk",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3839",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B6239417-BC0F-4E10-A3A8-A35FB8DD307C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Kwiatkowska",
+        "aliasUTP": [
+            "Agnieszka.Kwiatkowska@pbs.edu.pl"
+        ],
+        "uid": "A.Kwiatkowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "9.00",
+                        "to": "10.30"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "052 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3191",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "D0938855-8585-4658-9BAE-5E935425B8D3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Ługowska",
+        "aliasUTP": [
+            "agnieszka.lugowska@pbs.edu.pl"
+        ],
+        "uid": "agnieszka.lugowska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "8:15",
+                        "to": "9:45"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "503465260",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3784",
+                "floor": "Parter",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "88C99EC4-B969-4B38-8FAA-0BEA88869157",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alina",
+        "lastName": "Maciąg",
+        "aliasUTP": [
+            "Alina.Maciag@pbs.edu.pl"
+        ],
+        "uid": "alinamac",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11.30",
+                        "to": "13.00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "3408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "402",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "7E053C8F-443C-4D64-9A56-BEEC7A917F7A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Raatz",
+        "aliasUTP": [
+            "kinga.raatz@pbs.edu.pl"
+        ],
+        "uid": "kinga.raatz",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "13:00"
+                    }
+                },
+                "building": "J",
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "+48 52 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2882",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "ECD02A43-6CCB-4BB0-BB2E-66A5E1108281",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jowanka",
+        "lastName": "Różańska",
+        "aliasUTP": [
+            "Jowanka.Rozanska@pbs.edu.pl"
+        ],
+        "uid": "Jowanka.Rozanska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4197",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "FAE19DC9-7F6A-4884-BF34-70956F39B554",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Różycki",
+        "aliasUTP": [
+            "Tomasz.Rozycki@pbs.edu.pl"
+        ],
+        "uid": "Tomasz.Rozycki",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "13:30"
+                    },
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "13:30"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "3408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4091",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "1D31C2BA-5148-42FF-A8A1-2F032E15388E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Urszula",
+        "lastName": "Sochacka-Kołodziej",
+        "aliasUTP": [
+            "Urszula.Sochacka-Kolodziej@pbs.edu.pl"
+        ],
+        "uid": "Urszula.Sochacka-Kolodziej",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:00",
+                        "to": "12:30"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "3408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4090",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "EB894A78-0741-42D4-82C9-8288DF93B771",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marlena",
+        "lastName": "Stalkowska",
+        "aliasUTP": [
+            "Marlena.Stalkowska@pbs.edu.pl"
+        ],
+        "uid": "marstal",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11.30",
+                        "to": "13.00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "523408490",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2836",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "3873B96D-676A-42A5-96A1-23BB1A6FCCAF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Tutka",
+        "aliasUTP": [
+            "malgorzata.tutka@pbs.edu.pl"
+        ],
+        "uid": "malgorzata.tutka",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Jezyka Niemieckiego",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:30",
+                        "to": "12:00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09004000000",
+                "phoneNumber": "506863030",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3917",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "294808DD-D746-4912-9603-7B5A59863EF4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Wierska",
+        "aliasUTP": [
+            "Katarzyna.Wierska@pbs.edu.pl"
+        ],
+        "uid": "wkate",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Fordońska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "monday": {
+                        "from": "09.00",
+                        "to": "10.30"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 00",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1525",
+                "floor": "III PIETRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "2310BC7B-E31A-46F9-813D-BD046D027066",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Wiśniewski",
+        "aliasUTP": [
+            "Lukasz.Wisniewski@pbs.edu.pl"
+        ],
+        "uid": "Lukasz.Wisniewski",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Studium Języków Obcych",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Sekcja Języka Angielskiego i Rosyjskiego",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.30",
+                        "to": "12.00"
+                    }
+                },
+                "building": "J",
+                "room": "J 009",
+                "subUnitCode": "09002000000",
+                "phoneNumber": "52 340 84 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4085",
+                "floor": "Parter",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "DB90CA7E-6F0F-4EA7-A4B1-71E084A849EA",
+        "academicTeacher": true
+    }
+]

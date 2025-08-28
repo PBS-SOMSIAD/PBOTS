@@ -1,0 +1,30 @@
+{
+  "source": "https://usosweb.pbs.edu.pl/kontroler.php?_action=news/default&panel=DOMYSLNY&file=5pl.html",
+  "scraped_at": "2025-08-27",
+  "sections": [
+    {
+      "items": [
+        {
+          "announcement": "INDYWIDUALNY NUMER KONTA BANKOWEGO DO WPŁAT STUDENTÓW",
+          "content": "---\nNumer konta rekrutacyjnego przydzielony na czas rekrutacji przestaje obowiązywać wraz z jej zakończeniem. **Po przyjęciu na studia obowiązują NOWE, INDYWIDUALNE numery kont bankowych, tj.:** - numer konta do opłat należności związanych z TOKIEM STUDIÓW m. in. do opłat należności za druki np. elektroniczną legitymację studencką (ELS), opłat czesnego na studiach niestacjonarnych, opłat należności za niezadowalające wyniki w nauce wynikające z powtarzania określonych zajęć dydaktycznych;\n- numer konta do opłat należności związanych z ZAKWATEROWANIEM w domu studenta (studia stacjonarne - dotyczy osób korzystających z zakwaterowania); ww. nr kont bankowych są dostępne po zalogowaniu się na konto studenta w USOSweb (DLA WSZYSTKICH->Płatności->konta bankowe uczelni). **UWAGA:**\n**Numery kont bankowych są indywidualne** i nie mogą być udostępniane ani przekazywane innym osobom."
+        },
+        {
+          "announcement": "WYSOKOŚĆ, ZASADY I TERMINY WNOSZENIA OPŁAT ZA USŁUGI EDUKACYJNE",
+          "content": "---\n**Informacje o wysokości opłat** za usługi edukacyjne oraz inne opłaty pobierane przez uczelnię oraz zasady i terminy ich wymagalności, tryb i warunki zwalniania z tych opłat są dostępne (w formie zarządzeń lub wyciągów) w Biuletynie Informacji Publicznej (BIP) <https://bip.pbs.edu.pl/artykuly/62/oplaty-studenckie> W przypadku **rezygnacji ze studiów w trakcie trwania semestru** czesne za studia niestacjonarne jest naliczane proporcjonalnie do liczby zjazdów, które odbyły się do daty wpływu rezygnacji do uczelni (stąd ważne jest, aby rezygnację złożyć niezwłocznie z chwilą zaistnienia okoliczności uniemożliwiających kontynuowanie studiów, aby nie skutkowało to ponoszeniem zbędnych opłat)."
+        },
+        {
+          "announcement": "ZASADY ROZLICZANIA WPŁAT STUDENTÓW NA KONCIE W USOS",
+          "content": "---\nWpłaty rozliczają się zgodnie z art. 451 Kodeksu cywilnego, tj. zgodnie z tytułem wpłaty. Jeżeli wpłata nie posiada wskazania w jaki sposób ma być rozliczona – pokryje najstarszą należność. Nieterminowe wnoszenie opłat skutkuje naliczaniem odsetek ustawowych. Odsetki naliczają się automatycznie."
+        },
+        {
+          "announcement": "INFORMACJA O KONIECZNOŚCI PODPISANIA OŚWIADCZENIA STUDENTA W SPRAWIE OPŁAT ZA USŁUGI EDUKACYJNE ORAZ INNE OPŁATY POBIERANE PRZEZ UCZELNIĘ",
+          "content": "---\nZgodnie z Regulaminem studiów **student ma obowiązek** złożenia oświadczenia o zapoznaniu się z opłatami za usługi edukacyjne oraz innymi opłatami pobieranymi przez uczelnię. Wzór oświadczenia określa zarządzenie rektora. **Oświadczenie studenta** w sprawie opłat za usługi edukacyjne oraz inne opłaty pobierane przez uczelnię **jest dostępne do złożenia** na stronie USOSweb oraz aplikacji Mobliny USOS **z dniem rozpoczęcia zajęć na pierwszym semestrze studiów** , tj.:\n- w semestrze zimowym: od 01 do 21 października,\n- w semestrze letnim: w pierwszych trzech tygodniach semestru. Studenci wznawiający studia, przenoszący się między formami studiów składają w USOSweb nowe oświadczenia w sprawie opłat w ww. terminach lub w terminie wynikającym z decyzji. **Oświadczenie należy złożyć wyłącznie w formie elektronicznej** , tj. za pośrednictwem USOSweb lub aplikacji Mobliny USOS."
+        },
+        {
+          "announcement": "WNIOSKI O WYSTAWIENIE FAKTUR DOSTĘPNE W USOSWEB",
+          "content": "---\n**WNIOSEK O WYSTAWIENIE FAKTURY (VAT, PRO FORMA)** za usługi edukacyjne składa student za pośrednictwem swojego konta w USOSweb odpowiednio: - o wystawienie **Faktury VAT** w terminie:\n• nie później niż 3 miesiące po dokonaniu każdej wpłaty\n(fakturę wystawia Centralny Dziekanat po dokonaniu wpłaty); - o wystawienie **Faktury PRO FORMA** w terminie:\n• nie później niż 14 dni przed terminem każdej wpłaty\n(fakturę wystawia Centralny Dziekanat przed dokonaniem wpłaty)."
+        }
+      ]
+    }
+  ]
+}

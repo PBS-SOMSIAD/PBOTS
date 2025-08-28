@@ -1,0 +1,384 @@
+{
+  "programs": [
+    {
+      "name": "Agrotechnologia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/agrotechnologia/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Agrotechnologia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/agrotechnologia-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Analityka chemiczna i spożywcza",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/analityka-chemiczna-i-spozywcza-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Analityka chemiczna i spożywcza (UWAGA ! REKRUTACJA NA WYDZIAŁ)",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/analityka-chemiczna-i-spozywcza-uwaga-rekrutacja-na-wydzial/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Architektura",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/architektura/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Architektura krajobrazu",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/architektura-krajobrazu/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Architektura wnętrz",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/architektura-wnetrz/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Automatyka i elektronika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/automatyka-i-elektronika/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Biotechnologia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/biotechnologia/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Budownictwo",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/budownictwo/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Budownictwo",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/budownictwo-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Cyberbezpieczeństwo i teleinformatyka",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/cyberbezpieczenstwo-i-teleinformatyka/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Cyberbezpieczeństwo i teleinformatyka",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/cyberbezpieczenstwo-i-teleinformatyka-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Elektrotechnika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektrotechnika/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Elektrotechnika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektrotechnika-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Finanse i rachunkowość",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/finanse-i-rachunkowosc/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Finanse i rachunkowość",
+      "type": "licencjackie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/finanse-i-rachunkowosc-2/licencjackie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Geodezja i kartografia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/geodezja-i-kartografia/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Geodezja i kartografia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/geodezja-i-kartografia-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Informatyka stosowana",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/informatyka-stosowana/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Informatyka stosowana",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/informatyka-stosowana-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inspekcja weterynaryjna",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inspekcja-weterynaryjna/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria farmaceutyczna (UWAGA ! REKRUTACJA NA WYDZIAŁ)",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-farmaceutyczna-uwaga-rekrutacja-na-wydzial/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria odnawialnych źródeł energii",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-odnawialnych-zrodel-energii/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria odnawialnych źródeł energii",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-odnawialnych-zrodel-energii-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inżynieria środowiska",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-srodowiska/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria środowiska",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-srodowiska-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inżynieria w medycynie",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-w-medycynie/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Komunikacja wizualna",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/komunikacja-wizualna/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechanika i budowa maszyn",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechanika-i-budowa-maszyn/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechanika i budowa maszyn",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechanika-i-budowa-maszyn-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Mechatronika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechatronika/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechatronika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechatronika-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Pielęgniarstwo",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/pielegniarstwo/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Technika bezpieczeństwa i obronności",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technika-bezpieczenstwa-i-obronnosci/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Technika bezpieczeństwa i obronności",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technika-bezpieczenstwa-i-obronnosci-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Technologia chemiczna",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-chemiczna-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Technologia chemiczna (UWAGA ! REKRUTACJA NA WYDZIAŁ)",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-chemiczna-uwaga-rekrutacja-na-wydzial/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Technologia żywności i żywienie człowieka (UWAGA ! REKRUTACJA NA WYDZIAŁ)",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-zywnosci-i-zywienie-czlowieka-uwaga-rekrutacja-na-wydzial/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Telekomunikacja i technologie internetu rzeczy",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/telekomunikacja-i-technologie-internetu-rzeczy/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Telekomunikacja i technologie internetu rzeczy",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/telekomunikacja-i-technologie-internetu-rzeczy-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Transport i logistyka",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/transport-i-logistyka/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Transport i logistyka",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/transport-i-logistyka-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Wzornictwo",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/wzornictwo/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie",
+      "type": "licencjackie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-2/licencjackie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie i inżynieria produkcji",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-i-inzynieria-produkcji/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie i inżynieria produkcji",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-i-inzynieria-produkcji-2/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie w sporcie",
+      "type": "licencjackie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "6 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-w-sporcie/licencjackie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zielarstwo i fitoterapia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zielarstwo-i-fitoterapia/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zielarstwo i fitoterapia",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zielarstwo-i-fitoterapia-1/inzynierskie-i-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Zoofizjoterapia i pielęgnacja zwierząt",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zoofizjoterapia-i-pielegnacja-zwierzat/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zootechnika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "stacjonarne",
+      "duration": "7 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zootechnika/inzynierskie-i-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zootechnika",
+      "type": "inżynierskie (I stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "8 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zootechnika-2/inzynierskie-i-stopnia/niestacjonarne"
+    }
+  ],
+  "source": "https://pbs.edu.pl/pl/oferta-dydaktyczna/studia-i-stopnia",
+  "scraped_at": "2025-08-10T18:35:03.320388"
+}

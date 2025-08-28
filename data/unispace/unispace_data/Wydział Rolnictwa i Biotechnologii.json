@@ -1,0 +1,2970 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Banach-Szott",
+        "aliasUTP": [
+            "Magdalena.Banach-Szott@pbs.edu.pl"
+        ],
+        "uid": "mbanach",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "friday": {
+                        "from": "12.30",
+                        "to": "13.30"
+                    },
+                    "monday": {
+                        "from": "10.45",
+                        "to": "11.45"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "101",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-38",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2262",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D2665845-AB00-457F-9F5A-8CA4D4BBCE24",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Bartkowiak",
+        "aliasUTP": [
+            "Agata.Bartkowiak@pbs.edu.pl"
+        ],
+        "uid": "bartkowiak",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "friday": {
+                        "from": "10.00",
+                        "to": "11.00"
+                    },
+                    "monday": {
+                        "from": "12.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "210",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-26",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1633",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "147504E9-CEA4-4F9A-86AB-36D837A00B02",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Baturo-Cieśniewska",
+        "aliasUTP": [
+            "Anna.Baturo-Ciesniewska@pbs.edu.pl"
+        ],
+        "uid": "baturo-a",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1636",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "monday": {
+                        "from": "11.45",
+                        "to": "13.45"
+                    }
+                },
+                "building": "I",
+                "room": "I 105",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 3749377",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1635",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C48BD152-9016-4926-9E84-408199DD03F7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Bauza-Kaszewska",
+        "aliasUTP": [
+            "Justyna.Bauza-Kaszewska@pbs.edu.pl"
+        ],
+        "uid": "bauza",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "128",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-95-48",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1609",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "FEBD9BC6-4145-4933-A04C-B85DE5958389",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Błaszczyk",
+        "aliasUTP": [
+            "karolina.blaszczyk@pbs.edu.pl"
+        ],
+        "uid": "karbla005",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "04028000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3988",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "8DADF4F5-0664-4083-B935-17BB47EFE31B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Barbara",
+        "lastName": "Breza-Boruta",
+        "aliasUTP": [
+            "Barbara.Breza-Boruta@pbs.edu.pl"
+        ],
+        "uid": "breza",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "136",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-95-35",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1370",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "76C03B01-87E7-4A48-A328-C8D7BF0CAF4A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patryk",
+        "lastName": "Czerwiński",
+        "aliasUTP": [
+            "patryk.czerwinski@pbs.edu.pl"
+        ],
+        "uid": "patcze003",
+        "academicTitle": "mgr inż.arch.kraj.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {
+                    "monday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    }
+                },
+                "building": "E",
+                "room": null,
+                "subUnitCode": "04024005000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3927",
+                "floor": "3 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A44DD6A2-8F15-4842-8613-AD6D1BD4F4AD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Dambecki",
+        "aliasUTP": [
+            "Piotr.Dambecki@pbs.edu.pl"
+        ],
+        "uid": "dambecki",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1205",
+                "subUnitName": "Biuro Dziekana - WRiB",
+                "consultations": {},
+                "building": "E",
+                "room": "E 123",
+                "subUnitCode": "04027000000",
+                "phoneNumber": "52 374-95-50",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2554",
+                "floor": "1 PIĘTRO",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "062D822B-B384-491E-8EA0-48B3861469D4",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bożena",
+        "lastName": "Dębska",
+        "aliasUTP": [
+            "Bozena.Debska@pbs.edu.pl"
+        ],
+        "uid": "debska",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "friday": {
+                        "from": "13:00",
+                        "to": "13:45"
+                    },
+                    "monday": {
+                        "from": "12:15",
+                        "to": "13.00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "1",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-02",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1003",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "31476672-A1B5-462B-AF16-6BEA1CD92877",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Długosz",
+        "aliasUTP": [
+            "Jacek.Dlugosz@pbs.edu.pl"
+        ],
+        "uid": "jacekd",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "216",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-12",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1002",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "221D73F7-FA56-472F-848B-60756529E1D4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Durszewicz",
+        "aliasUTP": [
+            "Ewa.Durszewicz@pbs.edu.pl"
+        ],
+        "uid": "Durszewicz.Ewa",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "133",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 3749535",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2281",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "6C7303AC-FDCB-470F-ACEE-B6023CF359A1",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Figas",
+        "aliasUTP": [
+            "Anna.Figas@pbs.edu.pl"
+        ],
+        "uid": "figasanna",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "117",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 374-95-21",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2368",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0DA918D1-BA46-4A29-8DCC-FABF35CA5A92",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Lech",
+        "lastName": "Gałęzewski",
+        "aliasUTP": [
+            "Lech.Galezewski@pbs.edu.pl"
+        ],
+        "uid": "galezewski",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1250",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 305",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-99",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2762",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "E83A55A8-B54B-41AC-A3A9-96003813D4B2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Gęsiński",
+        "aliasUTP": [
+            "Krzysztof.Gesinski@pbs.edu.pl"
+        ],
+        "uid": "gesinski",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1201",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "thursday": {
+                        "from": "12.00",
+                        "to": "13.00"
+                    },
+                    "monday": {
+                        "from": "12.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 119",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 340-81-54, 52 340-83-70",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1007",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "B1C887F3-1186-45B8-A4FD-A76A01F78F21",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Gołdyn",
+        "aliasUTP": [
+            "Katarzyna.Goldyn@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Goldyn",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Sucha",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "Budynek C",
+                "room": null,
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-78",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1053",
+                "floor": "Parter",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "5F5F3F39-BE72-4F87-8969-1F4B93B6B5FC",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Gościnna",
+        "aliasUTP": [
+            "Katarzyna.Goscinna@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Goscinna",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo",
+            "Technologia Żywności I Żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1564",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "11.00"
+                    },
+                    "monday": {
+                        "from": "10.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "I",
+                "room": "I 017a",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374 9388",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3424",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D090E372-E123-4061-85BC-DEB0CFFF7599",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iwona",
+        "lastName": "Jaskulska",
+        "aliasUTP": [
+            "Iwona.Jaskulska@pbs.edu.pl"
+        ],
+        "uid": "jaskulska",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1254",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "E",
+                "room": "E 309",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-46",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1308",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "5BC3618C-7CAC-48A8-9A2D-DE5C67443991",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Jaskulski",
+        "aliasUTP": [
+            "Dariusz.Jaskulski@pbs.edu.pl"
+        ],
+        "uid": "darekjas",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1252",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "E",
+                "room": "E 307",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-91",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1010",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "1C89C383-681E-4ECA-ABB3-830F13C68BC9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Jeske",
+        "aliasUTP": [
+            "Malgorzata.Jeske@pbs.edu.pl"
+        ],
+        "uid": "jeske",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Biologiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1625",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "monday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "I",
+                "room": "I 112",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-93-72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1498",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "4ABFDE44-8481-43DB-A2A8-B82DE8D182B4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iwona",
+        "lastName": "Jędrzejczyk",
+        "aliasUTP": [
+            "Iwona.Jedrzejczyk@pbs.edu.pl"
+        ],
+        "uid": "jedrzej",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1554",
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {
+                    "thursday": {
+                        "from": "11",
+                        "to": "12"
+                    },
+                    "monday": {
+                        "from": "9",
+                        "to": "10"
+                    }
+                },
+                "building": "I",
+                "room": "I 015",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 340-87-17",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2257",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "B1E28C62-9504-43D0-9089-6E88F4FFBB86",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Kadlec",
+        "aliasUTP": [
+            "justyna.kadlec@pbs.edu.pl"
+        ],
+        "uid": "juswys000",
+        "academicTitle": "mgr inż.arch.kraj.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1635",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "I",
+                "room": "I 104",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "523749583",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3899",
+                "floor": "I PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "673AB6B6-81FF-44EB-9706-B94D9AD75D4B",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Klunek",
+        "aliasUTP": [
+            "katarzyna.klunek@pbs.edu.pl"
+        ],
+        "uid": "kwalda",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "205",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 3749528",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3120",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "86161BA1-B2A2-4376-95A6-F98DB8193744",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Knapowski",
+        "aliasUTP": [
+            "Tomasz.Knapowski@pbs.edu.pl"
+        ],
+        "uid": "knap",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.15",
+                        "to": "11.00"
+                    },
+                    "monday": {
+                        "from": "9.30",
+                        "to": "10.15"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": null,
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-91-16",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1014",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "7BC262EF-A631-4115-B589-52CED96EC0AB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mirosław",
+        "lastName": "Kobierski",
+        "aliasUTP": [
+            "Miroslaw.Kobierski@pbs.edu.pl"
+        ],
+        "uid": "kobierski",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "thursday": {
+                        "from": "15",
+                        "to": "16"
+                    },
+                    "tuesday": {
+                        "from": "10",
+                        "to": "11"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "217",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-51",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1309",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "517FAB6C-9C0B-4157-A284-32E677CEEBE8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krystyna",
+        "lastName": "Kondratowicz-Maciejewska",
+        "aliasUTP": [
+            "Krystyna.Kondratowicz-Maciejewska@pbs.edu.pl"
+        ],
+        "uid": "kondratowicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "309",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-02",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1568",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BA0620E8-9D0F-4548-9645-906678EB21E5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Kotwica",
+        "aliasUTP": [
+            "Karol.Kotwica@pbs.edu.pl"
+        ],
+        "uid": "kotwica",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1255",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "thursday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    },
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 310",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1017",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "E72473C6-4DA4-4087-8CC5-2C85CCB0A440",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Kozera",
+        "aliasUTP": [
+            "Wojciech.Kozera@pbs.edu.pl"
+        ],
+        "uid": "kozera",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK B",
+                "room": "6a",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-90-98",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1013",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "FECE9700-7792-4E1F-BCBC-AA08424CA4AF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alicja",
+        "lastName": "Kulpińska",
+        "aliasUTP": [
+            "alicja.kulpinska@pbs.edu.pl"
+        ],
+        "uid": "alipaw003",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {},
+                "building": "BUDYNEK B",
+                "room": "103",
+                "subUnitCode": "04024005000",
+                "phoneNumber": "52 374-95-39",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3729",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "030A3AA5-69D1-490B-A4AE-6F9E38D6E55D",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Kulus",
+        "aliasUTP": [
+            "Dariusz.Kulus@pbs.edu.pl"
+        ],
+        "uid": "Dariusz.Kulus",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Kierownik Pracowni"
+                ],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12",
+                        "to": "13"
+                    },
+                    "friday": {
+                        "from": "12",
+                        "to": "13"
+                    }
+                },
+                "building": "BUDYNEK B",
+                "room": "103",
+                "subUnitCode": "04024005000",
+                "phoneNumber": "523749536",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3360",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0498EA91-D014-4C4E-89E0-BF83A76FCCC9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Renata",
+        "lastName": "Kuśmierek-Tomaszewska",
+        "aliasUTP": [
+            "Renata.Kusmierek-Tomaszewska@pbs.edu.pl"
+        ],
+        "uid": "rkusmier",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1264",
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "sunday": {
+                        "from": "7:30-8:00",
+                        "to": "14:30-15:00"
+                    },
+                    "monday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 320",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-16",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2336",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "77E79AB7-01AB-4469-9A82-232535359EFA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Lamparski",
+        "aliasUTP": [
+            "Robert.Lamparski@pbs.edu.pl"
+        ],
+        "uid": "robert",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1631",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "thursday": {
+                        "from": "11.15",
+                        "to": "13.15"
+                    }
+                },
+                "building": "I",
+                "room": "I 119",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-93-61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1333",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A5D665D2-A110-4497-8EF6-C12B37EABEE6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Lemanowicz",
+        "aliasUTP": [
+            "Joanna.Lemanowicz@pbs.edu.pl"
+        ],
+        "uid": "lemanowicz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "18",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2337",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "BDECBFCB-4319-4B03-8263-6DCAA4DA00FD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Lemańczyk",
+        "aliasUTP": [
+            "Grzegorz.Lemanczyk@pbs.edu.pl"
+        ],
+        "uid": "grzegorz",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1634",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.15",
+                        "to": "10.15"
+                    }
+                },
+                "building": "I",
+                "room": "I 103",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-94-91",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1410",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "7FB4E421-5970-4119-AF73-24ED10F6DACF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Ligocka",
+        "aliasUTP": [
+            "Anna.Ligocka@pbs.edu.pl"
+        ],
+        "uid": "ligocka",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Technologia żywności i żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "thursday": {
+                        "from": "11.00",
+                        "to": "12.00"
+                    },
+                    "monday": {
+                        "from": "10.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "BUDYNEK B",
+                "room": "131",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-95-32",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2009",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F4687D1A-9D23-4349-BA8E-F4688E9D6C4B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Lisiecki",
+        "aliasUTP": [
+            "Karol.Lisiecki@pbs.edu.pl"
+        ],
+        "uid": "Karol.Lisiecki",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1637",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "I",
+                "room": "I 106",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "523749414",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3540",
+                "floor": "I PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "101C2634-E2E1-4160-9A8F-D8C80493F869",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ariel",
+        "lastName": "Łangowski",
+        "aliasUTP": [
+            "Ariel.Langowski@pbs.edu.pl"
+        ],
+        "uid": "arilan000",
+        "academicTitle": "dr inż.arch.kraj.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1261",
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 317",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "791355751",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3598",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6098CFA3-45CA-408C-AE72-EF860682279C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Łojko",
+        "aliasUTP": [
+            "Agnieszka.Lojko@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Lojko",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1554",
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {},
+                "building": "I",
+                "room": "I 015",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 340-87-17, 52 340-80-19",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3270",
+                "floor": "PARTER",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "5BF661A0-88A5-491B-B216-D79A1594F3C7",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksander",
+        "lastName": "Łukanowski",
+        "aliasUTP": [
+            "Aleksander.Lukanowski@pbs.edu.pl"
+        ],
+        "uid": "luk-al",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Biologiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1625",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 112",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-93-50",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2010",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BCD7DB0E-E707-4B06-8BFA-92017E279337",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Maciuszek",
+        "aliasUTP": [
+            "agata.maciuszek@pbs.edu.pl"
+        ],
+        "uid": "agaogi002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "128",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-95-48",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3857",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "4C02D20B-92E5-45AE-A7D1-99AD2FFACAE4",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Miler",
+        "aliasUTP": [
+            "Natalia.Miler@pbs.edu.pl"
+        ],
+        "uid": "nmiler",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.15",
+                        "to": "12.15"
+                    }
+                },
+                "building": "BUDYNEK D",
+                "room": null,
+                "subUnitCode": "04024005000",
+                "phoneNumber": "52 374-95-64",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2662",
+                "floor": "1 PIĘTRO (PODDASZE)",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "53A1542D-E7B1-4541-8DF7-BBF1C5AE075A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Niemczyk",
+        "aliasUTP": [
+            "Malgorzata.Niemczyk@pbs.edu.pl"
+        ],
+        "uid": "niemczyk",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1186",
+                "subUnitName": "Biuro Dziekana - WRiB",
+                "consultations": {},
+                "building": "E",
+                "room": "E 102",
+                "subUnitCode": "04027000000",
+                "phoneNumber": "52 374-95-23",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "1550",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. finans-administr"
+            }
+        ],
+        "guid": "BF411FBD-9A2A-4D06-BBB1-7B27DA855799",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Niklas",
+        "aliasUTP": [
+            "Aleksandra.Niklas@pbs.edu.pl"
+        ],
+        "uid": "niklas",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1549",
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {},
+                "building": "I",
+                "room": "I 013c",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 340-80-19",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1289",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "49EB352E-D5CB-4DE7-9E7D-3726158F2414",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Nowak-Tkaczyk",
+        "aliasUTP": [
+            "Anna.Nowak-Tkaczyk@pbs.edu.pl"
+        ],
+        "uid": "nowak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "103",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-42",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2275",
+                "floor": "1 PIĘTRO",
+                "job": "Technik"
+            }
+        ],
+        "guid": "38A74D2D-E28D-4A4C-83E2-CB41E701DE84",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Olszewska",
+        "aliasUTP": [
+            "Dorota.Olszewska@pbs.edu.pl"
+        ],
+        "uid": "dorota",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki Biologiczne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1549",
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {
+                    "monday": {
+                        "from": "9.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "I",
+                "room": "I 013c",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 340-80-19",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1353",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "914E0789-7867-4120-9C12-F122DB874D9C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Pakuła",
+        "aliasUTP": [
+            "Jaroslaw.Pakula@pbs.edu.pl"
+        ],
+        "uid": "pakula",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "-2",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-72",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1077",
+                "floor": "PIWNICA",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "431B320A-F929-48AA-93DE-7D3DDD1D3A3D",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Pańka",
+        "aliasUTP": [
+            "Dariusz.Panka@pbs.edu.pl"
+        ],
+        "uid": "panka",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1633",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9.00 - 10.00",
+                        "to": "12.00 - 13.00"
+                    }
+                },
+                "building": "I",
+                "room": "I 102",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-94-79",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1365",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "E1A5532E-1315-4126-81B1-F8AEC50669D4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Danuta",
+        "lastName": "Patyk",
+        "aliasUTP": [
+            "Danuta.Patyk@pbs.edu.pl"
+        ],
+        "uid": "jpatyk",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1185",
+                "subUnitName": "Biuro Dziekana - WRiB",
+                "consultations": {},
+                "building": "E",
+                "room": "E 101",
+                "subUnitCode": "04027000000",
+                "phoneNumber": "523749506",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2956",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. badań naukowych"
+            }
+        ],
+        "guid": "0AD967E3-B74F-4184-9E80-0AA331D7511A",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Piekarczyk",
+        "aliasUTP": [
+            "Mariusz.Piekarczyk@pbs.edu.pl"
+        ],
+        "uid": "mapiek",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1248",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "friday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 304",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-47",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1259",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "88A33A25-53CF-4A3C-829F-2C1673BFA43D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Piesik",
+        "aliasUTP": [
+            "Dariusz.Piesik@pbs.edu.pl"
+        ],
+        "uid": "piesik",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1629",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "monday": {
+                        "from": "10",
+                        "to": "12"
+                    }
+                },
+                "building": "I",
+                "room": "I 118",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "52 374-9945",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1524",
+                "floor": "I PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "B881608C-F2B7-4ED1-915B-213EEDCD5625",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Piotrowska-Długosz",
+        "aliasUTP": [
+            "Anna.Piotrowska-Dlugosz@pbs.edu.pl"
+        ],
+        "uid": "apiotr",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "18",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1355",
+                "floor": "PARTER",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "3239C00C-4C5A-4E59-9ADD-F1C4AC005E3A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Pobereżny",
+        "aliasUTP": [
+            "Jaroslaw.Poberezny@pbs.edu.pl"
+        ],
+        "uid": "poberezny",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1566",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "thursday": {
+                        "from": "9.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "I",
+                "room": "I 018a",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-45",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1966",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F8EC1DCD-7E30-4EA8-ABB4-6477E7E5B27E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Polkowska",
+        "aliasUTP": [
+            "Magdalena.Polkowska@pbs.edu.pl"
+        ],
+        "uid": "polkowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "5",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-66",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3049",
+                "floor": "PIWNICA",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "2E2434B0-F6BC-4A83-A495-01B77C820763",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Prus",
+        "aliasUTP": [
+            "Piotr.Prus@pbs.edu.pl"
+        ],
+        "uid": "prus",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1249",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "thursday": {
+                        "from": "11",
+                        "to": "13"
+                    }
+                },
+                "building": "E",
+                "room": "E 302",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374 94 41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2335",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A4ECF429-F454-438B-81AA-92D69366655C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Rewers",
+        "aliasUTP": [
+            "Monika.Rewers@pbs.edu.pl"
+        ],
+        "uid": "mrewers",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1554",
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11.30",
+                        "to": "13.30"
+                    }
+                },
+                "building": "I",
+                "room": "I 015",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 340 87 17",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3112",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D3E59EED-8674-4BBC-BBAE-63E1811AB6CC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Stanisław",
+        "lastName": "Rolbiecki",
+        "aliasUTP": [
+            "Stanislaw.Rolbiecki@pbs.edu.pl"
+        ],
+        "uid": "rolbs",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1260",
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 316",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-80",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1022",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "3FC9E2DF-C156-4036-A8AD-9B99E9C0F422",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Roman",
+        "lastName": "Rolbiecki",
+        "aliasUTP": [
+            "Roman.Rolbiecki@pbs.edu.pl"
+        ],
+        "uid": "rolbr",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "thursday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "E",
+                "room": null,
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-47",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1567",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "88EFE26A-B438-496E-9637-8AE6CDB33C64",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Rydlewska",
+        "aliasUTP": [
+            "Magdalena.Rydlewska@pbs.edu.pl"
+        ],
+        "uid": "magryd",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "205",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-28",
+                "occupationalGroup": "Prac N-A.",
+                "ewidNo": "2928",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista naukowo-techniczny"
+            }
+        ],
+        "guid": "8A59BB07-052F-419C-86D5-24B097E71D88",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dominika",
+        "lastName": "Rymarz",
+        "aliasUTP": [
+            "Dominika.Rymarz@pbs.edu.pl"
+        ],
+        "uid": "domrym000",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {},
+                "building": "BUDYNEK B",
+                "room": "103",
+                "subUnitCode": "04024005000",
+                "phoneNumber": "52 374-95-39",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3439",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "73BA09F7-0810-4156-99BB-8B071157A4F5",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Sadowska",
+        "aliasUTP": [
+            "Katarzyna.Sadowska@pbs.edu.pl"
+        ],
+        "uid": "ksadowska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1187",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12.30",
+                        "to": "14.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 103",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374 94 72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3774",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3CBAAFAC-2CA9-4AC9-A673-37585579657C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sebastian",
+        "lastName": "Sendel",
+        "aliasUTP": [
+            "Sebastian.Sendel@pbs.edu.pl"
+        ],
+        "uid": "Sebastian.Sendel",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1637",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {},
+                "building": "I",
+                "room": "I 106",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "523749414",
+                "occupationalGroup": "Prac N-A.",
+                "ewidNo": "3567",
+                "floor": "I PIĘTRO",
+                "job": "Specjalista badawczo - techniczny"
+            }
+        ],
+        "guid": "66375EA8-6045-4D95-9F86-10FF8BFECA00",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anetta",
+        "lastName": "Siwik-Ziomek",
+        "aliasUTP": [
+            "Anetta.Siwik-Ziomek@pbs.edu.pl"
+        ],
+        "uid": "ziomek",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "2",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1971",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A7508DC4-36F4-4323-AA0A-547C25209176",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Stosik",
+        "aliasUTP": [
+            "Tomasz.Stosik@pbs.edu.pl"
+        ],
+        "uid": "stosik",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1203",
+                "subUnitName": "Katedra Mikrobiologii i Ekologii Roślin",
+                "consultations": {
+                    "thursday": {
+                        "from": "14.00",
+                        "to": "15.00"
+                    },
+                    "tuesday": {
+                        "from": "8.15",
+                        "to": "9.15"
+                    }
+                },
+                "building": "E",
+                "room": "E 121",
+                "subUnitCode": "04030000000",
+                "phoneNumber": "+48 52 374-95-20",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1599",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "161089FF-27BB-499A-8E82-97333905657F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Szczepanek",
+        "aliasUTP": [
+            "Malgorzata.Szczepanek@pbs.edu.pl"
+        ],
+        "uid": "szczepan",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1196",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "monday": {
+                        "from": "09:45",
+                        "to": "11:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 113",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-65",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1576",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "552648C3-A835-4816-B065-8E261196B05F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Szrejber",
+        "aliasUTP": [
+            "Tomasz.Szrejber@pbs.edu.pl"
+        ],
+        "uid": "szrejber",
+        "academicTitle": "lic.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "I",
+                "room": "I 018B",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-92-21",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2484",
+                "floor": "PARTER",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "726EAB08-206E-4CDC-BEA9-F3E9AEDA155C",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Tomaszewska-Sowa",
+        "aliasUTP": [
+            "Magdalena.Tomaszewska-Sowa@pbs.edu.pl"
+        ],
+        "uid": "magda",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.00",
+                        "to": "13.00"
+                    },
+                    "tuesday": {
+                        "from": "9.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "117",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 374-95-21",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1975",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "87C453EA-4DAF-461F-8684-014DDEE47276",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Twardowski",
+        "aliasUTP": [
+            "Tomasz.Twardowski@pbs.edu.pl"
+        ],
+        "uid": "tward",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biotechnologii",
+                "consultations": {},
+                "building": "BUDYNEK A",
+                "room": "104",
+                "subUnitCode": "04024000000",
+                "phoneNumber": "52 374-95-25",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1420",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "D1166B45-9B50-4C0E-BE8D-6B89CB284E96",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zenon",
+        "lastName": "Tyloch",
+        "aliasUTP": [
+            "Zenon.Tyloch@pbs.edu.pl"
+        ],
+        "uid": "Tyloch.Zenon",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "04024005000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "1457",
+                "floor": null,
+                "job": "Robotnik wykwalifikowany"
+            }
+        ],
+        "guid": "48696211-52F5-4B8D-BDBF-2466768BC194",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alicja",
+        "lastName": "Tymoszuk",
+        "aliasUTP": [
+            "Alicja.Tymoszuk@pbs.edu.pl"
+        ],
+        "uid": "Alicja.Tymoszuk",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12.30",
+                        "to": "14.30"
+                    }
+                },
+                "building": "BUDYNEK D",
+                "room": "9",
+                "subUnitCode": "04024005000",
+                "phoneNumber": "52 374 95 22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3188",
+                "floor": "1 PIĘTRO (PODDASZE)",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "39A2740B-1913-4531-975A-9E017F50661F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Teresa",
+        "lastName": "Urbanowska",
+        "aliasUTP": [
+            "Teresa.Urbanowska@pbs.edu.pl"
+        ],
+        "uid": "turb",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1197",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "E",
+                "room": "E 114",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-9441",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "1095",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "A6738DE3-AAB4-44CE-A32C-62A2905F0072",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Wasilewski",
+        "aliasUTP": [
+            "Piotr.Wasilewski@pbs.edu.pl"
+        ],
+        "uid": "wasilewski",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1266",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "saturday": {
+                        "from": "13.00",
+                        "to": "14.00"
+                    },
+                    "monday": {
+                        "from": "11.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 322",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-28",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1028",
+                "floor": "3 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "9609DEF0-6010-4556-A284-66232BF4218A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Wenda-Piesik",
+        "aliasUTP": [
+            "Anna.Wenda-Piesik@pbs.edu.pl"
+        ],
+        "uid": "apiesik",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1256",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "thursday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 311",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-69, 52-374-95-31",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1490",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "6391E837-A59D-4B6E-B6D5-F517D8B61551",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Wichrowska",
+        "aliasUTP": [
+            "Dorota.Wichrowska@pbs.edu.pl"
+        ],
+        "uid": "wichrowska",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "I",
+                "room": "I 003B",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-20",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2672",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D8084A05-215D-4C54-8E5C-D99802860E1E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Wielewska",
+        "aliasUTP": [
+            "Izabela.Wielewska@pbs.edu.pl"
+        ],
+        "uid": "wielewska",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1251",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "friday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 306",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "600 822 486",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3139",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "53DDEB58-8906-4325-8545-CEFCA1F86659",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Edward",
+        "lastName": "Wilczewski",
+        "aliasUTP": [
+            "Edward.Wilczewski@pbs.edu.pl"
+        ],
+        "uid": "edward",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1189",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "12:00"
+                    },
+                    "friday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 105",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-94-43",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1354",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F3A1512D-6B91-4333-AC6F-2AC1FA5A6345",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Wojewódzki",
+        "aliasUTP": [
+            "Piotr.Wojewodzki@pbs.edu.pl"
+        ],
+        "uid": "pwoj",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "12:00"
+                    },
+                    "monday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "BUDYNEK A",
+                "room": "3",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374 95 11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2930",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D1068E5D-590B-4B4F-96DF-A542883E764F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anita",
+        "lastName": "Woźny",
+        "aliasUTP": [
+            "Anita.Wozny@pbs.edu.pl"
+        ],
+        "uid": "wozny",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Bernardyńska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Pracownia Ogrodnictwa i Architektury Krajobrazu",
+                "consultations": {
+                    "monday": {
+                        "from": "12.00",
+                        "to": "13.30"
+                    }
+                },
+                "building": "BUDYNEK B",
+                "room": "107",
+                "subUnitCode": "04024005000",
+                "phoneNumber": "52 374-95-33",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2041",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "C44ED929-E1B8-4726-984A-07CD81CE1A67",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Elżbieta",
+        "lastName": "Wszelaczyńska",
+        "aliasUTP": [
+            "Elzbieta.Wszelaczynska@pbs.edu.pl"
+        ],
+        "uid": "wszela",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {},
+                "building": "I",
+                "room": "I 017B",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-93-66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1097",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "60E0A23A-6046-40BE-9D33-981CD2192D65",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Żarski",
+        "aliasUTP": [
+            "Jacek.Zarski@pbs.edu.pl"
+        ],
+        "uid": "zarski",
+        "academicTitle": "prof. dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1263",
+                "subUnitName": "Katedra Biogeochemii, Gleboznawstwa i Melioracji Wodnych",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 319",
+                "subUnitCode": "04029000000",
+                "phoneNumber": "52 374-95-84",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "994",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "34F85EF8-FF98-4122-8D8F-61CB2125193D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Żary-Sikorska",
+        "aliasUTP": [
+            "Ewa.Zary-Sikorska@pbs.edu.pl"
+        ],
+        "uid": "ezary",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Rolnictwo I Ogrodnictwo",
+            "Technologia Żywności I Żywienia"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Rolnictwa i Biotechnologii",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1592",
+                "subUnitName": "Katedra Agronomii i Przetwórstwa Żywności",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "I",
+                "room": "I 003a",
+                "subUnitCode": "04028000000",
+                "phoneNumber": "52 374-92-22",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3064",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F97BD970-FF10-433B-AFEA-FE55E698B456",
+        "academicTeacher": true
+    }
+]

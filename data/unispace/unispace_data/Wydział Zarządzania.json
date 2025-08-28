@@ -1,0 +1,2505 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Natalia",
+        "lastName": "Buchalska-Sugajska",
+        "aliasUTP": [
+            "Natalia.Buchalska-Sugajska@pbs.edu.pl"
+        ],
+        "uid": "natbuc002",
+        "academicTitle": "mgr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Pedagogika"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1230",
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 214",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52-340-88-64, 519-655-932",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3689",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "48BB6C8C-62FC-4B33-81E7-899D2E12A538",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Chudzyńska",
+        "aliasUTP": [
+            "izabela.chudzynska@pbs.edu.pl"
+        ],
+        "uid": "izabela.chudzynska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1218",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:30",
+                        "to": "15:15"
+                    },
+                    "thursday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 203",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 82 72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3878",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A5B067D8-C350-4337-A436-DB7C9AF94824",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Drewniak",
+        "aliasUTP": [
+            "Rafal.Drewniak@pbs.edu.pl"
+        ],
+        "uid": "drewniak",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "878",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "11:30",
+                        "to": "12:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 206",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 86",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2506",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0BC42569-D62E-4F8B-A8A0-21537B7B53CE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zbigniew",
+        "lastName": "Drewniak",
+        "aliasUTP": [
+            "Zbigniew.Drewniak@pbs.edu.pl"
+        ],
+        "uid": "Zbigniew.Drewniak",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "13.30"
+                    }
+                },
+                "building": "E",
+                "room": "E 233",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 82 28",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3603",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D4566F78-9455-4095-A012-95FFD7328DD9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Dzieża",
+        "aliasUTP": [
+            "Grzegorz.Dzieza@pbs.edu.pl"
+        ],
+        "uid": "zis",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1233",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "monday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 220",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340-88-56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1005",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "BF14A331-CFED-489B-BADD-652F0AAE52FF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Flizikowska",
+        "aliasUTP": [
+            "Dorota.Flizikowska@pbs.edu.pl"
+        ],
+        "uid": "Dorota.Flizikowska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1228",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "18.45",
+                        "to": "19.15"
+                    },
+                    "monday": {
+                        "from": "13.30",
+                        "to": "15.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 216",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340 81 92",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3505",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "120F2F45-66D9-4066-8D82-1843A0DEB373",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Gotowska",
+        "aliasUTP": [
+            "Malgorzata.Gotowska@pbs.edu.pl"
+        ],
+        "uid": "M.Gotowska",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Prorektor ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "883",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "thursday": {
+                        "from": "18.30",
+                        "to": "20.30"
+                    }
+                },
+                "building": "B",
+                "room": "B 211",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340-80-14",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2707",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F48DAA70-610E-4CD9-9650-4D99F9D0B395",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Goździewska-Nowicka",
+        "aliasUTP": [
+            "Agnieszka.Gozdziewska-Nowicka@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Gozdziewska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Pełnomocnik Rektora ds.współpracy ze szkołami srednimi"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "879",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:30",
+                        "to": "13:30"
+                    },
+                    "monday": {
+                        "from": "10:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 207",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 8801",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3369",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D9C8DCA0-DD76-4916-A3D9-AC0EC3344136",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Grabowska",
+        "aliasUTP": [
+            "anna.grabowska@pbs.edu.pl"
+        ],
+        "uid": "anna.grabowska",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1219",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {},
+                "building": "E",
+                "room": "E 204",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 88 51",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4211",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "03F61A6B-32B0-4035-AE98-B286EF2307D2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Grochowski",
+        "aliasUTP": [
+            "Krzysztof.Grochowski@pbs.edu.pl"
+        ],
+        "uid": "K.Grochowski",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Pedagogika"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1224",
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "monday": {
+                        "from": "09.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "E",
+                "room": "E 209",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340-88-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3316",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2FC5823E-FD2B-4F32-8498-34AFEDA10024",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Grzeszczak",
+        "aliasUTP": [
+            "Malgorzata.Grzeszczak@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Grzeszczak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "thursday": {
+                        "from": "9:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "E",
+                "room": "E 232",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 88 75",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3684",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "69DC71FE-8E1F-4B8C-B13C-13BA2336A206",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adrianna",
+        "lastName": "Guzowska",
+        "aliasUTP": [
+            "Adrianna.Guzowska@pbs.edu.pl"
+        ],
+        "uid": "adrlis002",
+        "academicTitle": "mgr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Pedagogika"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1235",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {},
+                "building": "E",
+                "room": "E 222",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52, 340-88-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3688",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "C32C563F-A2D6-4A0D-B7A3-B153BA592103",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Jakubczak",
+        "aliasUTP": [
+            "Anna.Jakubczak@pbs.edu.pl"
+        ],
+        "uid": "ajakubczak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Ekonomia I Finanse",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "884",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "wednesday": {
+                        "from": "15:00",
+                        "to": "16:00"
+                    },
+                    "monday": {
+                        "from": "16:45",
+                        "to": "17:45"
+                    }
+                },
+                "building": "B",
+                "room": "B 212",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 68",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2760",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "27F9B576-E6D5-462A-BE78-2139EF6A2B5F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Arkadiusz",
+        "lastName": "Januszewski",
+        "aliasUTP": [
+            "Arkadiusz.Januszewski@pbs.edu.pl"
+        ],
+        "uid": "arekj",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1238",
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 213",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340-81-80",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1012",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "71FB0065-6CC0-4296-87CA-6DF62ACCAC9C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Jóźwiak",
+        "aliasUTP": [
+            "Marek.Jozwiak@pbs.edu.pl"
+        ],
+        "uid": "marjoz003",
+        "academicTitle": "mgr",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "885",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 213",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 84 88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3581",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0DD12F56-DAF6-45DC-BF43-7FBAF1FD7693",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Karaszewski",
+        "aliasUTP": [
+            "Robert.Karaszewski@pbs.edu.pl"
+        ],
+        "uid": "Robert.Karaszewski",
+        "academicTitle": "prof. dr hab.",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "881",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {},
+                "building": "B",
+                "room": "B 209",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 67",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2686",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor"
+            }
+        ],
+        "guid": "EB5F8314-0286-4BD3-AE28-91CB5B6E9366",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Kica",
+        "aliasUTP": [
+            "Piotr.Kica@pbs.edu.pl"
+        ],
+        "uid": "Piotr.Kica",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    },
+                    "thursday": {
+                        "from": "14:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 232",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 88 75",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3739",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "17C605A2-67E1-4699-916A-A5D80DF3711F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Klemke-Pitek",
+        "aliasUTP": [
+            "Monika.Klemke-Pitek@pbs.edu.pl"
+        ],
+        "uid": "monika.kp",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "881",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "thursday": {
+                        "from": "16:45",
+                        "to": "18:45"
+                    }
+                },
+                "building": "B",
+                "room": "B 209",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 80 13",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1974",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1D663B49-E1F6-4371-B453-9A0B0DA06A65",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Kolemba",
+        "aliasUTP": [
+            "aleksandra.kolemba@pbs.edu.pl"
+        ],
+        "uid": "aleksandra.kolemba",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "880",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "wednesday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 208",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3828",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "48029442-4852-4432-83E7-77D7F8E2B776",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Komarnicka",
+        "aliasUTP": [
+            "Anna.Komarnicka@pbs.edu.pl"
+        ],
+        "uid": "Anna.Komarnicka",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "879",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {},
+                "building": "B",
+                "room": "B 207",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 01",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3687",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "AF0C9F84-AB7F-42D0-A350-4D0C3776F710",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Koreleska",
+        "aliasUTP": [
+            "Ewa.Koreleska@pbs.edu.pl"
+        ],
+        "uid": "koreleska_ferenc",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1236",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:05",
+                        "to": "15:05"
+                    }
+                },
+                "building": "E",
+                "room": "E 223",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340 88 77",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1590",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "336E113F-B068-43C5-8575-91507AEBF8D7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Kosierb",
+        "aliasUTP": [
+            "Izabela.Kosierb@pbs.edu.pl"
+        ],
+        "uid": "Izabela.Kosierb",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "08012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4141",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "841B4F29-AE38-4310-B597-2495F3985956",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Nicole",
+        "lastName": "Kraska",
+        "aliasUTP": [
+            " Nicole.Kraska@pbs.edu.pl"
+        ],
+        "uid": "nickra000",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "15:00",
+                        "to": "17:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 226",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "523408883",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4207",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "EBB6F7A2-94E4-498A-8496-10B2637E6FC0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Igor",
+        "lastName": "Kravchuk",
+        "aliasUTP": [
+            "Igor.Kravchuk@pbs.edu.pl"
+        ],
+        "uid": "Igor.Kravchuk",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Pełnom. Rektora ds.pomocy Ukrainie"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:15; 16:45",
+                        "to": "13:30; 17:30"
+                    }
+                },
+                "building": "E",
+                "room": "E 230",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 80 13",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3611",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "58200CC6-BAFF-4584-AE5E-2816A972DEB0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Krupcała",
+        "aliasUTP": [
+            "Kinga.Krupcala@pbs.edu.pl"
+        ],
+        "uid": "Kinga.Krupcala",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "monday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 226",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340 88 83",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3685",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "740A210A-4CAF-4E00-BDBD-99868D3444CF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Kuśmierek",
+        "aliasUTP": [
+            "Anna.Kusmierek@pbs.edu.pl"
+        ],
+        "uid": "apiron",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "876",
+                "subUnitName": "Biuro Dziekana - WZ",
+                "consultations": {},
+                "building": "B",
+                "room": "B 204",
+                "subUnitCode": "08014000000",
+                "phoneNumber": "52 340-88-79",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2920",
+                "floor": "2 PIĘTRO",
+                "job": "Starszy specjalista ds. dydaktycznych"
+            }
+        ],
+        "guid": "A7DFA7CD-BF9A-4517-BEE3-9FA24A4ED0FC",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bogdan",
+        "lastName": "Lent",
+        "aliasUTP": [
+            "Bogdan.Lent@pbs.edu.pl"
+        ],
+        "uid": "lent",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "friday": {
+                        "from": "16:00",
+                        "to": "18:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 227",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340 88 65",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2702",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "04C7C440-F195-4080-B301-1F27119300F9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Lewandowski",
+        "aliasUTP": [
+            "Jaroslaw.Lewandowski@pbs.edu.pl"
+        ],
+        "uid": "Jaroslaw.Lewandowski",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "882",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 210",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 374 88 78",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4196",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "D5672130-D85C-4D6B-AA71-63475FB3E985",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wiktoria",
+        "lastName": "Lorbiecka",
+        "aliasUTP": [
+            "wiktoria.lorbiecka@pbs.edu.pl"
+        ],
+        "uid": "wiklor000",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "875",
+                "subUnitName": "Biuro Dziekana - WZ",
+                "consultations": {},
+                "building": "B",
+                "room": "B 203",
+                "subUnitCode": "08014000000",
+                "phoneNumber": "52 340-88-53",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4347",
+                "floor": "2 PIĘTRO",
+                "job": "Samodzielny referent ds. administrac. - finansowych"
+            }
+        ],
+        "guid": "26A5C5BA-072A-4953-9997-63D75BB198ED",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Madrak-Grochowska",
+        "aliasUTP": [
+            "Malgorzata.Madrak-Grochowska@pbs.edu.pl"
+        ],
+        "uid": "Madrak.Grochowska",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1219",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:10",
+                        "to": "15:10"
+                    }
+                },
+                "building": "E",
+                "room": "E 204",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 88 51",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3721",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A24DF048-0A85-4CDE-82AA-914F21D150CC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Małachowski",
+        "aliasUTP": [
+            "krzysztof.malachowski@pbs.edu.pl"
+        ],
+        "uid": "krzysztof.malachowski",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "08004000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3752",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C701EE3E-DB5C-4EB3-BCE1-8B056940BAF0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Matuszewski",
+        "aliasUTP": [
+            "Maciej.Matuszewski@pbs.edu.pl"
+        ],
+        "uid": "matus",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Mechaniczna",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1229",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "monday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 215",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340-88-74",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2447",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "9001866A-B12F-4252-894C-25065B8CB814",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ewa",
+        "lastName": "Matyjaszczyk",
+        "aliasUTP": [
+            "Ewa.Matyjaszczyk@pbs.edu.pl"
+        ],
+        "uid": "Ewa.Matyjaszczyk",
+        "academicTitle": "dr hab.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "friday": {
+                        "from": "14.00",
+                        "to": "16.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 228",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 34088 73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4056",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "F101FDCF-9829-414D-821C-8D28AD84D58D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Michalcewicz-Kaniowska",
+        "aliasUTP": [
+            "Malgorzata.Michalcewicz-Kaniowska@pbs.edu.pl"
+        ],
+        "uid": "malgosia",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1222",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "monday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 208",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340-82-14, 52 340-81-76",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1964",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "FEB2F6B4-B93F-4246-A481-AFB02232A292",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Michałek",
+        "aliasUTP": [
+            "anna.michalek@pbs.edu.pl"
+        ],
+        "uid": "anna.michalek",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1220",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 205",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3872",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "AB9FA46F-5ACD-4476-917F-B03DA841DDF9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mateusz",
+        "lastName": "Minda",
+        "aliasUTP": [
+            "Mateusz.Minda@pbs.edu.pl"
+        ],
+        "uid": "Mateusz.Minda",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "878",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {},
+                "building": "B",
+                "room": "B 206",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 86",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4150",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "59472E32-F0F9-4AA3-BCF0-FE6190A1CACF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Modrzyński",
+        "aliasUTP": [
+            "Pawel.Modrzynski@pbs.edu.pl"
+        ],
+        "uid": "Pawel.Modrzynski",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:15",
+                        "to": "13:15"
+                    }
+                },
+                "building": "E",
+                "room": "E 231",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 88 66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3473",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B5263235-22B1-464D-8D10-7457C000D4A4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Murawska",
+        "aliasUTP": [
+            "Anna.Murawska@pbs.edu.pl"
+        ],
+        "uid": "h-anna",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 206",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 88 70",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "695",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "D5912874-034D-4CE4-ACE9-C0C98000B6AF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Owczarczyk-Szpakowska",
+        "aliasUTP": [
+            "Grazyna.Owczarczyk-Szpakowska@pbs.edu.pl"
+        ],
+        "uid": "goszp",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13:30",
+                        "to": "15:30"
+                    }
+                },
+                "building": "E",
+                "room": "E 231",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340-88-66",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2350",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3DC44BAB-557C-4800-80C1-0B1042163267",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patryk",
+        "lastName": "Piłat",
+        "aliasUTP": [
+            "Patryk.Pilat@pbs.edu.pl"
+        ],
+        "uid": "Patryk.Pilat",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "08012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4069",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "D472C62C-8482-499E-826C-0E4285221070",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iwona",
+        "lastName": "Posadzińska",
+        "aliasUTP": [
+            "Iwona.Posadzinska@pbs.edu.pl"
+        ],
+        "uid": "iwonap",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "893",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 221",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1530",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            },
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "893",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 221",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1530",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "0F0DAE03-462E-4F46-BACD-397DF4C4BAB6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Elżbieta",
+        "lastName": "Przekwas",
+        "aliasUTP": [
+            " Elzbieta.Przekwas@pbs.edu.pl"
+        ],
+        "uid": "elzpie001",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "17:00",
+                        "to": "19:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 234",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "523408859",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4243",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "56B5295B-E34C-4630-9477-D87614FA9E89",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Radecka",
+        "aliasUTP": [
+            "Katarzyna.Radecka@pbs.edu.pl"
+        ],
+        "uid": "woznicka",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1234",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "friday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 221",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3203",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6D2778AE-115D-4076-BE13-9CD575094D62",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Raniszewska-Wyrwa",
+        "aliasUTP": [
+            "agnieszka.raniszewska-wyrwa@pbs.edu.pl"
+        ],
+        "uid": "agnieszka.raniszewska-wyrwa",
+        "academicTitle": "doktor",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1218",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "monday": {
+                        "from": "13:00",
+                        "to": "15:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 203",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 82 72",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3749",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5E9D83C4-8D1D-46A1-B2B9-FB49C8B512EB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sara",
+        "lastName": "Rostowska",
+        "aliasUTP": [
+            " Sara.Rostowska@pbs.edu.pl"
+        ],
+        "uid": "sarkoh000",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {},
+                "building": "E",
+                "room": "E 225",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 52",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4244",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "F37B6E27-11FB-412A-817C-99DB02291229",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Schulz",
+        "aliasUTP": [
+            "Maciej.Schulz@pbs.edu.pl"
+        ],
+        "uid": "m.schulz",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Nauki O Komunikacji Społecznej I Mediach"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1220",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "thursday": {
+                        "from": "18.30",
+                        "to": "19.30"
+                    },
+                    "tuesday": {
+                        "from": "18.30",
+                        "to": "19.30"
+                    }
+                },
+                "building": "E",
+                "room": "E 205",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "523408882",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3371",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6EBF0431-D593-4866-A813-D0832D89BF8B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patrycja",
+        "lastName": "Sieg",
+        "aliasUTP": [
+            "patrycja.sieg@pbs.edu.pl"
+        ],
+        "uid": "patmyk001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "885",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 213",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 84 88",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3841",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "603C683F-2380-491D-AA8A-616C4F4D08AE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Sikora",
+        "aliasUTP": [
+            "Marek.Sikora@pbs.edu.pl"
+        ],
+        "uid": "m.sikora",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1233",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "monday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 220",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340-88-56",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1957",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D2017893-D468-474B-82D9-1E7521DF5BA4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Skinder",
+        "aliasUTP": [
+            "marcin.skinder@pbs.edu.pl"
+        ],
+        "uid": "marcin.skinder",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki O Polityce I Administracji"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1221",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "thursday": {
+                        "from": "13.00",
+                        "to": "15.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 207",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2503",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "32BE5162-AA77-4B01-A1C9-2DEF777FC021",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Słomion",
+        "aliasUTP": [
+            "Malgorzata.Slomion@pbs.edu.pl"
+        ],
+        "uid": "malslo000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Biomedyczna",
+            "Inżynieria Mechaniczna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1235",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "monday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 222",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52, 340-88-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3600",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "235DBA19-C6BA-414D-BAF7-AA146E43DA3B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Urszula",
+        "lastName": "Słupska",
+        "aliasUTP": [
+            "Urszula.Slupska@pbs.edu.pl"
+        ],
+        "uid": "Urszula.Slupska",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "880",
+                "subUnitName": "Katedra Zarządzania Innowacjami Organizacyjnymi",
+                "consultations": {
+                    "monday": {
+                        "from": "10.30, 15.00",
+                        "to": "11:30, 16.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 208",
+                "subUnitCode": "08007000000",
+                "phoneNumber": "52 340 88 55",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3594",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "61994D6F-9C83-4618-A0FB-208D69B209B9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dorota",
+        "lastName": "Stosik",
+        "aliasUTP": [
+            "Dorota.Stosik@pbs.edu.pl"
+        ],
+        "uid": "d.stosik",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Dziekana - WZ",
+                "consultations": {},
+                "building": "B",
+                "room": "B 222",
+                "subUnitCode": "08014000000",
+                "phoneNumber": "52 340-88-60",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2960",
+                "floor": "2 PIĘTRO",
+                "job": "Główny specjalista asystent dziekana"
+            }
+        ],
+        "guid": "1013007A-707B-4397-87E3-148C67F72BE6",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Śpiewak",
+        "aliasUTP": [
+            "Justyna.Spiewak@pbs.edu.pl"
+        ],
+        "uid": "spiewak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Pedagogika"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1230",
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {},
+                "building": "E",
+                "room": "E 214",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340-88-64",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3184",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "7855CAD8-2A0A-456D-943C-3DB7375CFE54",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kamila",
+        "lastName": "Topolewska",
+        "aliasUTP": [
+            "kamila.topolewska@pbs.edu.pl"
+        ],
+        "uid": "kamila.topolewska",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Ekonomia I Finanse",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1216",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {},
+                "building": "E",
+                "room": "E 202",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340 88 63",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3920",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "18C024E8-0754-48C6-B753-34ABF8E8102F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Voss",
+        "aliasUTP": [
+            "Grazyna.Voss@pbs.edu.pl"
+        ],
+        "uid": "Grazyna.Voss",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "E",
+                "room": "E 229",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 88 85",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3367",
+                "floor": "2 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "2EFCF456-0F2C-4DCA-B645-88307751EEFD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Wachowicz",
+        "aliasUTP": [
+            "Jacek.Wachowicz@pbs.edu.pl"
+        ],
+        "uid": "Jacek.Wachowicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Nauki O Komunikacji Społecznej I Mediach"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "monday": {
+                        "from": "17.30",
+                        "to": "19.30"
+                    }
+                },
+                "building": "E",
+                "room": "E 224",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52, 340-88-58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3478",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A1E26747-033B-476B-85CD-402C49DBBE40",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Hanna",
+        "lastName": "Waligórska",
+        "aliasUTP": [
+            "Hanna.Waligorska@pbs.edu.pl"
+        ],
+        "uid": "Hanna.Waligorska",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Ekonomia I Finanse",
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:15",
+                        "to": "13:15"
+                    }
+                },
+                "building": "E",
+                "room": "E 233",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "52 340 82 28",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3829",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A999AB6B-AD9B-49EA-9C69-ED4688DB00E8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Wedler",
+        "aliasUTP": [
+            "jaroslaw.wedler@pbs.edu.pl"
+        ],
+        "uid": "jaroslaw.wedler",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Finansów i Rachunkowości",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 234",
+                "subUnitCode": "08015000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3834",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "168A5220-0D20-405B-AD40-69B93BD5C430",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Wenderlich",
+        "aliasUTP": [
+            "Malgorzata.Wenderlich@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Wenderlich",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "875",
+                "subUnitName": "Biuro Dziekana - WZ",
+                "consultations": {},
+                "building": "B",
+                "room": "B 203",
+                "subUnitCode": "08014000000",
+                "phoneNumber": "52 340-88-53",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4270",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista ds. administrac. - finansowych"
+            }
+        ],
+        "guid": "910A5512-8511-4A91-B3BB-3599D73248AB",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aneta",
+        "lastName": "Wójcik",
+        "aliasUTP": [
+            "Aneta.Wojcik@pbs.edu.pl"
+        ],
+        "uid": "Aneta.Wojcik",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "891",
+                "subUnitName": "Biuro Dziekana - WZ",
+                "consultations": {
+                    "sunday": {
+                        "from": "-",
+                        "to": "-"
+                    },
+                    "saturday": {
+                        "from": "-",
+                        "to": "-"
+                    }
+                },
+                "building": "B",
+                "room": "B 219",
+                "subUnitCode": "08014000000",
+                "phoneNumber": "0523408862",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3411",
+                "floor": "2 PIĘTRO",
+                "job": "Specjalista ds. badawczych"
+            }
+        ],
+        "guid": "894129E1-C5E8-4437-A1FB-41F3558D1A9A",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Zajdel",
+        "aliasUTP": [
+            "Malgorzata.Zajdel@pbs.edu.pl"
+        ],
+        "uid": "m.zajdel",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1222",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "friday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 208",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "52 340-81-76",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1100",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "B1042EF3-D7CB-43FC-B40C-E6531AA9B478",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Igor",
+        "lastName": "Zduński",
+        "aliasUTP": [
+            "igor.zdunski@pbs.edu.pl"
+        ],
+        "uid": "igor.zdunski",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Nauki Prawne"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1217",
+                "subUnitName": "Katedra Ekonomii i Marketingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "15.00",
+                        "to": "17.00"
+                    }
+                },
+                "building": "E",
+                "room": "E 201",
+                "subUnitCode": "08012000000",
+                "phoneNumber": "523408871",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3744",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "C94038E0-F742-4EE8-99AA-A2B071901AC6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daniel",
+        "lastName": "Zwierzchowski",
+        "aliasUTP": [
+            "Daniel.Zwierzchowski@pbs.edu.pl"
+        ],
+        "uid": "D.Zwierzchowski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości",
+            "Pedagogika"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1224",
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 209",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340-88-57",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3310",
+                "floor": "2 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "1520F8D2-A258-4C36-8EB1-20515E989BF7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Żarski",
+        "aliasUTP": [
+            "Wojciech.Zarski@pbs.edu.pl"
+        ],
+        "uid": "wojciech",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Nauki o zarządzaniu i jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1234",
+                "subUnitName": "Katedra Inżynierii Zarządzania",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 221",
+                "subUnitCode": "08004000000",
+                "phoneNumber": "52 340-88-69",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3083",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A466BDAD-C207-4A02-97F4-B2F1CA490D4C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Żółtowski",
+        "aliasUTP": [
+            "dariusz.zoltowski@pbs.edu.pl"
+        ],
+        "uid": "dariusz.zoltowski",
+        "academicTitle": "doktor",
+        "disciplines": [
+            "Nauki O Zarządzaniu I Jakości"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Zarządzania",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Informatyki Ekonomicznej i Controllingu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "19:15",
+                        "to": "21:15"
+                    }
+                },
+                "building": "E",
+                "room": "E 224",
+                "subUnitCode": "08011000000",
+                "phoneNumber": "52 340 88 58",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3746",
+                "floor": "2 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "C32E546F-D1A9-44A5-B92A-4C8700D47CE0",
+        "academicTeacher": true
+    }
+]

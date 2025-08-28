@@ -1,0 +1,27 @@
+{
+  "programs": [
+    {
+      "name": "Kierunek lekarski",
+      "type": "jednolite magisterskie",
+      "mode": "stacjonarne",
+      "duration": "12 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/kierunek-lekarski/jednolite-magisterskie/stacjonarne"
+    },
+    {
+      "name": "Prawo",
+      "type": "jednolite magisterskie",
+      "mode": "stacjonarne",
+      "duration": "10 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/prawo/jednolite-magisterskie/stacjonarne"
+    },
+    {
+      "name": "Prawo",
+      "type": "jednolite magisterskie",
+      "mode": "niestacjonarne",
+      "duration": "10 semestrów",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/prawo-1/jednolite-magisterskie/niestacjonarne"
+    }
+  ],
+  "source": "https://pbs.edu.pl/pl/oferta-dydaktyczna/jednolite-magisterskie",
+  "scraped_at": "2025-08-10T18:34:57.040047"
+}

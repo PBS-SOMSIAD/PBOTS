@@ -1,0 +1,293 @@
+{
+  "programs": [
+    {
+      "name": "Architektura",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/architektura-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Architektura wnętrz",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/architektura-wnetrz-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Biotechnologia",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/biotechnologia-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Budownictwo",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/budownictwo-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Budownictwo",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/budownictwo-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Elektronika i telekomunikacja",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektronika-i-telekomunikacja-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Elektronika i telekomunikacja",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektronika-i-telekomunikacja-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Elektrotechnika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektrotechnika-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Elektrotechnika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/elektrotechnika-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Finanse i rachunkowość",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/finanse-i-rachunkowosc-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Finanse i rachunkowość",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/finanse-i-rachunkowosc-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Geodezja i gospodarka nieruchomościami",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/geodezja-i-gospodarka-nieruchomosciami/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Geodezja i gospodarka nieruchomościami",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/geodezja-i-gospodarka-nieruchomosciami-1/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Informatyka stosowana",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/informatyka-stosowana-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Informatyka stosowana",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/informatyka-stosowana-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inżynieria Odnawialnych Źródeł Energii",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-odnawialnych-zrodel-energii-2/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria odnawialnych źródeł energii",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-odnawialnych-zrodel-energii-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inżynieria środowiska",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-srodowiska-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria środowiska",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-srodowiska-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Inżynieria w medycynie",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-w-medycynie-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Inżynieria w medycynie",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/inzynieria-w-medycynie-2/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Komunikacja wizualna i media cyfrowe",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/komunikacja-wizualna-i-media-cyfrowe/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechanika i budowa maszyn",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechanika-i-budowa-maszyn-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechanika i budowa maszyn",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechanika-i-budowa-maszyn-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Mechatronika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechatronika-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Mechatronika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/mechatronika-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Rolnictwo",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/rolnictwo-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Rolnictwo",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/rolnictwo-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Technologia chemiczna",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-chemiczna-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Technologia chemiczna",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-chemiczna-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Technologia i chemia żywności",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-i-chemia-zywnosci/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Technologia i chemia żywności",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/technologia-i-chemia-zywnosci-1/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Transport i logistyka",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/transport-i-logistyka-2/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Transport i logistyka",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/transport-i-logistyka-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Wzornictwo",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/wzornictwo-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "4 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Zarządzanie i inżynieria produkcji",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-i-inzynieria-produkcji-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zarządzanie i inżynieria produkcji",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zarzadzanie-i-inzynieria-produkcji-3/magisterskie-2-stopnia/niestacjonarne"
+    },
+    {
+      "name": "Zootechnika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "stacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zootechnika-1/magisterskie-2-stopnia/stacjonarne"
+    },
+    {
+      "name": "Zootechnika",
+      "type": "magisterskie (2 stopnia)",
+      "mode": "niestacjonarne",
+      "duration": "3 semestry",
+      "link": "https://pbs.edu.pl/pl/oferta-dydaktyczna/kierunek/zootechnika-3/magisterskie-2-stopnia/niestacjonarne"
+    }
+  ],
+  "source": "https://pbs.edu.pl/pl/oferta-dydaktyczna/studia-ii-stopnia",
+  "scraped_at": "2025-08-10T18:36:20.887048"
+}

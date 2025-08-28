@@ -1,0 +1,927 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Damian",
+        "lastName": "Bławat",
+        "aliasUTP": [
+            "Damian.Blawat@pbs.edu.pl"
+        ],
+        "uid": "Damian.Blawat",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.07",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 3749395",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3527",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "B55FC7B6-7526-4193-937C-90C06F89638D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Dahms",
+        "aliasUTP": [
+            "Adam.Dahms@pbs.edu.pl"
+        ],
+        "uid": "a.dahms",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [
+                    "Zastępca Kierownika Studium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.05",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "604 671 863",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2552",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A2D2FEA9-714C-46B8-BD00-9CBC50EC61B5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Felska-Knapinska",
+        "aliasUTP": [
+            "Kinga.Felska-Knapinska@pbs.edu.pl"
+        ],
+        "uid": "Kinga.Felska-Knapinska",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.02",
+                "subUnitCode": "16002000000",
+                "phoneNumber": "52 374 9272",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4334",
+                "floor": "PARTER",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "D63F2A39-0430-4CA9-A5C5-751147F4924A",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Gogolin",
+        "aliasUTP": [
+            "Dariusz.Gogolin@pbs.edu.pl"
+        ],
+        "uid": "d.gogolin",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "52",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "6910632A-728F-4814-9825-5B7E781AE67D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Grzenkowicz",
+        "aliasUTP": [
+            "Magdalena.Grzenkowicz@pbs.edu.pl"
+        ],
+        "uid": "Magdalena.Wittbrodt",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9.30",
+                        "to": "10.30"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 374-92-41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3359",
+                "floor": "PARTER",
+                "job": "Instruktor"
+            }
+        ],
+        "guid": "67072301-1EA2-479B-8B2D-FFA12451D19A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mirosław",
+        "lastName": "Hejda",
+        "aliasUTP": [
+            "Miroslaw.Hejda@pbs.edu.pl"
+        ],
+        "uid": "Miroslaw.Hejda",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4307",
+                "floor": null,
+                "job": "Pracownik gospodarczy"
+            }
+        ],
+        "guid": "073C83B7-2EB3-45F1-B4EE-6B339683D818",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Idziak",
+        "aliasUTP": [
+            "Agnieszka.Idziak@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Idziak",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.04",
+                "subUnitCode": "16002000000",
+                "phoneNumber": "52 374 9393",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4170",
+                "floor": "PARTER",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "80450AC8-FBEF-4D11-9854-4FAEEDB265E8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Janicki",
+        "aliasUTP": [
+            "Krzysztof.Janicki@pbs.edu.pl"
+        ],
+        "uid": "Krzysztof.Janicki",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4319",
+                "floor": null,
+                "job": "Pracownik gospodarczy"
+            }
+        ],
+        "guid": "B63CFBE9-5B4E-4D41-A20D-A68EB41DDCCF",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Andrzej",
+        "lastName": "Kostencki",
+        "aliasUTP": [
+            "Andrzej.Kostencki@pbs.edu.pl"
+        ],
+        "uid": "akostencki",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 374 9241",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "50",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2AE8F6E1-ECFC-4491-8858-3C5571309054",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Kukuła",
+        "aliasUTP": [
+            "pawel.kukula@pbs.edu.pl"
+        ],
+        "uid": "pawel.kukula",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16001000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4240",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "D53F343A-7F23-4EC1-A4EA-1CF35310A13F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Leśniak",
+        "aliasUTP": [
+            "Aleksandra.Lesniak@pbs.edu.pl"
+        ],
+        "uid": "Aleksandra.Lesniak",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4345",
+                "floor": null,
+                "job": "Pracownik gospodarczy"
+            }
+        ],
+        "guid": "7B937681-D40A-4946-89F2-E05B7F8A0A46",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karolina",
+        "lastName": "Masiukiewicz",
+        "aliasUTP": [
+            "Karolina.Masiukiewicz@pbs.edu.pl"
+        ],
+        "uid": "Karolina.Masiukiewicz",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4277",
+                "floor": null,
+                "job": "sprzątająca"
+            }
+        ],
+        "guid": "FE4FFD0C-1BFC-4E9A-B002-03BAD4FDE4B8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Nowakowska",
+        "aliasUTP": [
+            "Katarzyna.Nowakowska@pbs.edu.pl"
+        ],
+        "uid": "kosmeja",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [
+                    "Dyrektor Akademickiego Centrum Sportu"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.03",
+                "subUnitCode": "16002000000",
+                "phoneNumber": "52 374-93-57",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "2418",
+                "floor": "PARTER",
+                "job": "Dyrektor"
+            }
+        ],
+        "guid": "4786EC4A-A3DE-4778-8D15-C6E26DF58D36",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Patrycja",
+        "lastName": "Ochniowska",
+        "aliasUTP": [
+            "Patrycja.Ochniowska@pbs.edu.pl"
+        ],
+        "uid": "Patrycja.Ochniowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.04",
+                "subUnitCode": "16002000000",
+                "phoneNumber": "52 374 9393",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4283",
+                "floor": "PARTER",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "28245135-90AC-4B2A-BF4E-E776EB0B68F2",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agata",
+        "lastName": "Pielacha",
+        "aliasUTP": [
+            "Agata.Pielacha@pbs.edu.pl"
+        ],
+        "uid": "Agata.Pielacha",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4155",
+                "floor": null,
+                "job": "sprzątająca"
+            }
+        ],
+        "guid": "008A4439-1B34-4051-AB2C-737F2CC91E51",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Prabucka",
+        "aliasUTP": [
+            "Anna.Prabucka@pbs.edu.pl"
+        ],
+        "uid": "Anna.Prabucka",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": "ACS",
+                "room": "ACS 3.04",
+                "subUnitCode": "16002000000",
+                "phoneNumber": "52 374 9379",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4333",
+                "floor": "PARTER",
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "57999611-0BD9-4FA4-93C2-844D7FC119A0",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Siminski",
+        "aliasUTP": [
+            "wojciech.siminski@pbs.edu.pl"
+        ],
+        "uid": "wojciech.siminski",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.07",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52374 9395",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3921",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "EC88F445-C72B-4754-8326-BB770B42F2AD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Skiba",
+        "aliasUTP": [
+            "Grzegorz.Skiba@pbs.edu.pl"
+        ],
+        "uid": "Grzegorz.Skiba",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "8.00",
+                        "to": "9.00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.05",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 374 9318",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3526",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "9D5D2B7E-6154-4BD4-A51B-4F41E84D4E2D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Konrad",
+        "lastName": "Skowroński",
+        "aliasUTP": [
+            "Konrad.Skowronski@pbs.edu.pl"
+        ],
+        "uid": "Konrad.Skowronski",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4256",
+                "floor": null,
+                "job": "Samodzielny referent ds. administracyjnych"
+            }
+        ],
+        "guid": "745895A0-87D3-4366-95D6-223FADD47491",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Smorgol",
+        "aliasUTP": [
+            "Katarzyna.Smorgol@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Smorgol",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4067",
+                "floor": null,
+                "job": "sprzątająca"
+            }
+        ],
+        "guid": "D0E86E86-6F41-4984-8808-FE11ECA77CC8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Sowa",
+        "aliasUTP": [
+            "Agnieszka.Sowa@pbs.edu.pl"
+        ],
+        "uid": "Agnieszka.Sowa",
+        "academicTitle": "doktor",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "monday": {
+                        "from": "10",
+                        "to": "11"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "663330817",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3710",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "6179C276-235C-4A21-A62F-9A118EA8AC33",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mariusz",
+        "lastName": "Stachowicz",
+        "aliasUTP": [
+            "Mariusz.Stachowicz@pbs.edu.pl"
+        ],
+        "uid": "Mariusz.Stachowicz",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4346",
+                "floor": null,
+                "job": "Pracownik gospodarczy"
+            }
+        ],
+        "guid": "8C6C0172-A3F2-46F4-9761-339F30DF6AA5",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Targowska",
+        "aliasUTP": [
+            "Malgorzata.Targowska@pbs.edu.pl"
+        ],
+        "uid": "mtargowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "wednesday": {
+                        "from": "9:30",
+                        "to": "10:30"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 3749241",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3010",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "67367ECC-CCDC-46BD-A9D3-E919358F6DB5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Wiśniewska",
+        "aliasUTP": [
+            "Monika.Wisniewska@pbs.edu.pl"
+        ],
+        "uid": "mwisniewska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10",
+                        "to": "11"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2553",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "2F7E16C0-F254-42FE-8895-92516BF9CEF8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Sylwia",
+        "lastName": "Wojtas",
+        "aliasUTP": [
+            "Sylwia.Wojtas@pbs.edu.pl"
+        ],
+        "uid": "Sylwia.Wojtas",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Biuro Akademickiego Centrum Sportu",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "16002000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obs.W",
+                "ewidNo": "4320",
+                "floor": null,
+                "job": "sprzątająca"
+            }
+        ],
+        "guid": "59AF47BC-3F9B-4D91-9CDA-267C45BB3057",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Waldemar",
+        "lastName": "Zimniak",
+        "aliasUTP": [
+            "Waldemar.Zimniak@pbs.edu.pl"
+        ],
+        "uid": "w.zimniak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [
+                    "Kierownik Studium"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:30",
+                        "to": "12:00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.05",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "523749463",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1967",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "DAC93FFB-22B6-4454-9915-A84F91D9A3FD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Żubka",
+        "aliasUTP": [
+            "Malgorzata.Zubka@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Zubka",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Akademickie Centrum Sportu",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Studium Wychowania Fizycznego i Sportu",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "ACS",
+                "room": "ACS 3.06",
+                "subUnitCode": "16001000000",
+                "phoneNumber": "52 374 9241",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4079",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "29E58795-0547-4935-9C8F-91061AFDA56D",
+        "academicTeacher": true
+    }
+]

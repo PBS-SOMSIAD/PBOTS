@@ -1,0 +1,4009 @@
+[
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Bebyn",
+        "aliasUTP": [
+            "Grzegorz.Bebyn@pbs.edu.pl"
+        ],
+        "uid": "bebyng",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1456",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.30",
+                        "to": "10.00"
+                    }
+                },
+                "building": "F",
+                "room": "F 212",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 340-86-07",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1518",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "10FB6137-5FDC-4AEE-8023-A3DD31415669",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Artur",
+        "lastName": "Borkowicz",
+        "aliasUTP": [
+            "Artur.Borkowicz@pbs.edu.pl"
+        ],
+        "uid": "Artur.Borkowicz",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego 12-14",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01034000000",
+                "phoneNumber": "698 681 071",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3910",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "12D69EDB-4326-456B-B3A1-610963C7EDDF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Hanna",
+        "lastName": "Borucińska-Bieńkowska",
+        "aliasUTP": [
+            "Hanna.Borucinska-Bienkowska@pbs.edu.pl"
+        ],
+        "uid": "Hanna.Borucinska-Bienkowska",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4236",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0FDCE101-BDB2-48E7-AFD0-D90B0F333CA4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daria",
+        "lastName": "Bręczewska-Kulesza",
+        "aliasUTP": [
+            "Daria.Breczewska-Kulesza@pbs.edu.pl"
+        ],
+        "uid": "Daria.Breczewska-Kulesza",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "805",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 004",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3245",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A5DE9D3F-F807-49B2-A6FF-0E6841C2C68F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Brzeziński",
+        "aliasUTP": [
+            "Piotr.Brzezinski@pbs.edu.pl"
+        ],
+        "uid": "p.brzezinski",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "808",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "16:30",
+                        "to": "18:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 005",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "52 374 99 73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3206",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2E56ABC9-DDA7-4DE7-806C-BEEC70D56429",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Bujarkiewicz",
+        "aliasUTP": [
+            "Adam.Bujarkiewicz@pbs.edu.pl"
+        ],
+        "uid": "adamb",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "843",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 108",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340-86-39",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1426",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "70560DD0-3BE3-42EF-AEAE-8DC9F247B678",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Olha",
+        "lastName": "Chepil",
+        "aliasUTP": [
+            "olha.chepil@pbs.edu.pl"
+        ],
+        "uid": "olha.chepil",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Materiałowa",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3852",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "65F1D1D7-B72A-42B3-9D0A-4FC4D2996EB6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Piotr",
+        "lastName": "Chmielewski",
+        "aliasUTP": [
+            "piotr.chmielewski@pbs.edu.pl"
+        ],
+        "uid": "piotr.chmielewski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Laboratorium Badawczo-Doświadczalne WBAiIŚ",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01043000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3800",
+                "floor": null,
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "EF003B9E-46BB-47A8-B6E4-0ACA7CE6DDE8",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Chróśniak",
+        "aliasUTP": [
+            "Joanna.Chrosniak@pbs.edu.pl"
+        ],
+        "uid": "joachr002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "823",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "13:30",
+                        "to": "15:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 019",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "523408119",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4096",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "6445B455-8B49-47FF-B357-4A789C3BA35F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jolanta",
+        "lastName": "Cichowska",
+        "aliasUTP": [
+            "Jolanta.Cichowska@pbs.edu.pl"
+        ],
+        "uid": "jolantac",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1600",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "friday": {
+                        "from": "14.45",
+                        "to": "15.45 zgodnie z harmonogramem zajęć zjazdowych: 07.03; 28.03.; 11.04.;16.05 oraz w tygodniu na MT."
+                    },
+                    "monday": {
+                        "from": "09.00-11.00 (konsultacje);",
+                        "to": "15.30-17.30 (dyżur) Bud. I pok. I 048"
+                    }
+                },
+                "building": "I",
+                "room": "I 048",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "52 374 99-64",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2242",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "CEE2BB63-D1AF-40C2-9140-D547E16588AA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Cieściński",
+        "aliasUTP": [
+            "Jacek.Ciescinski@pbs.edu.pl"
+        ],
+        "uid": "jaces",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "865",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:15",
+                        "to": "13:15"
+                    },
+                    "saturday": {
+                        "from": "7:45",
+                        "to": "8:45"
+                    }
+                },
+                "building": "B",
+                "room": "B 125",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "505",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "024859B3-77A0-49B0-9C4C-7481A8A7D035",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iryna",
+        "lastName": "Dolinska",
+        "aliasUTP": [
+            "Iryna.dolinska@pbs.edu.pl"
+        ],
+        "uid": "Iryna.dolinska",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4115",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "2EFF24D5-BF67-436E-A728-3E40E44339FF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aneta",
+        "lastName": "Durczak",
+        "aliasUTP": [
+            "aneta.durczak@pbs.edu.pl"
+        ],
+        "uid": "aneta.durczak",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1079",
+                "subUnitName": "Biuro Dziekana - WBAiIŚ",
+                "consultations": {},
+                "building": "C",
+                "room": "C 103",
+                "subUnitCode": "01044000000",
+                "phoneNumber": "340 84 01",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3813",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administrac. - finansowych"
+            }
+        ],
+        "guid": "EE26DBB2-9A88-4580-B558-382C2E5EF9F9",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Dutkiewicz",
+        "aliasUTP": [
+            "Maciej.Dutkiewicz@pbs.edu.pl"
+        ],
+        "uid": "macdut",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1249",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "thursday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    },
+                    "monday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 302",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 340-84-71",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1496",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            },
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Dziekan"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1249",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "thursday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    },
+                    "monday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "E",
+                "room": "E 302",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 340-84-71",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1496",
+                "floor": "3 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C6BD7516-C490-4763-A8CC-82E682EC4026",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Monika",
+        "lastName": "Dybowska-Józefiak",
+        "aliasUTP": [
+            "Monika.Dybowska-Jozefiak@pbs.edu.pl"
+        ],
+        "uid": "mondyb000",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "859",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13.30",
+                        "to": "15.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 119",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 80 41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3243",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "41A992D0-2212-467D-A8A7-DE59F453E8BD",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Beata",
+        "lastName": "Fertała-Harlender",
+        "aliasUTP": [
+            "beata.fertala-harlender@pbs.edu.pl"
+        ],
+        "uid": "beata.fertala-harlender",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Architektura i urbanistyka",
+            "Sztuki Plastyczne I Konserwacja Dzieł Sztuki"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3840",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1707C74B-DC4D-4F8D-902D-A4106A5440B1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksander",
+        "lastName": "Furmanek",
+        "aliasUTP": [
+            "Aleksander.Furmanek@pbs.edu.pl"
+        ],
+        "uid": "Aleksander.Furmanek",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "810",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "18:00 (tydzień nieparzysty); 15:20 (tp)",
+                        "to": "20:00 (t. nieparzysty); 17:20 (tp)"
+                    }
+                },
+                "building": "B",
+                "room": "B 007",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "523408119",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3363",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F0227F7E-9470-4B36-9C06-09085518C849",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Gorączko",
+        "aliasUTP": [
+            "Aleksandra.Goraczko@pbs.edu.pl"
+        ],
+        "uid": "agora",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1791",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.15",
+                        "to": "10.15"
+                    }
+                },
+                "building": "H",
+                "room": "H D103",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2394",
+                "floor": "I PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "141D9751-E9B7-4D9D-A1D9-6F26B2CEE34C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Gorączko",
+        "aliasUTP": [
+            "Marcin.Goraczko@pbs.edu.pl"
+        ],
+        "uid": "gorgon",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Nauki O Kulturze I Religii",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1523",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "friday": {
+                        "from": "17.00",
+                        "to": "19.00 /TEAMS/"
+                    }
+                },
+                "building": "I",
+                "room": "I 028",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2341",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "45EB0497-6F95-414D-9BD0-AF465E895E02",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jolanta",
+        "lastName": "Goszczyk-Kwiecień",
+        "aliasUTP": [
+            "Jolanta.Goszczyk-Kwiecien@pbs.edu.pl"
+        ],
+        "uid": "jolanta.goszczyk",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1600",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {},
+                "building": "I",
+                "room": "I 048",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "523749960",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "3221",
+                "floor": "PARTER",
+                "job": "Technik"
+            }
+        ],
+        "guid": "657EB1A9-A487-4A13-BAD7-AAC683605E16",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jarosław",
+        "lastName": "Górecki",
+        "aliasUTP": [
+            "Jaroslaw.Gorecki@pbs.edu.pl"
+        ],
+        "uid": "gorecki",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "854",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "friday": {
+                        "from": "14:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 114",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 374-99-61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2984",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0CED4A47-1573-4920-AEFA-8EE21EA2C49E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Grabowski",
+        "aliasUTP": [
+            "Adam.Grabowski@pbs.edu.pl"
+        ],
+        "uid": "adamgrab",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1443",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "friday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 202",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 340-86-49",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1267",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "08A472DB-6483-43B2-AD0C-38F686D0EC04",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Grela",
+        "aliasUTP": [
+            "Jacek.Grela@pbs.edu.pl"
+        ],
+        "uid": "Jacek.Grela",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4289",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "29CE75D9-1660-4EB3-A002-6F5DFDC8A67D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Iga",
+        "lastName": "Grześkow",
+        "aliasUTP": [
+            "Iga.Grzeskow@pbs.edu.pl"
+        ],
+        "uid": "Iga.Grzeskow",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Architektura i urbanistyka",
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "804",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:00",
+                        "to": "12:00"
+                    },
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 003",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "523408119",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3647",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DE2D9191-68BF-48D7-AC0D-9F2A06A18DC2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Grzybowska",
+        "aliasUTP": [
+            "Agnieszka.Grzybowska@pbs.edu.pl"
+        ],
+        "uid": "agngru001",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1444",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "parzyste: 13",
+                        "to": "15"
+                    },
+                    "monday": {
+                        "from": "nieparzyste: 14",
+                        "to": "16"
+                    }
+                },
+                "building": "F",
+                "room": "F 203",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 3408464",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3306",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3182ADF3-5EB3-46A9-88ED-AACE1CF3EB79",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Filip",
+        "lastName": "Grzywacz",
+        "aliasUTP": [
+            " filip.grzywacz@pbs.edu.pl"
+        ],
+        "uid": "filgrz006",
+        "academicTitle": "inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Laboratorium Badawczo-Doświadczalne WBAiIŚ",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01043000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "4305",
+                "floor": null,
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "F400DC96-59AA-4BB0-B229-32993A3E17D9",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Damian",
+        "lastName": "Iwanowicz",
+        "aliasUTP": [
+            "Damian.Iwanowicz@pbs.edu.pl"
+        ],
+        "uid": "Damian.Iwanowicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1457",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    },
+                    "saturday": {
+                        "from": "13:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 213",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 340-86-21",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3383",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "58FDC835-9CC9-48EB-B993-2722DAD3F1E9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Janiak",
+        "aliasUTP": [
+            "Tomasz.Janiak@pbs.edu.pl"
+        ],
+        "uid": "tomaszj",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1443",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "(nieparzyste) - 14:20",
+                        "to": "15:20"
+                    },
+                    "friday": {
+                        "from": "(parzyste) - 12:30",
+                        "to": "13:30"
+                    },
+                    "tuesday": {
+                        "from": "(parzyste) - 13:35",
+                        "to": "15:35"
+                    }
+                },
+                "building": "F",
+                "room": "F 202",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1589",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5EB389CA-9C94-4A52-AC6A-011C8EAE64D1",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daria",
+        "lastName": "Jasińska",
+        "aliasUTP": [
+            "daria.jasinska@pbs.edu.pl"
+        ],
+        "uid": "darjas002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1451",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "sunday": {
+                        "from": "10:00",
+                        "to": "11:30 (parzyste) Konsultacje  po uprzednim kontakcie z prowadzącym."
+                    },
+                    "thursday": {
+                        "from": "13",
+                        "to": "13:45"
+                    },
+                    "monday": {
+                        "from": "11:00",
+                        "to": "12:30 (nieparzyste)"
+                    }
+                },
+                "building": "F",
+                "room": "F 208",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3827",
+                "floor": "II PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AAB437F7-19BA-47CF-9065-0560B2ADC103",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Stanisław",
+        "lastName": "Józefowicz",
+        "aliasUTP": [
+            "stanislaw.jozefowicz@pbs.edu.pl"
+        ],
+        "uid": "stajoz000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1598",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "sunday": {
+                        "from": "14.20",
+                        "to": "16.20"
+                    },
+                    "monday": {
+                        "from": "13.30",
+                        "to": "15.30"
+                    }
+                },
+                "building": "I",
+                "room": "I 050",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "+48506420989",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3763",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "31760CC5-AE44-45A0-8048-AE55DF067968",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Juszczak",
+        "aliasUTP": [
+            "Marek.Juszczak@pbs.edu.pl"
+        ],
+        "uid": "Marek.Juszczak",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1598",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "sunday": {
+                        "from": "11:15",
+                        "to": "12:15"
+                    },
+                    "monday": {
+                        "from": "10:30",
+                        "to": "12:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 050",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4074",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "135EAB16-C99D-4904-80F6-5CC0926C9FB2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Kaczmarek",
+        "aliasUTP": [
+            "Anna.Kaczmarek@pbs.edu.pl"
+        ],
+        "uid": "Anna.Kaczmarek",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "860",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "monday": {
+                        "from": "9.15",
+                        "to": "11.15"
+                    }
+                },
+                "building": "B",
+                "room": "B 120",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 85 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2764",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "603DABD9-9212-4F70-B35F-B58CFA388498",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Kala",
+        "aliasUTP": [
+            "Dariusz.Kala@pbs.edu.pl"
+        ],
+        "uid": "Dariusz.Kala",
+        "academicTitle": "dr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4292",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "CE2CBF05-DACE-49D6-8FBF-02254B1E3399",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Karwasz",
+        "aliasUTP": [
+            "marcin.karwasz@pbs.edu.pl"
+        ],
+        "uid": "marcin.karwasz",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1453",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8:30",
+                        "to": "10:15"
+                    },
+                    "friday": {
+                        "from": "17:30**",
+                        "to": "18:00**"
+                    }
+                },
+                "building": "F",
+                "room": "F 211",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 340-84-30",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3081",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2DDA3847-4C0C-4C62-BC55-2DF236038213",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Izabela",
+        "lastName": "Kasprzyk",
+        "aliasUTP": [
+            "Izabela.Kasprzyk@pbs.edu.pl"
+        ],
+        "uid": "Izabela.Kasprzyk",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1464",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "thursday": {
+                        "from": "9:45",
+                        "to": "11:45"
+                    }
+                },
+                "building": "F",
+                "room": "F 220",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "523408636",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3305",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D82F074E-5BD5-4079-BC08-EFF5BC4EB5A0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Kaus",
+        "aliasUTP": [
+            "Malgorzata.Kaus@pbs.edu.pl"
+        ],
+        "uid": "Malgorzata.Kaus",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "808",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 005",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "52 374 99 73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3393",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "A341AFE6-328F-4B6C-8B89-F63195103D93",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jan",
+        "lastName": "Kempa",
+        "aliasUTP": [
+            "Jan.Kempa@pbs.edu.pl"
+        ],
+        "uid": "janke",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1452",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.30",
+                        "to": "9.30"
+                    },
+                    "saturday": {
+                        "from": "14.30",
+                        "to": "15.30"
+                    }
+                },
+                "building": "F",
+                "room": "F 209",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 340-84-92",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "474",
+                "floor": "II PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "7908F19E-C7D1-46DD-932C-1B5132151838",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Radosław",
+        "lastName": "Klusek",
+        "aliasUTP": [
+            "Radoslaw.Klusek@pbs.edu.pl"
+        ],
+        "uid": "Radoslaw.Klusek",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1452",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.15",
+                        "to": "10.15"
+                    }
+                },
+                "building": "F",
+                "room": "F 209",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 3408178",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3251",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "651190FA-BEE4-439E-82CB-248A3B2C8B49",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Anna",
+        "lastName": "Korzeniewska-Lasota",
+        "aliasUTP": [
+            "Anna.Korzeniewska-Lasota@pbs.edu.pl"
+        ],
+        "uid": "Anna.Korzeniewska-Lasota",
+        "academicTitle": "dr hab.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4257",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "D9088EA2-FD58-441B-A319-67882E321781",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Kowalik",
+        "aliasUTP": [
+            " Kinga.Kowalik@pbs.edu.pl"
+        ],
+        "uid": "kinkow002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4249",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "ED747844-0BE1-45C3-BBE2-3FB11F65F9E6",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Bartosz",
+        "lastName": "Kozieł",
+        "aliasUTP": [
+            " Bartosz.Koziel@pbs.edu.pl"
+        ],
+        "uid": "barkoz009",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "sunday": {
+                        "from": "10:30",
+                        "to": "11:30"
+                    },
+                    "wednesday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    },
+                    "thursday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    },
+                    "friday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4227",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "DB608C79-D28E-4358-BFEE-0DB6517739AA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Krajewska",
+        "aliasUTP": [
+            "Malgorzata.Krajewska@pbs.edu.pl"
+        ],
+        "uid": "M.Krajewska",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Kierownik Katedry"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "851",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "nieparzyste 8:30 10:00 oraz",
+                        "to": "14:00 -14:30"
+                    },
+                    "tuesday": {
+                        "from": "parzyste 9:30",
+                        "to": "11:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 112a",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340-81-28",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1317",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "3ADAF17D-92B3-43E6-B422-10378C8EAC3B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Kumor",
+        "aliasUTP": [
+            "Lukasz.Kumor@pbs.edu.pl"
+        ],
+        "uid": "lkumor",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1460",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "friday": {
+                        "from": "16:00",
+                        "to": "17:00"
+                    },
+                    "saturday": {
+                        "from": "12:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 216",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "602-294-777",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2753",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "FE8480FA-01E6-4A07-AC25-3549738E1F76",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maciej",
+        "lastName": "Kuras",
+        "aliasUTP": [
+            "Maciej.Kuras@pbs.edu.pl"
+        ],
+        "uid": "Maciej.Kuras",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "17",
+                        "to": "19"
+                    }
+                },
+                "building": "B",
+                "room": null,
+                "subUnitCode": "01034000000",
+                "phoneNumber": "608611315",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3909",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "5984C483-C8A6-4D0A-B39C-65A0171EE39D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Janusz",
+        "lastName": "Kwiecień",
+        "aliasUTP": [
+            "Janusz.Kwiecien@pbs.edu.pl"
+        ],
+        "uid": "jkw",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "849",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 111c",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340 84 82",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "477",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "A882EEF1-560D-4CC9-8669-3C7DB3B60244",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Lachowicz",
+        "aliasUTP": [
+            "Magdalena.Lachowicz@pbs.edu.pl"
+        ],
+        "uid": "m.lachowicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "845",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 110",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340-85-24",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2805",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "7C189915-647B-4812-8383-4B5545F0571B",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tomasz",
+        "lastName": "Lamparski",
+        "aliasUTP": [
+            "tomasz.lamparski@pbs.edu.pl"
+        ],
+        "uid": "tomlam002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1444",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:30",
+                        "to": "13:30"
+                    },
+                    "monday": {
+                        "from": "12:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 203",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3760",
+                "floor": "II PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "139949B0-231D-407C-AD9D-0B7A4A5CF866",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Lucyna",
+        "lastName": "Lang",
+        "aliasUTP": [
+            "Lucyna.Lang@pbs.edu.pl"
+        ],
+        "uid": "llang",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1077",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {},
+                "building": "C",
+                "room": "C 102",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "664134330, 52 340 83 89",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2478",
+                "floor": "1 PIĘTRO",
+                "job": "Starszy technik"
+            }
+        ],
+        "guid": "750ED1F7-23E2-4BA1-A869-9825427A7344",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alicja",
+        "lastName": "Lehnarth",
+        "aliasUTP": [
+            "Alicja.Lehnarth@pbs.edu.pl"
+        ],
+        "uid": "Alicja.Lehnarth",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1081",
+                "subUnitName": "Biuro Dziekana - WBAiIŚ",
+                "consultations": {},
+                "building": "C",
+                "room": "C 104",
+                "subUnitCode": "01044000000",
+                "phoneNumber": "52 340 81 83",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3570",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "F05CF9F3-76BB-4D60-BDF8-BEA294ACE474",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Lewandowski",
+        "aliasUTP": [
+            "Lukasz.Lewandowski@pbs.edu.pl"
+        ],
+        "uid": "llewandowski",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "821",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "13:45",
+                        "to": "15:45"
+                    }
+                },
+                "building": "B",
+                "room": "B 017",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2983",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "59094A09-2CCB-4235-A80C-2D1FE2BCD41A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Daniel",
+        "lastName": "Liczkowski",
+        "aliasUTP": [
+            "daniel.liczkowski@pbs.edu.pl"
+        ],
+        "uid": "danlic002",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01036000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3998",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AD74D420-EF88-4379-9171-6DAD6D3C7DA4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Alina",
+        "lastName": "Lipowicz-Budzyńska",
+        "aliasUTP": [
+            "Alina.Lipowicz-Budzynska@pbs.edu.pl"
+        ],
+        "uid": "A.Lipowicz-Budzynska",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "815",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "17.00",
+                        "to": "19.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 012a",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "+48  523408107",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3651",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "2AEA091D-A394-4D55-BE69-A6EECCB4F1AC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Robert",
+        "lastName": "Łucka",
+        "aliasUTP": [
+            "Robert.Lucka@pbs.edu.pl"
+        ],
+        "uid": "r.lucka",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "808",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "11:35",
+                        "to": "13:25"
+                    }
+                },
+                "building": "B",
+                "room": "B 005",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "52 374 99 73",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3198",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "EF5FDCED-CF56-4F0B-B84D-5F3C18626DCC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Olesia",
+        "lastName": "Maksymovych",
+        "aliasUTP": [
+            "Olesia.Maksymovych@pbs.edu.pl"
+        ],
+        "uid": "Olesia.Maksymovych",
+        "academicTitle": "dr hab.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3628",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "463D2E7A-C3E3-4846-AD02-069514F86909",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marcin",
+        "lastName": "Malinowski",
+        "aliasUTP": [
+            "Marcin.Malinowski@pbs.edu.pl"
+        ],
+        "uid": "marcinm",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "847",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "friday": {
+                        "from": "10:15",
+                        "to": "12:15"
+                    },
+                    "saturday": {
+                        "from": "12:15",
+                        "to": "14:15 (sob. zjazdowa)"
+                    }
+                },
+                "building": "B",
+                "room": "B 111A",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 374-99-30",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2379",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "23A37E7F-B254-4515-83D5-C78ACB4807DF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jakub",
+        "lastName": "Markiewicz",
+        "aliasUTP": [
+            "Jakub.Markiewicz@pbs.edu.pl"
+        ],
+        "uid": "Jakub.Markiewicz",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Fordońska",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "Budynek",
+                "room": "209",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3745",
+                "floor": "1-PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "C0C2C4CE-CB04-46B4-9B04-79F457B232B5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Julia",
+        "lastName": "Masiakowska",
+        "aliasUTP": [
+            " Julia.Masiakowska@pbs.edu.pl"
+        ],
+        "uid": "julmas001",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4250",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "6EA6A706-BFDB-4A14-BF68-275C98E4F45E",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Meyer",
+        "aliasUTP": [
+            "agnieszka.meyer@pbs.edu.pl"
+        ],
+        "uid": "agnmey002",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1077",
+                "subUnitName": "Biuro Dziekana - WBAiIŚ",
+                "consultations": {},
+                "building": "C",
+                "room": "C 102",
+                "subUnitCode": "01044000000",
+                "phoneNumber": "52 340 8166",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "4050",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administrac. - finansowych"
+            }
+        ],
+        "guid": "67AAE8B8-C2F8-4503-9788-9EBC564D7D84",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Mrozik",
+        "aliasUTP": [
+            "Lukasz.Mrozik@pbs.edu.pl"
+        ],
+        "uid": "l.mrozik",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1393",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "sunday": {
+                        "from": "11:30",
+                        "to": "12:30"
+                    },
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 018",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2904",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "EDF4913F-1855-486F-9131-3410F333D252",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Nakielska",
+        "aliasUTP": [
+            "Magdalena.Nakielska@pbs.edu.pl"
+        ],
+        "uid": "magdanak",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "859",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8:00 tygodnie parzyste",
+                        "to": "10:00"
+                    },
+                    "saturday": {
+                        "from": "12:30  weekendy zjazdowe",
+                        "to": "13:30"
+                    },
+                    "monday": {
+                        "from": "11:30 tygodnie nieparzyste",
+                        "to": "13:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 119",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 80 41",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2454",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "ACF251F8-B4AD-42FC-8E1B-AD9D465E22E5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Napieraj",
+        "aliasUTP": [
+            "Krzysztof.Napieraj@pbs.edu.pl"
+        ],
+        "uid": "napieraj",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Ekonomia I Finanse"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1527",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "friday": {
+                        "from": "17:30",
+                        "to": "19:30"
+                    },
+                    "tuesday": {
+                        "from": "9:00",
+                        "to": "11:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 031",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "850",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "D9A5FB3B-F381-46E4-B892-9A26EB526A10",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ada",
+        "lastName": "Nawrocka",
+        "aliasUTP": [
+            "Ada.Nawrocka@pbs.edu.pl"
+        ],
+        "uid": "Ada.Nawrocka",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "813",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "friday": {
+                        "from": "13.15",
+                        "to": "15.15"
+                    }
+                },
+                "building": "B",
+                "room": "B 010",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3854",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "69DD903E-B660-40C6-8E8D-D6FBDA1D8939",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Martyna",
+        "lastName": "Nowaczewska",
+        "aliasUTP": [
+            " Martyna.Nowaczewska@pbs.edu.pl"
+        ],
+        "uid": "marnow021",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4304",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "1681D454-576E-4486-B55B-A6CA9D2BC6EE",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Nowak",
+        "aliasUTP": [
+            "Pawel.Nowak@pbs.edu.pl"
+        ],
+        "uid": "pawnow014",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "sunday": {
+                        "from": "13:15",
+                        "to": "14:15                                    Konsultacje po wcześniejszym kontakcie mailowym bądź TEAMS."
+                    },
+                    "friday": {
+                        "from": "16:00",
+                        "to": "18:00"
+                    }
+                },
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3961",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "57865323-F4A9-4592-B297-F47E4119CB32",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ryszard",
+        "lastName": "Okoński",
+        "aliasUTP": [
+            "Ryszard.Okonski@pbs.edu.pl"
+        ],
+        "uid": "rysoko",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1524",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "thursday": {
+                        "from": "11,30",
+                        "to": "13,30"
+                    },
+                    "saturday": {
+                        "from": "11,30",
+                        "to": "13,30"
+                    }
+                },
+                "building": "I",
+                "room": "I 029",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "52 374-99-59",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "852",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5740CEBC-F7FA-43F8-8B7A-C98F038D05F0",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paulina",
+        "lastName": "Olenkowicz-Trempała",
+        "aliasUTP": [
+            "Paulina.Olenkowicz-Trempala@pbs.edu.pl"
+        ],
+        "uid": "Paulina.Olenkowicz",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1458",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.30",
+                        "to": "10.00"
+                    }
+                },
+                "building": "F",
+                "room": "F 214",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 3408618",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3260",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "4A82F92D-A140-45EF-94FC-31FC609E9C63",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Agnieszka",
+        "lastName": "Pawlicka",
+        "aliasUTP": [
+            "akrysztofiak@pbs.edu.pl"
+        ],
+        "uid": "akrysztofiak",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "841",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "tuesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 107",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 84 08",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1180",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "0ECA8428-956C-4199-A047-6AEC31C9CEEA",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Pawłowski",
+        "aliasUTP": [
+            "Krzysztof.Pawlowski@pbs.edu.pl"
+        ],
+        "uid": "krzypaw",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "858",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "11.00",
+                        "to": "13.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 118",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "52 340 8550",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2446",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "00703649-E9B3-4FA1-9DD2-946976AB1107",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kazimierz",
+        "lastName": "Peszyński",
+        "aliasUTP": [
+            "Kazimierz.Peszynski@pbs.edu.pl"
+        ],
+        "uid": "peszyn",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1772",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    }
+                },
+                "building": "H",
+                "room": "H 101",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "52 340-82-38",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "650",
+                "floor": "I PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "32F2E748-1ED6-4C8C-BBAC-32DF55BBEB2F",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paweł",
+        "lastName": "Piekarski",
+        "aliasUTP": [
+            "pawel.piekarski@pbs.edu.pl"
+        ],
+        "uid": "pawpie002",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "860",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "friday": {
+                        "from": "8:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 120",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 85 90",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3384",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "5A887134-EE57-4448-8835-9035446988FC",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Karol",
+        "lastName": "Pietrzak",
+        "aliasUTP": [
+            "Karol.Pietrzak@pbs.edu.pl"
+        ],
+        "uid": "karpie000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "853",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "tuesday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 113",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "58 340 99 34",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3385",
+                "floor": "1 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "A6625985-E42A-4948-824C-F0DFCEA33239",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Puszkiewicz",
+        "aliasUTP": [
+            "Katarzyna.Puszkiewicz@pbs.edu.pl"
+        ],
+        "uid": "Katarzyna.Puszkiewicz",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "864",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "saturday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    },
+                    "tuesday": {
+                        "from": "15:15",
+                        "to": "17:15"
+                    }
+                },
+                "building": "B",
+                "room": "B 124",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4223",
+                "floor": "1 PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "38F2F6EB-258F-4B79-9E88-518EB9F97E21",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Wojciech",
+        "lastName": "Radomski",
+        "aliasUTP": [
+            "Wojciech.Radomski@pbs.edu.pl"
+        ],
+        "uid": "Wojciech.Radomski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": null,
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Bezosobowy Fundusz Płac",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "88888888888",
+                "phoneNumber": "",
+                "occupationalGroup": "Prac.Obcy",
+                "ewidNo": "89941",
+                "floor": null,
+                "job": ""
+            },
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3616",
+                "floor": null,
+                "job": "Profesor"
+            }
+        ],
+        "guid": "317923F8-D245-41CD-8CE8-5C3E1C2B792C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Ramczyk",
+        "aliasUTP": [
+            "Marek.Ramczyk@pbs.edu.pl"
+        ],
+        "uid": "ramczyk",
+        "academicTitle": "dr",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "489",
+                "floor": null,
+                "job": "Adiunkt"
+            },
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "865",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "12.00",
+                        "to": "14.00"
+                    },
+                    "saturday": {
+                        "from": "15.15",
+                        "to": "16.15"
+                    }
+                },
+                "building": "B",
+                "room": "B 125",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "52 340-82-61",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "489",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "00D75604-C0DA-427C-9C52-C3D610161EE5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Adam",
+        "lastName": "Ramza",
+        "aliasUTP": [
+            "Adam.Ramza@pbs.edu.pl"
+        ],
+        "uid": "Adam.Ramza",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01039000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2898",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "934D9D90-FAA1-4477-A1EB-EE0CA3BB0F30",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Mikołaj",
+        "lastName": "Rasała",
+        "aliasUTP": [
+            " mikolaj.rasala@pbs.edu.pl"
+        ],
+        "uid": "mikras000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4242",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "AECD0701-2D13-4784-AD5E-D12BE38F6BC3",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Łukasz",
+        "lastName": "Rosiak",
+        "aliasUTP": [
+            "Lukasz.Rosiak@pbs.edu.pl"
+        ],
+        "uid": "Lukasz.Rosiak",
+        "academicTitle": "mgr inż. arch.",
+        "disciplines": [
+            "Architektura i urbanistyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "813",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "monday": {
+                        "from": "9:30",
+                        "to": "11:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 010",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3390",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "1C7F5FB9-7D20-4968-978E-E6ED9B42692A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Zofia",
+        "lastName": "Rudnicka",
+        "aliasUTP": [
+            "Zofia.Rudnicka@pbs.edu.pl"
+        ],
+        "uid": "Zofia.Rudnicka",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1081",
+                "subUnitName": "Biuro Dziekana - WBAiIŚ",
+                "consultations": {},
+                "building": "C",
+                "room": "C 104",
+                "subUnitCode": "01044000000",
+                "phoneNumber": "52 340 84 02",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3673",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "66A6442A-398E-455D-91B6-11EA847CF2BB",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Katarzyna",
+        "lastName": "Rudnicka",
+        "aliasUTP": [
+            "katarzyna.rudnicka@pbs.edu.pl"
+        ],
+        "uid": "katarzyna.rudnicka",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1081",
+                "subUnitName": "Biuro Dziekana - WBAiIŚ",
+                "consultations": {},
+                "building": "C",
+                "room": "C 104",
+                "subUnitCode": "01044000000",
+                "phoneNumber": "52 340 8539",
+                "occupationalGroup": "Prac.Adm.W",
+                "ewidNo": "3919",
+                "floor": "1 PIĘTRO",
+                "job": "Specjalista ds. administracyjnych"
+            }
+        ],
+        "guid": "9515FE85-0B3B-4DB4-B799-9186C6168FCB",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grzegorz",
+        "lastName": "Rzepecki",
+        "aliasUTP": [
+            "grzegorz.rzepecki@pbs.edu.pl"
+        ],
+        "uid": "grzegorz.rzepecki",
+        "academicTitle": "dr inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "804",
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "11:00"
+                    },
+                    "thursday": {
+                        "from": "15:00",
+                        "to": "16:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 003",
+                "subUnitCode": "01034000000",
+                "phoneNumber": "52 340-81-19",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2844",
+                "floor": "PARTER",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DB3DDEE5-712C-4D18-A76A-B3C1AD0A5DA2",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Eugeniusz",
+        "lastName": "Skrzypczak",
+        "aliasUTP": [
+            "Eugeniusz.Skrzypczak@pbs.edu.pl"
+        ],
+        "uid": "Eugeniusz.Skrzypczak",
+        "academicTitle": "dr hab. inż. arch.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Architektury i Urbanistyki",
+                "consultations": {
+                    "thursday": {
+                        "from": "14.00",
+                        "to": "16.00"
+                    },
+                    "friday": {
+                        "from": "14.00",
+                        "to": "16.00"
+                    }
+                },
+                "building": "B",
+                "room": null,
+                "subUnitCode": "01034000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3969",
+                "floor": "PARTER",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "8FC5565F-A8F9-4823-B95E-38A2A52F0239",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Aleksandra",
+        "lastName": "Smentek",
+        "aliasUTP": [
+            " aleksandra.smentek@pbs.edu.pl"
+        ],
+        "uid": "aleksandra.pieniaszek",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "865",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "saturday": {
+                        "from": "14:00",
+                        "to": "16:30"
+                    },
+                    "tuesday": {
+                        "from": "15:30",
+                        "to": "17:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 125",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4077",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "DADA3B05-B091-4947-ADAD-1396BBC8FEB8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Justyna",
+        "lastName": "Sobczak-Piąstka",
+        "aliasUTP": [
+            "Justyna.Sobczak-Piastka@pbs.edu.pl"
+        ],
+        "uid": "justynas",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Przewodniczący Rady Naukowej dyscypliny"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1463",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "tuesday": {
+                        "from": "13.30",
+                        "to": "15.30"
+                    }
+                },
+                "building": "F",
+                "room": "F 219",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 340 86 09, 52 340 84 11",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1409",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0EE46406-7A18-4ABF-9900-C4A51B014FA8",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Sosnowska",
+        "aliasUTP": [
+            "Magdalena.Sosnowska@pbs.edu.pl"
+        ],
+        "uid": "Magdalena.Sosnowska",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1462",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "monday": {
+                        "from": "8:15",
+                        "to": "10:15"
+                    }
+                },
+                "building": "F",
+                "room": "F 218",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "523408636",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3303",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "F28D4987-D0DC-46D9-82C4-79FBFB556B18",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Tadeusz",
+        "lastName": "Stanisławski",
+        "aliasUTP": [
+            "Tadeusz.Stanislawski@pbs.edu.pl"
+        ],
+        "uid": "Tadeusz.Stanislawski",
+        "academicTitle": "dr hab.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4269",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "AB5AA307-F996-4D6D-9315-914112F0111A",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Dariusz",
+        "lastName": "Startek",
+        "aliasUTP": [
+            "dariusz.startek@pbs.edu.pl"
+        ],
+        "uid": "dariusz.startek",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3874",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "B7186B21-AA59-4967-B398-90E5C8F53F4C",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Paula",
+        "lastName": "Szczepaniak",
+        "aliasUTP": [
+            "Paula.Szczepaniak@pbs.edu.pl"
+        ],
+        "uid": "paula",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "862",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "wednesday": {
+                        "from": "parzyste 9.45",
+                        "to": "11.45"
+                    },
+                    "tuesday": {
+                        "from": "nieparzyste 11.45",
+                        "to": "13.45"
+                    }
+                },
+                "building": "B",
+                "room": "B 122",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 81 05",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2250",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "3E0BB4F2-71E7-4B26-92DF-9D7F861F5321",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Magdalena",
+        "lastName": "Szczupakowska",
+        "aliasUTP": [
+            "Magdalena.Szczupakowska@pbs.edu.pl"
+        ],
+        "uid": "Magdalena.Szczupakowska",
+        "academicTitle": "mgr",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1468",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": "F",
+                "room": "F 222",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "52 340-84-11",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2599",
+                "floor": null,
+                "job": "Specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "65A49C2B-773F-44FC-BFCB-50390F5C593E",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Kinga",
+        "lastName": "Szopińska",
+        "aliasUTP": [
+            "Kinga.Szopinska@pbs.edu.pl"
+        ],
+        "uid": "k.szopinska",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Pełnomocnik Rektora ds. dostępności"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "852",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "monday": {
+                        "from": "12:00",
+                        "to": "14:00"
+                    }
+                },
+                "building": "B",
+                "room": "B 112b",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340-81-09",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2848",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "033ED201-C7F9-4713-BCA2-05EAB29FD406",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Filip",
+        "lastName": "Szramkowski",
+        "aliasUTP": [
+            "Filip.Szramkowski@pbs.edu.pl"
+        ],
+        "uid": "Filip.Szramkowski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4086",
+                "floor": null,
+                "job": "Asystent"
+            }
+        ],
+        "guid": "C13BB927-3F22-4B7D-846C-5A22FE9853FB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Małgorzata",
+        "lastName": "Sztubecka",
+        "aliasUTP": [
+            "Malgorzata.Sztubecka@pbs.edu.pl"
+        ],
+        "uid": "sztubecka",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "843",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "friday": {
+                        "from": "10.45",
+                        "to": "12.45"
+                    },
+                    "saturday": {
+                        "from": "10.30",
+                        "to": "11.30"
+                    }
+                },
+                "building": "B",
+                "room": "B 108",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 340 86 39",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2395",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "542F02ED-DA95-4DF9-BE56-6EE0CD87C98D",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Jacek",
+        "lastName": "Sztubecki",
+        "aliasUTP": [
+            "Jacek.Sztubecki@pbs.edu.pl"
+        ],
+        "uid": "jaceksz",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "837",
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {
+                    "friday": {
+                        "from": "10.00",
+                        "to": "12.00"
+                    },
+                    "saturday": {
+                        "from": "14.00",
+                        "to": "15.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 103",
+                "subUnitCode": "01038000000",
+                "phoneNumber": "52 374-99-30",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "1586",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "1F06050E-FFC2-4CF4-9061-D2F00852C9A7",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Marek",
+        "lastName": "Szymczak",
+        "aliasUTP": [
+            "Marek.Szymczak@pbs.edu.pl"
+        ],
+        "uid": "marszym",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1598",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "wednesday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    },
+                    "saturday": {
+                        "from": "9:00",
+                        "to": "10:00"
+                    }
+                },
+                "building": "I",
+                "room": "I 050",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3848",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "38FCCC99-590B-41EB-8FF5-564E460079E5",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Joanna",
+        "lastName": "Taczkowska-Olszewska",
+        "aliasUTP": [
+            "Joanna.Taczkowska-Olszewska@pbs.edu.pl"
+        ],
+        "uid": "Joanna.Taczkowska-Olszewska",
+        "academicTitle": "dr hab.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4235",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "C86CE9B9-DC81-443B-B2AC-18D3137EB181",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Przemysław",
+        "lastName": "Tamborski",
+        "aliasUTP": [
+            "Przemyslaw.Tamborski@pbs.edu.pl"
+        ],
+        "uid": "Przemyslaw.Tamborski",
+        "academicTitle": null,
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1705",
+                "subUnitName": "Laboratorium Badawczo-Doświadczalne WBAiIŚ",
+                "consultations": {},
+                "building": "H",
+                "room": "H D003",
+                "subUnitCode": "01043000000",
+                "phoneNumber": "52 340-87-79",
+                "occupationalGroup": "Prac.IT",
+                "ewidNo": "2918",
+                "floor": "PARTER",
+                "job": "Starszy specjalista inżynieryjno-techniczny"
+            }
+        ],
+        "guid": "D0C3B09C-A2F5-4BC2-8AD7-3F5432DCC3D2",
+        "academicTeacher": false
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Rafał",
+        "lastName": "Tews",
+        "aliasUTP": [
+            "Rafal.Tews@pbs.edu.pl"
+        ],
+        "uid": "rtews74",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [
+                    "Prodziekan ds. Kształcenia i Spraw Studenckich"
+                ],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1444",
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {
+                    "thursday": {
+                        "from": "10:00",
+                        "to": "12:00"
+                    },
+                    "saturday": {
+                        "from": "11:00",
+                        "to": "13:00"
+                    }
+                },
+                "building": "F",
+                "room": "F 203",
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "2271",
+                "floor": "II PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "19820812-72E6-4997-9CBC-62E37D894D95",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Szymon",
+        "lastName": "Topoliński",
+        "aliasUTP": [
+            "Szymon.Topolinski@pbs.edu.pl"
+        ],
+        "uid": "szymont",
+        "academicTitle": "dr inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Środowiska, Górnictwo I Energetyka"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1460",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8.00",
+                        "to": "10.00"
+                    }
+                },
+                "building": "F",
+                "room": "F 216",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "668841284",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3012",
+                "floor": null,
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "0EB436EE-446B-40DB-A16D-643BF116A7FF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Grażyna",
+        "lastName": "Totczyk",
+        "aliasUTP": [
+            "Grazyna.Totczyk@pbs.edu.pl"
+        ],
+        "uid": "grato",
+        "academicTitle": "dr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "845",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "sunday": {
+                        "from": "11:15",
+                        "to": "12:15"
+                    },
+                    "tuesday": {
+                        "from": "11:30",
+                        "to": "13:30"
+                    }
+                },
+                "building": "B",
+                "room": "B 110",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "504",
+                "floor": "1 PIĘTRO",
+                "job": "Adiunkt"
+            }
+        ],
+        "guid": "CAC6EF44-86E1-4EE7-BD68-BC2C441A66ED",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Maria",
+        "lastName": "Wesołowska",
+        "aliasUTP": [
+            "Maria.Wesolowska@pbs.edu.pl"
+        ],
+        "uid": "marysia",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Inżynieria Materiałowa"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "863",
+                "subUnitName": "Katedra Budownictwa Ogólnego i Fizyki Budowli",
+                "consultations": {
+                    "friday": {
+                        "from": "17.45 MS TEAMS",
+                        "to": "18:45"
+                    },
+                    "tuesday": {
+                        "from": "9.00",
+                        "to": "11.00"
+                    }
+                },
+                "building": "B",
+                "room": "B 123",
+                "subUnitCode": "01036000000",
+                "phoneNumber": "52 340 86 89",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "507",
+                "floor": "1 PIĘTRO",
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "DFBF66A8-2FF1-4967-AC66-8FD68C99DCFF",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Damian",
+        "lastName": "Wiśniewski",
+        "aliasUTP": [
+            "Damian.Wisniewski@pbs.edu.pl"
+        ],
+        "uid": "damwis000",
+        "academicTitle": "mgr inż.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "1459",
+                "subUnitName": "Katedra Inżynierii Drogowej, Transportu i Geotechniki",
+                "consultations": {
+                    "wednesday": {
+                        "from": "8:30",
+                        "to": "10:30"
+                    }
+                },
+                "building": "F",
+                "room": "F 215",
+                "subUnitCode": "01039000000",
+                "phoneNumber": "52 340 84 47",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3419",
+                "floor": "II PIĘTRO",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "9462835A-058F-49C8-A2DE-2C462E48D3DB",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Ireneusz",
+        "lastName": "Wyczałek",
+        "aliasUTP": [
+            "Ireneusz.Wyczalek@pbs.edu.pl"
+        ],
+        "uid": "Ireneusz.Wyczalek",
+        "academicTitle": "dr hab. inż.",
+        "disciplines": [
+            "Inżynieria Lądowa, Geodezja I Transport",
+            "Geografia Społeczno-Ekonomiczna I Gospodarka Przestrzenna"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Geodezji, Gospodarki Przestrzennej i Nieruchomości",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01038000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3844",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "46B6466E-F91B-40DA-ADE6-3C78861A99A9",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Igor",
+        "lastName": "Zgoliński",
+        "aliasUTP": [
+            "Igor.Zgolinski@pbs.edu.pl"
+        ],
+        "uid": "Igor.Zgolinski",
+        "academicTitle": "dr hab.",
+        "disciplines": [],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": null,
+                "roomSpaceManagerId": null,
+                "subUnitName": "Katedra Konstrukcji Budowlanych i Mechaniki",
+                "consultations": {},
+                "building": null,
+                "room": null,
+                "subUnitCode": "01041000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "4294",
+                "floor": null,
+                "job": "Profesor uczelni"
+            }
+        ],
+        "guid": "675BA3D6-56C5-4015-9134-B7E8258C25A4",
+        "academicTeacher": true
+    },
+    {
+        "id": null,
+        "usosId": null,
+        "firstName": "Krzysztof",
+        "lastName": "Ziółkowski",
+        "aliasUTP": [
+            "krzysztof.ziolkowski@pbs.edu.pl"
+        ],
+        "uid": "krzysztof.ziolkowski",
+        "academicTitle": "mgr inż.",
+        "disciplines": [
+            "Inżynieria Środowiska, Górnictwo I Energetyka",
+            "Nauki O Ziemi I Środowisku"
+        ],
+        "additionalData": [
+            {
+                "unitName": "Wydział Budownictwa, Architektury i Inżynierii Środowiska",
+                "functions": [],
+                "campus": "Kaliskiego",
+                "roomSpaceManagerId": "809",
+                "subUnitName": "Katedra Inżynierii Środowiska",
+                "consultations": {
+                    "sunday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    },
+                    "monday": {
+                        "from": "11:45",
+                        "to": "13:45"
+                    }
+                },
+                "building": "B",
+                "room": "B 006",
+                "subUnitCode": "01040000000",
+                "phoneNumber": "",
+                "occupationalGroup": "Naucz.Ak.",
+                "ewidNo": "3937",
+                "floor": "PARTER",
+                "job": "Asystent"
+            }
+        ],
+        "guid": "2B209D0D-46AF-439C-AD3A-9D0EED187B7C",
+        "academicTeacher": true
+    }
+]
