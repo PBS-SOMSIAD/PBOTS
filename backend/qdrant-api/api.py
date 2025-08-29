@@ -163,6 +163,7 @@ async def upload_directory(root_dir: str = Form(...), doc_type: str = Form("unkn
                     continue
     return UploadDirectoryResponse(status="success", collections={"baza": uploaded})
 
+    return UploadDirectoryResponse(status="success", collections={collection_name: uploaded})
 
 @app.get("/health")
 async def health_check() -> dict:
