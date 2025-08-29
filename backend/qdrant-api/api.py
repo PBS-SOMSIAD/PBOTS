@@ -112,16 +112,16 @@ async def upload_document(
 
 
 @app.post("/upload_directory")
-async def upload_directory(root_dir: str = Form(...)) -> UploadDirectoryResponse:
+async def upload_directory(root_dir: str = Form(...), collection_name: str = Form(...)) -> UploadDirectoryResponse:
     db_client = QdrantClient(location=QDRANT_URL)
     db_client.set_model(EMBEDDING_MODEL)
     db_client.set_sparse_model("Qdrant/bm25")
-    collections = {}
+
+    create_collection_if_not_exists(db_client, collection_name)
+
+    uploaded = 0
+    points = []
     for root, dirs, files in os.walk(root_dir):
-        rel_path = os.path.relpath(root, root_dir)
-        collection_name = rel_path.replace(os.sep, "_") or "root"
-        uploaded = 0
-        points = []
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
@@ -132,20 +132,19 @@ async def upload_directory(root_dir: str = Form(...)) -> UploadDirectoryResponse
                     vector = db_client.embed_model.embed(text)
                     points.append(
                         rest.PointStruct(
-                            id=file,
+                            id=f"{os.path.relpath(file_path, root_dir)}",  # unique ID per file
                             vector=vector,
-                            payload={"filename": file, "content": text},
+                            payload={"filename": file, "path": file_path, "content": text},
                         )
                     )
                     uploaded += 1
                 except Exception:
                     continue
-        if points:
-            create_collection_if_not_exists(db_client, collection_name)
-            db_client.upsert(collection_name=collection_name, points=points)
-        collections[collection_name] = uploaded
-    return UploadDirectoryResponse(status="success", collections=collections)
 
+    if points:
+        db_client.upsert(collection_name=collection_name, points=points)
+
+    return UploadDirectoryResponse(status="success", collections={collection_name: uploaded})
 
 @app.get("/health")
 async def health_check() -> dict:
