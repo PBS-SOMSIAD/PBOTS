@@ -27,6 +27,7 @@ import os
 import logfire
 import uvicorn
 import httpx
+import logging
 
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.responses import StreamingResponse
@@ -56,30 +57,42 @@ main_agent = kb.get_main_agent()
 intents_agent = kb.get_intents_agent()
 deps = kb.get_deps()
 
+'''
+NEEDS A LOT OF WORK :c 
+'''
 
 @app.post("/ask/stream")
 async def ask_question_stream(request: QuestionRequest) -> StreamingResponse:
-    is_related = await intents_agent.run(request.question)
+    try:
+        is_related = await intents_agent.run(request.question)
+        logging.info(f"Intent agent output for '{request.question}': {is_related.output}")
 
-    if not is_related.output:
+        if not is_related.output:
+            async def error_generator():
+                yield "Sorry, I can only answer questions related to PBS."
+            return StreamingResponse(error_generator(), media_type="text/plain")
 
+        async def stream_response():
+            try:
+                async with main_agent.iter(request.question, deps=deps) as run:
+                    async for node in run:
+                        if main_agent.is_model_request_node(node):
+                            async with node.stream(run.ctx) as request_stream:
+                                async for event in request_stream:
+                                    if hasattr(event, "delta") and hasattr(
+                                        event.delta, "content_delta"
+                                    ):
+                                        yield event.delta.content_delta
+            except Exception as e:
+                logging.error(f"Error in stream_response: {e}")
+                yield "⚠️ Internal server error."
+
+        return StreamingResponse(stream_response(), media_type="text/plain")
+    except Exception as e:
+        logging.error(f"Error in ask_question_stream: {e}")
         async def error_generator():
-            yield "Sorry, I can only answer questions related to PBS."
-
+            yield "⚠️ Internal server error."
         return StreamingResponse(error_generator(), media_type="text/plain")
-
-    async def stream_response():
-        async with main_agent.iter(request.question, deps=deps) as run:
-            async for node in run:
-                if main_agent.is_model_request_node(node):
-                    async with node.stream(run.ctx) as request_stream:
-                        async for event in request_stream:
-                            if hasattr(event, "delta") and hasattr(
-                                event.delta, "content_delta"
-                            ):
-                                yield event.delta.content_delta
-
-    return StreamingResponse(stream_response(), media_type="text/plain")
 
 
 @app.post("/upload_json")
@@ -91,21 +104,21 @@ async def upload_json(doc_type: str = Form("unknown"), file: UploadFile = File(.
         return resp.json()
 
 
-@app.post("/upload_document")
-async def upload_document(doc_type: str = Form("unknown"), file: UploadFile = File(...)):
-    async with httpx.AsyncClient() as client:
-        files = {"file": (file.filename, await file.read(), file.content_type)}
-        data = {"doc_type": doc_type}
-        resp = await client.post("http://localhost:8001/upload_document", data=data, files=files)
-        return resp.json()
+# @app.post("/upload_document")
+# async def upload_document(doc_type: str = Form("unknown"), file: UploadFile = File(...)):
+#     async with httpx.AsyncClient() as client:
+#         files = {"file": (file.filename, await file.read(), file.content_type)}
+#         data = {"doc_type": doc_type}
+#         resp = await client.post("http://localhost:8001/upload_document", data=data, files=files)
+#         return resp.json()
 
 
-@app.post("/upload_directory")
-async def upload_directory(root_dir: str = Form(...), doc_type: str = Form("unknown")):
-    async with httpx.AsyncClient() as client:
-        data = {"root_dir": root_dir, "doc_type": doc_type}
-        resp = await client.post("http://localhost:8001/upload_directory", data=data)
-        return resp.json()
+# @app.post("/upload_directory")
+# async def upload_directory(root_dir: str = Form(...), doc_type: str = Form("unknown")):
+#     async with httpx.AsyncClient() as client:
+#         data = {"root_dir": root_dir, "doc_type": doc_type}
+#         resp = await client.post("http://localhost:8001/upload_directory", data=data)
+#         return resp.json()
 
 
 @app.get("/health")

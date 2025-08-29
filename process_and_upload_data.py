@@ -7,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 # CONFIG: Set to True to upload to Qdrant, False to only save embeddings
 # -----------------------------
 UPLOAD_TO_QDRANT = True  # Change to True for direct upload
+COLLECTION_NAME = "baza"
 
 # -----------------------------
 # 1. Load embedding model
@@ -18,7 +19,7 @@ model = SentenceTransformer("all-MiniLM-L6-v2")  # dim=384
 # -----------------------------
 def get_all_json_files(root_dir):
     """
-    Returns a list of file paths for all JSON files in root_dir (recursively).
+    Returns a flat list of all JSON files in root_dir (recursively).
     """
     files = []
     for root, dirs, filenames in os.walk(root_dir):
@@ -38,36 +39,50 @@ def load_json_as_text(file_path):
 
 def embed_jsons_in_directory(root_dir, output_dir):
     """
-    Embeds all JSON files in root_dir (recursively) and saves them as .emb.json in output_dir/baza/
+    Embeds all JSON files in root_dir (recursively) and saves them as .emb.json in output_dir/data/
     """
     files_to_process = get_all_json_files(root_dir)
-    out_coll_dir = os.path.join(output_dir, "baza")
+    out_coll_dir = os.path.join(output_dir, COLLECTION_NAME)
     os.makedirs(out_coll_dir, exist_ok=True)
+
     for file_path in files_to_process:
         text = load_json_as_text(file_path)
         if text:
             vector = model.encode(text).tolist()
             out_path = os.path.join(out_coll_dir, f"{os.path.basename(file_path)}.emb.json")
             with open(out_path, "w", encoding="utf-8") as f:
-                json.dump({"vector": vector, "content": text, "path": file_path}, f, ensure_ascii=False, indent=2)
+                json.dump(
+                    {"vector": vector, "content": text, "path": file_path},
+                    f,
+                    ensure_ascii=False,
+                    indent=2
+                )
 
 def upload_embedded_to_qdrant(output_dir):
     """
-    Uploads all .emb.json files in output_dir/baza/ to Qdrant collection 'baza'.
+    Uploads all .emb.json files in output_dir/data/ to a single Qdrant collection.
     """
     from qdrant_client import QdrantClient
     from qdrant_client.http import models as rest
 
     client = QdrantClient(host="localhost", port=6333)
-    coll_dir = os.path.join(output_dir, "baza")
+
+    coll_dir = os.path.join(output_dir, COLLECTION_NAME)
     if not os.path.isdir(coll_dir):
-        print("⚠️ No 'baza' directory found in embedded_data!")
+        print(f"⚠️ No embeddings found in {coll_dir}")
         return
-    print(f"\n📂 Uploading collection: baza")
-    client.recreate_collection(
-        collection_name="baza",
-        vectors_config=rest.VectorParams(size=384, distance=rest.Distance.COSINE),
+    # Sprawdź czy kolekcja istnieje i usuń ją
+    if client.collection_exists(collection_name=COLLECTION_NAME):
+        client.delete_collection(collection_name=COLLECTION_NAME)
+
+    # Utwórz kolekcję z nazwanym wektorem
+    client.create_collection(
+        collection_name=COLLECTION_NAME,
+        vectors_config={
+            "fast-all-minilm-l6-v2": rest.VectorParams(size=384, distance=rest.Distance.COSINE)
+        },
     )
+
     points = []
     for fname in os.listdir(coll_dir):
         if fname.endswith(".emb.json"):
@@ -76,25 +91,24 @@ def upload_embedded_to_qdrant(output_dir):
             points.append(
                 rest.PointStruct(
                     id=str(uuid.uuid4()),
-                    vector=emb["vector"],
+                    vector={"fast-all-minilm-l6-v2": emb["vector"]},  # <-- poprawka??
                     payload={"path": emb["path"], "content": emb["content"]}
                 )
             )
     if points:
-        client.upsert(collection_name="baza", points=points)
-        print(f"✅ Uploaded {len(points)} documents to 'baza'")
+        client.upsert(collection_name=COLLECTION_NAME, points=points)
+        print(f"✅ Uploaded {len(points)} documents to '{COLLECTION_NAME}'")
     else:
-        print(f"⚠️ No embeddings found for 'baza'")
+        print(f"⚠️ No embeddings found for '{COLLECTION_NAME}'")
 
 if __name__ == "__main__":
-    # Embed all JSONs in the specified folders to one collection 'baza'
+    root_dir = "data"         # wszystkie pliki z data/faq, data/aktualnosci itd.
     output_dir = "embedded_data"
-    for coll in ["faq", "aktualnosci", "rekrutacja", "pracownicy"]:
-        root_dir = f"data/{coll}"
-        print(f"Embedding: {coll}")
-        embed_jsons_in_directory(root_dir, output_dir)
-    print("\n🎉 Wszystkie dane zembedowane do 'baza'!")
+
+    print(f"Embedding all JSONs into one collection: {COLLECTION_NAME}")
+    embed_jsons_in_directory(root_dir, output_dir)
+    print("\n🎉 All JSONs embedded!")
 
     if UPLOAD_TO_QDRANT:
         upload_embedded_to_qdrant(output_dir)
-        print("\n🎉 Wszystkie dane uploadowane do Qdrant (kolekcja 'baza')!")
+        print("\n🎉 All data uploaded to Qdrant!")

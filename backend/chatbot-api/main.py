@@ -17,6 +17,7 @@ from pydantic_ai.providers.openai import OpenAIProvider
 from qdrant_client import QdrantClient
 
 from web_search import WebSearchTool
+import logging
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
@@ -63,11 +64,14 @@ class QdrantService:
 
 class AgentFactory:
     def __init__(self, model_name: str = MODEL_NAME, base_url: str = OLLAMA_URL):
+        logging.info(f"Initializing AgentFactory with model: {model_name}, base_url: {base_url}")
         self.model = OpenAIModel(
             model_name=model_name, provider=OpenAIProvider(base_url=base_url)
         )
 
     def create_agents(self) -> Tuple[Agent, Agent, Agent]:
+        logging.info(f"Main agent system prompt: {system_prompts.MAIN_SYSTEM_PROMPT}")
+        logging.info(f"Intent agent system prompt: {system_prompts.INTENT_SYSTEM_PROMPT}")
         main_agent = Agent(
             model=self.model,
             deps_type=Deps,
