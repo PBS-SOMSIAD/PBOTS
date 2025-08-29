@@ -22,7 +22,7 @@ QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
 MODEL_NAME = "qwen3:1.7b"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTIONS = ["faq", "aktualnosci", "rekrutacja", "pracownicy"]
+COLLECTION_NAME = "baza"
 
 
 class WebSearchResult(BaseModel):
@@ -45,14 +45,20 @@ class QdrantService:
             raise RuntimeError(f"Failed to initialize Qdrant client: {e}") from e
 
     def query_documents(
-        self, collection_name: str, query_text: str, limit: int = 10
+        self, query_text: str, doc_type: str = None, limit: int = 10
     ) -> list[str]:
+        # Query tylko z jednej kolekcji 'baza', opcjonalnie filtr po doc_type
+        filter_payload = None
+        if doc_type:
+            filter_payload = {"doc_type": doc_type}
         points = self.client.query(
-            collection_name=collection_name,
+            collection_name=COLLECTION_NAME,
             query_text=query_text,
             limit=limit,
+            query_filter=filter_payload
         )
-        return [f"\n{point.document}\n" for point in points]
+        # Zwróć content i typ dokumentu
+        return [f"\n[{point.payload.get('doc_type', 'unknown')}] {point.payload.get('content', '')}\n" for point in points]
 
 
 class AgentFactory:
@@ -89,15 +95,15 @@ class PBSKnowledgeBase:
     def _register_tools(self) -> None:
         @self.main_agent.tool
         async def retrieve(
-            context: RunContext[Deps], search_query: str, collection_name: str = "faq"
+            context: RunContext[Deps], search_query: str, doc_type: str = None
         ) -> str:
             """
             Tool: retrieve
 
-            Queries the local vector database (Qdrant) using the provided search query and collection name.
+            Queries the local vector database (Qdrant) using the provided search query and optional doc_type.
             Returns a concatenated string of relevant documents from the PBS knowledge base.
             """
-            results = self.qdrant_service.query_documents(collection_name, search_query)
+            results = self.qdrant_service.query_documents(search_query, doc_type=doc_type)
             return "\n".join(results)
 
         @self.main_agent.tool
@@ -117,13 +123,13 @@ class PBSKnowledgeBase:
             return WebSearchResult(url=url, content=content)
 
         @self.main_agent.tool
-        async def list_collections(context: RunContext[Deps]) -> str:
+        async def list_doc_types(context: RunContext[Deps]) -> str:
             """
-            Tool: list_collections
+            Tool: list_doc_types
 
-            Lists available knowledge base collections.
+            Lists available document types in the knowledge base.
             """
-            return ", ".join(COLLECTIONS)
+            return "FAQ, Rekrutacja, Pracownicy, Aktualności"
 
     def get_main_agent(self) -> Agent:
         return self.main_agent

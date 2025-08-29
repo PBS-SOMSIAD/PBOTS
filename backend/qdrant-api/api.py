@@ -1,6 +1,7 @@
 import uvicorn
 import os
 import json
+import uuid
 
 from fastapi import FastAPI, HTTPException, UploadFile, File, Form
 from pydantic import BaseModel
@@ -11,6 +12,7 @@ from qdrant_client.http import models as rest
 from docling.chunking import HybridChunker
 from docling.datamodel.base_models import InputFormat
 from docling.document_converter import DocumentConverter
+from sentence_transformers import SentenceTransformer
 
 
 class UploadJsonResponse(BaseModel):
@@ -38,7 +40,7 @@ app = FastAPI(
 )
 
 
-def create_collection_if_not_exists(client, collection_name, dim=384):
+def create_collection_if_not_exists(client, collection_name="baza", dim=384):
     if collection_name not in [c.name for c in client.get_collections().collections]:
         client.create_collection(
             collection_name=collection_name,
@@ -47,14 +49,17 @@ def create_collection_if_not_exists(client, collection_name, dim=384):
 
 
 @app.post("/upload_json")
-async def upload_json(
-    collection_name: str = Form(...), file: UploadFile = File(...)
-) -> UploadJsonResponse:
+async def upload_json(file: UploadFile = File(...), doc_type: str = Form("unknown")) -> UploadJsonResponse:
+    """
+    Dodaje JSON do kolekcji 'baza'.
+    doc_type: typ dokumentu (FAQ, Rekrutacja, Pracownicy, Aktualności, ...)
+    """
     try:
         db_client = QdrantClient(location=QDRANT_URL)
-        db_client.set_model(EMBEDDING_MODEL)
-        db_client.set_sparse_model("Qdrant/bm25")
-        create_collection_if_not_exists(db_client, collection_name)
+        create_collection_if_not_exists(db_client, "baza")
+
+        # Załaduj model embeddingu
+        model = SentenceTransformer(EMBEDDING_MODEL)
 
         content = await file.read()
         try:
@@ -63,14 +68,14 @@ async def upload_json(
             raise HTTPException(status_code=400, detail=f"Invalid JSON: {e}")
 
         text = json.dumps(data, indent=2, ensure_ascii=False)
-        vector = db_client.embed_model.embed(text)
+        vector = model.encode(text).tolist()
         db_client.upsert(
-            collection_name=collection_name,
+            collection_name="baza",
             points=[
                 rest.PointStruct(
-                    id=file.filename,
+                    id=str(uuid.uuid4()),  # <-- generuj UUID
                     vector=vector,
-                    payload={"filename": file.filename, "content": text},
+                    payload={"filename": file.filename, "content": text, "doc_type": doc_type},
                 )
             ],
         )
@@ -80,48 +85,61 @@ async def upload_json(
 
 
 @app.post("/upload_document")
-async def upload_document(
-    collection_name: str = Form(...), file: UploadFile = File(...)
-) -> UploadDocumentResponse:
+async def upload_document(file: UploadFile = File(...), doc_type: str = Form("unknown")) -> UploadDocumentResponse:
+    """
+    Dodaje dokument PDF do kolekcji 'baza'.
+    doc_type: typ dokumentu
+    """
     try:
         db_client = QdrantClient(location=QDRANT_URL)
         db_client.set_model(EMBEDDING_MODEL)
         db_client.set_sparse_model("Qdrant/bm25")
-        create_collection_if_not_exists(db_client, collection_name)
+        create_collection_if_not_exists(db_client, "baza")
 
         doc_converter = DocumentConverter(allowed_formats=[InputFormat.PDF])
         contents = await file.read()
-        with open(f"/tmp/{file.filename}", "wb") as f:
+        tmp_path = f"/tmp/{file.filename}"
+        with open(tmp_path, "wb") as f:
             f.write(contents)
-        result = doc_converter.convert(f"/tmp/{file.filename}")
+        result = doc_converter.convert(tmp_path)
 
         documents, metadatas = [], []
         for chunk in HybridChunker().chunk(result.document):
             documents.append(chunk.text)
             metadatas.append(chunk.meta.export_json_dict())
 
-        db_client.add(
-            collection_name=collection_name,
-            documents=documents,
-            metadata=metadatas,
-            batch_size=64,
-        )
+        # Embedding i upload do jednej kolekcji
+        for doc, meta in zip(documents, metadatas):
+            vector = db_client.embed_model.embed(doc)
+            if hasattr(vector, "tolist"):
+                vector = vector.tolist()
+            db_client.upsert(
+                collection_name="baza",
+                points=[
+                    rest.PointStruct(
+                        id=str(uuid.uuid4()) + f"_{meta.get('chunk_id', '')}",
+                        vector=vector,
+                        payload={"filename": file.filename, "content": doc, "doc_type": doc_type, "meta": meta},
+                    )
+                ],
+            )
         return UploadDocumentResponse(status="success", uploaded_count=len(documents))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to upload document: {str(e)}")
 
 
 @app.post("/upload_directory")
-async def upload_directory(root_dir: str = Form(...)) -> UploadDirectoryResponse:
+async def upload_directory(root_dir: str = Form(...), doc_type: str = Form("unknown")) -> UploadDirectoryResponse:
+    """
+    Rekurencyjny upload wszystkich JSON-ów z folderu do kolekcji 'baza'.
+    doc_type: typ dokumentu
+    """
     db_client = QdrantClient(location=QDRANT_URL)
     db_client.set_model(EMBEDDING_MODEL)
     db_client.set_sparse_model("Qdrant/bm25")
-    collections = {}
+    create_collection_if_not_exists(db_client, "baza")
+    uploaded = 0
     for root, dirs, files in os.walk(root_dir):
-        rel_path = os.path.relpath(root, root_dir)
-        collection_name = rel_path.replace(os.sep, "_") or "root"
-        uploaded = 0
-        points = []
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
@@ -130,21 +148,20 @@ async def upload_directory(root_dir: str = Form(...)) -> UploadDirectoryResponse
                         data = json.load(f)
                     text = json.dumps(data, indent=2, ensure_ascii=False)
                     vector = db_client.embed_model.embed(text)
-                    points.append(
-                        rest.PointStruct(
-                            id=file,
-                            vector=vector,
-                            payload={"filename": file, "content": text},
-                        )
+                    db_client.upsert(
+                        collection_name="baza",
+                        points=[
+                            rest.PointStruct(
+                                id=file,
+                                vector=vector,
+                                payload={"filename": file, "content": text, "doc_type": doc_type, "path": file_path},
+                            )
+                        ],
                     )
                     uploaded += 1
                 except Exception:
                     continue
-        if points:
-            create_collection_if_not_exists(db_client, collection_name)
-            db_client.upsert(collection_name=collection_name, points=points)
-        collections[collection_name] = uploaded
-    return UploadDirectoryResponse(status="success", collections=collections)
+    return UploadDirectoryResponse(status="success", collections={"baza": uploaded})
 
 
 @app.get("/health")

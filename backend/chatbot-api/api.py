@@ -83,29 +83,27 @@ async def ask_question_stream(request: QuestionRequest) -> StreamingResponse:
 
 
 @app.post("/upload_json")
-async def upload_json(collection_name: str = Form(...), file: UploadFile = File(...)
-
-):
+async def upload_json(doc_type: str = Form("unknown"), file: UploadFile = File(...)):
     async with httpx.AsyncClient() as client:
         files = {"file": (file.filename, await file.read(), file.content_type)}
-        data = {"collection_name": collection_name}
+        data = {"doc_type": doc_type}
         resp = await client.post("http://localhost:8001/upload_json", data=data, files=files)
         return resp.json()
 
 
 @app.post("/upload_document")
-async def upload_document(collection_name: str = Form(...), file: UploadFile = File(...)):
+async def upload_document(doc_type: str = Form("unknown"), file: UploadFile = File(...)):
     async with httpx.AsyncClient() as client:
         files = {"file": (file.filename, await file.read(), file.content_type)}
-        data = {"collection_name": collection_name}
+        data = {"doc_type": doc_type}
         resp = await client.post("http://localhost:8001/upload_document", data=data, files=files)
         return resp.json()
 
 
 @app.post("/upload_directory")
-async def upload_directory(root_dir: str = Form(...)):
+async def upload_directory(root_dir: str = Form(...), doc_type: str = Form("unknown")):
     async with httpx.AsyncClient() as client:
-        data = {"root_dir": root_dir}
+        data = {"root_dir": root_dir, "doc_type": doc_type}
         resp = await client.post("http://localhost:8001/upload_directory", data=data)
         return resp.json()
 
