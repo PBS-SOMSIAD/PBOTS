@@ -21,7 +21,7 @@ from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 
 
-from main import DndKnowledgeBase
+from main import PbsKnowledgeBase
 
 from pydantic import BaseModel
 
@@ -42,7 +42,7 @@ app = FastAPI(
     version="1.0.0",
 )
 
-kb = DndKnowledgeBase()
+kb = PbsKnowledgeBase()
 main_agent = kb.get_main_agent()
 intents_agent = kb.get_intents_agent()
 deps = kb.get_deps()
