@@ -31,7 +31,7 @@ async def generate_database() -> DatabaseGenerationResponse:
 
         documents, metadatas = [], []
 
-        # Recursively iterate over all JSON files in folder and subfolders
+        # Recursively iterate over all JSON files
         for root, dirs, files in os.walk(LOCAL_JSON_FOLDER):
             for filename in files:
                 if filename.endswith(".json"):
@@ -39,21 +39,25 @@ async def generate_database() -> DatabaseGenerationResponse:
                     with open(path, "r", encoding="utf-8") as f:
                         data = json.load(f)
 
-                    text = data.get("text")
-                    metadata = data.get("metadata", {})
+                    # Handle both lists of JSON objects and single JSON object
+                    items = data if isinstance(data, list) else [data]
 
-                    if not text:
-                        continue
+                    for item in items:
+                        text = item.get("text")
+                        metadata = item.get("metadata", {})
 
-                    # Chunk the text
-                    for chunk in HybridChunker().chunk(text):
-                        documents.append(chunk.text)
-                        metadatas.append({**metadata, **chunk.meta.export_json_dict()})
+                        if not text:
+                            continue
+
+                        # Chunk the text
+                        for chunk in HybridChunker().chunk(text):
+                            documents.append(chunk.text)
+                            metadatas.append({**metadata, **chunk.meta.export_json_dict()})
 
         if not documents:
             raise HTTPException(status_code=400, detail="No valid documents found.")
 
-        # Add to Qdrant
+        # Add all chunks to Qdrant
         db_client.add(
             collection_name=COLLECTION_NAME,
             documents=documents,
