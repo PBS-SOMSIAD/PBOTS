@@ -5,7 +5,6 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
 from qdrant_client import QdrantClient
-from docling.chunking import HybridChunker
 
 class DatabaseGenerationResponse(BaseModel):
     status: str
@@ -39,26 +38,26 @@ async def generate_database() -> DatabaseGenerationResponse:
                     with open(path, "r", encoding="utf-8") as f:
                         data = json.load(f)
 
-                    # Wrap single objects into a list for uniform processing
+                    # Convert to list for uniform processing
                     items = data if isinstance(data, list) else [data]
 
                     for item in items:
-                        # Convert any JSON object to a string for chunking
                         text = json.dumps(item, ensure_ascii=False)
-                        metadata = {"source_file": path}
+                        metadata = {
+                            "source_file": path,
+                            "original_type": type(item).__name__
+                        }
 
-                        # Skip empty JSON
                         if not text.strip():
                             continue
 
-                        for chunk in HybridChunker().chunk(text):
-                            documents.append(chunk.text)
-                            metadatas.append({**metadata, **chunk.meta.export_json_dict()})
+                        documents.append(text)
+                        metadatas.append(metadata)
 
         if not documents:
             raise HTTPException(status_code=400, detail="No valid documents found.")
 
-        # Add all chunks to Qdrant
+        # Add all documents to Qdrant
         db_client.add(
             collection_name=COLLECTION_NAME,
             documents=documents,
