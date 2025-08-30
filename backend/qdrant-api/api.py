@@ -31,24 +31,24 @@ async def generate_database() -> DatabaseGenerationResponse:
 
         documents, metadatas = [], []
 
-        # Iterate over local JSON files
-        for filename in os.listdir(LOCAL_JSON_FOLDER):
-            if filename.endswith(".json"):
-                path = os.path.join(LOCAL_JSON_FOLDER, filename)
-                with open(path, "r", encoding="utf-8") as f:
-                    data = json.load(f)
+        # Recursively iterate over all JSON files in folder and subfolders
+        for root, dirs, files in os.walk(LOCAL_JSON_FOLDER):
+            for filename in files:
+                if filename.endswith(".json"):
+                    path = os.path.join(root, filename)
+                    with open(path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
 
-                # Expecting each JSON to have a "text" field and optional metadata
-                text = data.get("text")
-                metadata = data.get("metadata", {})
+                    text = data.get("text")
+                    metadata = data.get("metadata", {})
 
-                if not text:
-                    continue
+                    if not text:
+                        continue
 
-                # Chunk the text
-                for chunk in HybridChunker().chunk(text):
-                    documents.append(chunk.text)
-                    metadatas.append({**metadata, **chunk.meta.export_json_dict()})
+                    # Chunk the text
+                    for chunk in HybridChunker().chunk(text):
+                        documents.append(chunk.text)
+                        metadatas.append({**metadata, **chunk.meta.export_json_dict()})
 
         if not documents:
             raise HTTPException(status_code=400, detail="No valid documents found.")
