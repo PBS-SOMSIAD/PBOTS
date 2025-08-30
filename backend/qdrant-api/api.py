@@ -12,7 +12,7 @@ class DatabaseGenerationResponse(BaseModel):
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTION_NAME = "handbook"
+COLLECTION_NAME = "baza"
 LOCAL_JSON_FOLDER = "./data"  # folder where your JSON files are stored
 
 app = FastAPI(
