@@ -65,7 +65,10 @@ Bot odpowiada na różnorodne pytania o Politechnikę Bydgoską. Przykłądy pyt
 - "Czy jest parking dla studentów?"
 
 ## 🖱️ Instrukcja użytkowania
-[]
+1. **Wejdź na stronę frontendu** – otwórz przeglądarkę i wpisz adres: `http://localhost:3000`
+2. **Zadaj pytanie** – wpisz pytanie dotyczące uczelni w polu czatu i naciśnij Enter.
+3. **Otrzymaj odpowiedź** – bot w czasie rzeczywistym wygeneruje odpowiedź na podstawie bazy wiedzy PBŚ.
+4. **Filtruj pytania** – bot odpowiada wyłącznie na pytania związane z Politechniką Bydgoską.
 
 ## 🏗️ Architektura systemu
 
@@ -75,7 +78,12 @@ Bot odpowiada na różnorodne pytania o Politechnikę Bydgoską. Przykłądy pyt
 - **Baza wektorowa**: Qdrant - przechowywanie i wyszukiwanie dokumentów
 - **Model AI**: Qwen 3 - generowanie odpowiedzi?
 
-[]
+```mermaid
+flowchart LR
+  UI[Frontend – Next.js] --> BE[Backend – FastAPI]
+  BE --> VDB[Qdrant – Vector DB]
+  BE --> LLM[Qwen3 – LLM]
+```
 
 
 ## 🧰 Technologie
