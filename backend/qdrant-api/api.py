@@ -39,17 +39,18 @@ async def generate_database() -> DatabaseGenerationResponse:
                     with open(path, "r", encoding="utf-8") as f:
                         data = json.load(f)
 
-                    # Handle both lists of JSON objects and single JSON object
+                    # Wrap single objects into a list for uniform processing
                     items = data if isinstance(data, list) else [data]
 
                     for item in items:
-                        text = item.get("text")
-                        metadata = item.get("metadata", {})
+                        # Convert any JSON object to a string for chunking
+                        text = json.dumps(item, ensure_ascii=False)
+                        metadata = {"source_file": path}
 
-                        if not text:
+                        # Skip empty JSON
+                        if not text.strip():
                             continue
 
-                        # Chunk the text
                         for chunk in HybridChunker().chunk(text):
                             documents.append(chunk.text)
                             metadatas.append({**metadata, **chunk.meta.export_json_dict()})
