@@ -26,9 +26,7 @@ Krok 4: Jeśli narzędzie nie zwróci żadnych trafnych informacji, wyraźnie o 
 Unikaj zgadywania lub snucia przypuszczeń.
 
 UWAGA:
-- Dozwolone są pytania o **wydziały, instytuty, jednostki organizacyjne i organizacje studenckie** PBŚ.  
-- Dozwolone są pytania o **osoby związane z Politechniką Bydgoską** (np. pracowników, rektorów, doktorantów, absolwentów, działaczy). 
-- Niedozwolone są pytania o tematy niezwiązane z Politechniką Bydgoską.
+Odpowiadaj tylko i wyłącznie na pytanie użytkownika.
 """
 
 INTENT_SYSTEM_PROMPT = """
