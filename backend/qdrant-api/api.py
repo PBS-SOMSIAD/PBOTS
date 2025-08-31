@@ -13,7 +13,7 @@ class DatabaseGenerationResponse(BaseModel):
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "baza"
-LOCAL_JSON_FOLDER = "./data"  # folder where your JSON files are stored
+LOCAL_JSON_FOLDER = "./data"  # folder where your JSON/txt files are stored
 
 app = FastAPI(
     title="Baza danych o PBS",
@@ -30,15 +30,16 @@ async def generate_database() -> DatabaseGenerationResponse:
 
         documents, metadatas = [], []
 
-        # Recursively iterate over all JSON files
+        # Recursively iterate over all JSON and TXT files
         for root, dirs, files in os.walk(LOCAL_JSON_FOLDER):
             for filename in files:
+                path = os.path.join(root, filename)
+
+                # JSON files
                 if filename.endswith(".json"):
-                    path = os.path.join(root, filename)
                     with open(path, "r", encoding="utf-8") as f:
                         data = json.load(f)
 
-                    # Convert to list for uniform processing
                     items = data if isinstance(data, list) else [data]
 
                     for item in items:
@@ -53,6 +54,22 @@ async def generate_database() -> DatabaseGenerationResponse:
 
                         documents.append(text)
                         metadatas.append(metadata)
+
+                # TXT files
+                elif filename.endswith(".txt"):
+                    with open(path, "r", encoding="utf-8") as f:
+                        text = f.read()
+
+                    if not text.strip():
+                        continue
+
+                    metadata = {
+                        "source_file": path,
+                        "original_type": "txt"
+                    }
+
+                    documents.append(text)
+                    metadatas.append(metadata)
 
         if not documents:
             raise HTTPException(status_code=400, detail="No valid documents found.")
