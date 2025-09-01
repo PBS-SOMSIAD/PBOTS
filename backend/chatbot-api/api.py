@@ -30,11 +30,11 @@ class QuestionRequest(BaseModel):
     question: str
 
 
-# if "LOGFIRE_TOKEN" in os.environ:
-#     logfire.configure(
-#         token=os.environ["LOGFIRE_TOKEN"],
-#     )
-#     logfire.instrument_pydantic_ai()
+if "LOGFIRE_TOKEN" in os.environ:
+    logfire.configure(
+        token=os.environ["LOGFIRE_TOKEN"],
+    )
+    logfire.instrument_pydantic_ai()
 
 app = FastAPI(
     title="API Bazy wiedzy o PBŚ",

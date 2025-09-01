@@ -1,45 +1,41 @@
 import uvicorn
-import os
-import json
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
 from qdrant_client import QdrantClient
+from docling.chunking import HybridChunker
+from docling.datamodel.base_models import InputFormat
+from docling.document_converter import DocumentConverter
+import os
+
 
 class DatabaseGenerationResponse(BaseModel):
     status: str
     document_count: int
 
+
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "baza"
-LOCAL_JSON_FOLDER = "./data"  # folder where your JSON/txt files are stored
+
 
 app = FastAPI(
-    title="Baza danych o PBS",
-    description="API do odpowiadania na temat pytań o PBŚ",
+    title="D&D Knowledge Base API",
+    description="API for answering Dungeons & Dragons 5th Edition questions",
     version="1.0.0",
 )
 
+
 @app.post("/generate_database")
-async def generate_database(
-    user_context: UserContext = Depends(get_user_context),
-) -> DatabaseGenerationResponse:
-
-    # Check if user has admin role
-    if not user_context.has_role("admin"):
-        raise HTTPException(
-            status_code=403,
-            detail="Access denied. Admin role required to generate database.",
-        )
-
+async def generate_database() -> DatabaseGenerationResponse:
     try:
         doc_converter = DocumentConverter(allowed_formats=[InputFormat.PDF])
         db_client = QdrantClient(location=QDRANT_URL)
         db_client.set_model(EMBEDDING_MODEL)
-        db_client.set_sparse_model(SPARSE_MODEL)
+        db_client.set_sparse_model("Qdrant/bm25")
 
-        result = doc_converter.convert("knowledge.pdf")
+        result = doc_converter.convert("wiemdza.pdf")
 
         documents, metadatas = [], []
         for chunk in HybridChunker().chunk(result.document):
@@ -50,7 +46,7 @@ async def generate_database(
             collection_name=COLLECTION_NAME,
             documents=documents,
             metadata=metadatas,
-            batch_size=BATCH_SIZE,
+            batch_size=64,
         )
 
         return DatabaseGenerationResponse(
@@ -69,4 +65,4 @@ async def health_check() -> dict:
 
 
 if __name__ == "__main__":
-    uvicorn.run("api:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("api:app", host="0.0.0.0", port=8001, reload=True)
