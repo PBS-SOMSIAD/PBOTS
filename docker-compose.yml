@@ -6,7 +6,7 @@ services:
     network_mode: "host"
     environment:
       - QDRANT_URL=http://localhost:6333
-      - OLLAMA_URL=http://212.122.192.226:11434/v1
+      - OLLAMA_URL=$OLLAMA_URL
       - LOGFIRE_TOKEN=$LOGFIRE_TOKEN
     depends_on:
       - qdrant
