@@ -17,7 +17,7 @@ class DatabaseGenerationResponse(BaseModel):
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTION_NAME = "handbook"
+COLLECTION_NAME = "baza"
 
 
 app = FastAPI(
@@ -35,9 +35,7 @@ async def generate_database() -> DatabaseGenerationResponse:
         db_client.set_model(EMBEDDING_MODEL)
         db_client.set_sparse_model("Qdrant/bm25")
 
-        result = doc_converter.convert(
-            "https://media.wizards.com/2014/downloads/dnd/PlayerDnDBasicRules_v0.2_PrintFriendly.pdf"
-        )
+        result = doc_converter.convert("wiemdza.pdf")
 
         documents, metadatas = [], []
         for chunk in HybridChunker().chunk(result.document):

@@ -1,3 +1,4 @@
+fastembed
 docling
 fastapi>=0.116.1
 pydantic>=2.11.7

@@ -1,8 +1,8 @@
 """
-D&D Knowledge Base - Main Module (Object-Oriented)
+Baza wiedzy o PBŚ - Moduł główny (Obiektowy)
 
-This module configures and initializes the D&D knowledge agent using pydantic-ai and Qdrant.
-It provides core functionality for retrieving D&D information from a vector database and web.
+Ten moduł konfiguruje i inicjalizuje agenta wiedzy korzystając z pydantic-ai i Qdrant.
+Zapewnie kluczową funkcjonalność retrievalu wiedzy z wektorowej bazy danych.
 """
 
 import os
@@ -21,9 +21,9 @@ from chatbot_api.web_search import WebSearchTool
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
-MODEL_NAME = "qwen3:1.7b"
+MODEL_NAME = "gpt-oss:20b"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-COLLECTION_NAME = "handbook"
+COLLECTION_NAME = "baza"
 
 
 class WebSearchResult(BaseModel):
@@ -79,7 +79,7 @@ class AgentFactory:
         return main_agent, intents_agent
 
 
-class DndKnowledgeBase:
+class PbsKnowledgeBase:
     def __init__(self):
         self.qdrant_service = QdrantService()
         self.agent_factory = AgentFactory()
@@ -91,29 +91,14 @@ class DndKnowledgeBase:
         @self.main_agent.tool
         async def retrieve(context: RunContext[Deps], search_query: str) -> str:
             """
-            Tool: retrieve
+            Narzędzie: retrieve
 
-            Queries the local vector database (Qdrant) using the provided search query.
-            Returns a concatenated string of relevant documents from the D&D 5e knowledge base.
+            Odpytuje lokalną wektorową baze danych (Qdrant) korzystając z zapewnionego search query.
+            Zwraca tekst z dokumentów z bazy wiedzy.
             """
             results = self.qdrant_service.query_documents(COLLECTION_NAME, search_query)
             return "\n".join(results)
 
-        @self.main_agent.tool
-        async def web_search(
-            context: RunContext[Deps], search_query: str
-        ) -> WebSearchResult:
-            """
-            Tool: web_search
-
-            Description:
-            Performs a live Google search for the given query and scrapes the content
-            of the top result. Returns both the URL and the extracted page content.
-            """
-            search_result = self.web_tool.web_search(query=search_query, max_results=1)
-            url = search_result.results[0].url
-            content = self.web_tool.web_scrap(url)
-            return WebSearchResult(url=url, content=content)
 
     def get_main_agent(self) -> Agent:
         return self.main_agent

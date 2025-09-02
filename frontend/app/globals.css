@@ -3,9 +3,9 @@
 }
 
 body {
-  background-color: rgb(20, 20, 20);
-  color: whitesmoke;
-  font-family: Arial, sans-serif;
+  background-color: #f0f0f2;
+  color: #1d1d1d;
+  font-family: 'Saira', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
@@ -22,42 +22,59 @@ body {
   width: 100vw;
   height: 100vh;
   padding: 0;
+  padding-top: 80px; 
+  box-sizing: border-box;
+}
+
+.chat-view {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%; 
+  align-items: center;
+  padding: 15px 0 5px;
+  box-sizing: border-box;
 }
 
 header {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
   padding: 20px;
+  margin-bottom: 20px;
 }
 
 header h1 {
   margin: 0;
-  font-size: 2.5em;
+  font-size: 5em; 
 }
 
-header p {
-  margin: 10px 0 0;
-  font-size: 1.2em;
-  color: #a0a0a0;
+.prompt-text {
+  font-size: 2em; 
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 700;
 }
 
 #chat-container {
   display: flex;
   flex-direction: column;
-  width: 80%;
-  max-width: 800px;
-  height: 80%;
-  background-color: #2c2c2c;
+  width: 100%;
+  flex: 1;
   border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  position: relative;
+  overflow-y: auto;
+  margin-bottom: 10px;
 }
 
 #messages {
-  flex: 1;
-  padding: 10px;
-  overflow-y: auto;
-  color: whitesmoke;
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 .message-content{
@@ -66,77 +83,263 @@ header p {
   color: whitesmoke;
 }
 
+.message.api .message-content > *:first-child {
+  margin-top: 0;
+}
+
+.message.api .message-content > *:last-child {
+  margin-bottom: 0;
+}
+
 .message {
-  margin-bottom: 10px;
-  padding: 10px;
-  border-radius: 5px;
+  min-width: 120px;
+  max-width: 75%; 
+  padding: 10px 15px;
+  border-radius: 18px;
+  position: relative;
 }
 
 .message .tag {
   font-weight: bold;
   margin-bottom: 5px;
   display: block;
+  text-align: left;    
+  padding-left: 10px;   
 }
 
 .message.user .tag {
-  color: #a0a0a0;
+  color: #fff;
 }
 
 .message.api .tag {
-  color: #ffcc00;
+  color: #fff;
 }
 
 .message.user {
-  background-color: #4a4a4a;
-  align-self: flex-end;
+  background-color: #830e21;
+  align-self: flex-end; 
+  margin-left: 120px; 
 }
 
 .message.api {
-  background-color: #3a3a3a;
+  background-color: #1d1d1d;
   align-self: flex-start;
+  margin-right: 120px;  
+}
+
+.message-row {
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+  align-items: flex-end; 
+}
+
+.message-row.user {
+  justify-content: flex-end;
+}
+
+.message-row.api {
+  justify-content: flex-start;
+}
+
+.message-row.api .message-avatar {
+  margin-right: 10px;
+}
+
+.message-row.user .message-avatar {
+  margin-left: 10px;
+}
+
+.message-avatar {
+  position: relative;
+  top: 7px; 
+}
+
+.message-row.api .message-avatar img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.message-row.user .message-avatar img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.message-avatar {
+  margin-right: 10px;
+}
+
+.chat-view > #chat-form {
+  width: 80%;
+  max-width: 1000px;
+  margin-top: 0;
+  flex-shrink: 0;
 }
 
 #chat-form {
   display: flex;
-  padding: 10px;
-  border-top: 1px solid #3a3a3a;
-  margin-bottom: 0;
+  padding: 5px 5px 15px; 
+  width: 80%;
+  max-width: 1000px;
+  margin-top: 0;
 }
 
 #question {
   flex: 1;
   padding: 20px;
-  border: none;
-  border-radius: 5px;
+  border: 7px solid #830e21;   
+  border-radius: 20px;          
   margin-right: 10px;
-  background-color: #3a3a3a;
-  color: whitesmoke;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  outline: none;               
+  transition: border-color 0.2s;
 }
 
-#question:focus {
-  outline: none;
-  background-color: #4a4a4a;
+
+
+#question::placeholder {
+  color: black; 
+  opacity: 1; 
+  font-size: 18px;
+
 }
 
 button {
-  padding: 10px 20px;
+  background: none;
   border: none;
-  border-radius: 5px;
-  background-color: #4a4a4a;
-  color: whitesmoke;
+  padding: 0;
+  margin: 0;
   cursor: pointer;
-  transition: background-color 0.3s ease;
 }
 
 button[type='submit'] {
   margin-right: 5px;
 }
 
-button:hover {
-  background-color: #646464;
-}
-
 button:disabled {
   opacity: 0.7;
   cursor: not-allowed;
+}
+
+.red-bar {
+  width: 100%;
+  height: 80px;
+  background-color: #7d1818;
+  position: fixed; 
+  top: 0;         
+  left: 0;        
+  z-index: 1000;  
+  display: flex;
+  align-items: center;
+}
+
+.bar-title {
+  color: #fff;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: 2px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.red-bar .icon {
+  position: absolute;
+  right: 32px;
+  top: 50%;
+  transform: translateY(-50%);
+  filter: brightness(0) invert(1);
+  cursor: pointer;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1001;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 90%;
+  position: relative;
+}
+
+.modal-close-btn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 2em;
+  cursor: pointer;
+  color: #555;
+}
+
+.modal-content h2 {
+  margin-top: 0;
+  color: #7d1818;
+}
+
+.modal-content ul {
+  padding-left: 20px;
+}
+
+.modal-content li {
+  margin-bottom: 10px;
+}
+
+.dots {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+
+}
+
+.dots span {
+  width: 8px;
+  height: 8px;
+  background-color: #ffffff; 
+  border-radius: 50%;
+  display: inline-block;
+  animation: bounce 1.4s infinite ease-in-out;
+}
+
+.dots span:nth-child(1) {
+  animation-delay: 0s;
+}
+.dots span:nth-child(2) {
+  animation-delay: 0.2s;
+}
+.dots span:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: scale(0.6);
+    opacity: 0.5;
+  }
+  40% {
+    transform: scale(1);
+    opacity: 1;
+  }
 }
