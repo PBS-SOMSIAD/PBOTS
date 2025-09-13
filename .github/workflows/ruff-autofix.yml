@@ -1,0 +1,45 @@
+name: ruff-autofix
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * 1'   # poniedziałek 05:00 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: ruff-autofix-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  ruff-autofix:
+    runs-on: ubuntu-24.04
+    if: ${{ !startsWith(github.ref_name, 'chore/ruff-autofix-') }}
+    steps:
+      - name: Checkout current branch
+        uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Ruff format
+        uses: astral-sh/ruff-action@v1
+        with:
+          args: format .
+
+      - name: Ruff check --fix
+        uses: astral-sh/ruff-action@v1
+        with:
+          args: check --fix .
+        continue-on-error: true
+
+      - name: Create PR with fixes
+        uses: peter-evans/create-pull-request@v6
+        with:
+          base: ${{ github.ref_name }}
+          branch: chore/ruff-autofix-${{ github.ref_name }}-${{ github.run_id }}
+          title: "Ruff autofix (${{ github.ref_name }})"
+          commit-message: "style: ruff auto-fix"
+          labels: lint, automated
+          delete-branch: true
