@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   ruff-autofix:
-    runs-on: ubuntu-24.04
+    runs-on: self-hosted
     if: ${{ !startsWith(github.ref_name, 'chore/ruff-autofix-') }}
     steps:
       - name: Checkout current branch
