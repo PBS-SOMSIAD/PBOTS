@@ -10,6 +10,14 @@ const saira = Saira({
 export const metadata = {
   title: "PBOTS",
   description: "Asystent PBOTS",
+  icons: {
+    icon: [
+      { 
+        url: '/assets/favicon.png',
+        href: '/assets/favicon.png', 
+      },
+    ]
+  },
 };
 
 export default function RootLayout({ children }) {

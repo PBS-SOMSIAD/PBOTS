@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
+.message-content a {
+  color: #60bcc8; 
+  text-decoration: none; 
+}
+
+.message-content a:hover {
+  text-decoration: underline; 
+}
+
 body {
   background-color: #f0f0f2;
   color: #1d1d1d;
