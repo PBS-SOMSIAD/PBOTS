@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import ChatMessage from './ChatMessage';
 
-const ChatContainer = ({ messages, isLoading}) => {
+const ChatContainer = ({ messages, isLoading, isThinking }) => {
   const messagesEndRef = useRef(null);
 
   const scrollToBottom = () => {
@@ -25,11 +25,11 @@ const ChatContainer = ({ messages, isLoading}) => {
             isLoading={false}
           />
         ))}
-        {isLoading && (
+        {isThinking && ( // Użyj isThinking zamiast isLoading
           <ChatMessage
             message=""
             isUser={false}
-            isLoading={true}
+            isLoading={true} // To kontroluje wyświetlanie animowanych kropek
           />
         )}
         <div ref={messagesEndRef} />
