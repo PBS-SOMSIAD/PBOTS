@@ -5,6 +5,7 @@ import ChatContainer from './components/ChatContainer';
 import ChatForm from './components/ChatForm';
 import Image from 'next/image';
 import InfoModal from './components/InfoModal'; 
+import WarningPopup from './components/WarningPopup';
 
 export default function Home() {
   const [chatStarted, setChatStarted] = useState(false);
@@ -189,6 +190,7 @@ export default function Home() {
       )}
 
       {isModalOpen && <InfoModal onClose={() => setIsModalOpen(false)} />}
+      <WarningPopup />
     </div>
   );
 }
