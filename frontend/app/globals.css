@@ -453,21 +453,21 @@ button:disabled {
 /* Warning Popup Styles */
 .warning-popup {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  top: 90px; /* 80px (wysokość red-bar) + 10px odstępu */
+  left: 20px; /* Zmiana z right na left */
   background: linear-gradient(135deg, #fff9e6 0%, #ffe4b3 100%);
   border: 3px solid #f39c12;
   border-radius: 12px;
   padding: 16px 20px;
   max-width: 320px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-  z-index: 1002;
-  animation: slideInUp 0.5s ease-out;
+  z-index: 999; /* Zmniejszone z 1002 na 999, żeby było pod red-bar (1000) */
+  animation: slideInDown 0.5s ease-out; /* Zmiana animacji */
 }
 
-@keyframes slideInUp {
+@keyframes slideInDown {
   from {
-    transform: translateY(100px);
+    transform: translateY(-100px);
     opacity: 0;
   }
   to {
@@ -518,14 +518,16 @@ button:disabled {
   color: #7d5f1a;
 }
 
-/* Responsive styles for mobile */
+/* Responsive styles for mobile - pozostaje na dole */
 @media (max-width: 600px) {
   .warning-popup {
     bottom: 10px;
+    top: auto; /* Reset top dla mobile */
     right: 10px;
     left: 10px;
     max-width: none;
     padding: 14px 16px;
+    animation: slideInUp 0.5s ease-out; /* Powrót do animacji od dołu na mobile */
   }
 
   .warning-popup-icon {
@@ -546,6 +548,15 @@ button:disabled {
     top: 6px;
     right: 10px;
     font-size: 22px;
+  }
+}
+
+/* Tablet view */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .warning-popup {
+    max-width: 300px;
+    top: 75px; /* 60px (wysokość red-bar na tablet) + 15px odstępu */
+    left: 15px;
   }
 }
 
