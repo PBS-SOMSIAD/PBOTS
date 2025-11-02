@@ -22,7 +22,7 @@ const WarningPopup = () => {
         <h3>Ważne!</h3>
         <p>
           PBotŚ może czasami generować niedokładne lub niepełne informacje.
-          Zalecamy weryfikację podanych danych z źródłami oficjalnymi Politechniki Bydgoskiej.
+          Zalecamy weryfikację podanych danych z oficjalnymi źródłami Politechniki Bydgoskiej.
         </p>
       </div>
     </div>
