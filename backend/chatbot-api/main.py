@@ -16,7 +16,6 @@ from pydantic_ai.models.openai import OpenAIModel
 from pydantic_ai.providers.openai import OpenAIProvider
 from qdrant_client import QdrantClient
 
-from web_search import WebSearchTool
 
 QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/v1")
@@ -24,10 +23,6 @@ MODEL_NAME = "gpt-oss:20b"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "baza"
 
-
-class WebSearchResult(BaseModel):
-    url: str
-    content: str
 
 
 @dataclass
@@ -82,7 +77,6 @@ class PbsKnowledgeBase:
     def __init__(self):
         self.qdrant_service = QdrantService()
         self.agent_factory = AgentFactory()
-        self.web_tool = WebSearchTool()
         self.main_agent, self.intents_agent = self.agent_factory.create_agents()
         self._register_tools()
 
