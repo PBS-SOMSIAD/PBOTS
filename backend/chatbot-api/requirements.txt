@@ -1,11 +1,9 @@
-beautifulsoup4==4.13.5
 fastapi==0.116.1
-googlesearch_python==1.3.0
 httpx==0.28.1
 logfire==4.6.0
 pydantic==2.11.7
 pydantic_ai==1.0.3
-pytest==8.4.1
-pytest==8.4.2
+pytest
 qdrant_client==1.15.1
 uvicorn==0.35.0
+fastembed
