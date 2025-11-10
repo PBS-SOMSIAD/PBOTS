@@ -1,13 +1,15 @@
+# Plik docker-compose: definiuje usługi, sieci i wolumeny dla projektu PBOTS
+# Użyj polecenia 'docker compose up --build' aby uruchomić cały stack
 services:
   backend:
     build:
       context: ./backend/chatbot-api
       dockerfile: Dockerfile
-    network_mode: "host"
+    container_name: pbots-backend
     environment:
-      - QDRANT_URL=http://localhost:6333
-      - OLLAMA_URL=$OLLAMA_URL
-      - LOGFIRE_TOKEN=$LOGFIRE_TOKEN
+      - QDRANT_URL=http://qdrant-api:6333
+      - OLLAMA_URL=${OLLAMA_URL}
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
     depends_on:
       - qdrant
     volumes:
@@ -15,12 +17,13 @@ services:
     restart: unless-stopped
 
   qdrant-api:
+    # API do komunikacji z silnikiem wektorowym Qdrant
     build:
       context: ./backend/qdrant-api
       dockerfile: Dockerfile
-    network_mode: "host"
+    container_name: qdrant-api
     environment:
-      - QDRANT_URL=http://localhost:6333
+      - QDRANT_URL=http://qdrant:6333
     depends_on:
       - qdrant
     volumes:
@@ -28,40 +31,62 @@ services:
     restart: unless-stopped
 
   frontend:
+    # Frontend aplikacji PBOTS (Next.js)
     build:
       context: ./frontend
-
-    network_mode: "host"
+    container_name: pbots-frontend
     environment:
-      - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+      - NEXT_PUBLIC_BACKEND_URL=http://backend:8000
+      - NEXT_PUBLIC_OLLAMA_URL=${OLLAMA_URL}
     depends_on:
       - backend
     volumes:
       - ./frontend:/app
       - /app/node_modules
       - /app/.next
+    ports:
+      - "3000:3000"
     restart: unless-stopped
 
-  mongodb:
-        image: mongo:7
-        container_name: mongodb
-        restart: always
-        environment:
-          - MONGO_INITDB_ROOT_USERNAME=root
-          - MONGO_INITDB_ROOT_PASSWORD=example
-          - MONGO_INITDB_DATABASE=chatbot
-        ports:
-          - "27017:27017"
-        volumes:
-          - mongodb_data:/data/db
+  mongo:
+    # Baza danych MongoDB do przechowywania danych czatu
+    image: mongo:7
+    container_name: mongo-json-database
+    restart: always
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=${MONGO_ROOT_USERNAME}
+      - MONGO_INITDB_ROOT_PASSWORD=${MONGO_ROOT_PASSWORD}
+      - MONGO_INITDB_DATABASE=chatbot
+    volumes:
+      - mongo_data:/data/db
+
+  mongo-express:
+    # Panel administracyjny Mongo Express do zarządzania bazą MongoDB
+    image: mongo-express:latest
+    restart: always
+    ports:
+      - "8081:8081"
+    container_name: mongo-express
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=${MONGO_ROOT_USERNAME}
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=${MONGO_ROOT_PASSWORD}
+      - ME_CONFIG_BASICAUTH_USERNAME=${MONGO_EXPRESS_USERNAME}
+      - ME_CONFIG_BASICAUTH_PASSWORD=${MONGO_EXPRESS_PASSWORD}
+      - ME_CONFIG_MONGODB_SERVER=mongo
+    depends_on:
+      - mongo
 
   qdrant:
+    # Silnik wektorowy Qdrant do przechowywania embeddingów i wyszukiwania semantycznego
     image: qdrant/qdrant:latest
-    network_mode: "host"
     volumes:
       - qdrant_data:/qdrant/storage
     restart: unless-stopped
+    ports:
+      - "6333:6333"
 
 volumes:
+  # Wolumen do trwałego przechowywania danych MongoDB
   qdrant_data:
-  mongodb_data:
+  # Wolumen do trwałego przechowywania danych Qdrant
+  mongo_data:
