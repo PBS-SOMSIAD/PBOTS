@@ -6,46 +6,19 @@ services:
       context: ./backend/chatbot-api
       dockerfile: Dockerfile
     container_name: pbots-backend
+    extra_hosts:
+      - "host.docker.internal:172.17.0.1"
     environment:
-      - QDRANT_URL=http://qdrant-api:6333
+      - QDRANT_URL=http://qdrant:6333 
       - OLLAMA_URL=${OLLAMA_URL}
       - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - MODEL_NAME=${MODEL_NAME}
+      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+      - COLLECTION_NAME=documents
     depends_on:
       - qdrant
     volumes:
       - ./backend/chatbot-api:/app
-    restart: unless-stopped
-
-  qdrant-api:
-    # API do komunikacji z silnikiem wektorowym Qdrant
-    build:
-      context: ./backend/qdrant-api
-      dockerfile: Dockerfile
-    container_name: qdrant-api
-    environment:
-      - QDRANT_URL=http://qdrant:6333
-    depends_on:
-      - qdrant
-    volumes:
-      - ./backend/qdrant-api:/app
-    restart: unless-stopped
-
-  frontend:
-    # Frontend aplikacji PBOTS (Next.js)
-    build:
-      context: ./frontend
-    container_name: pbots-frontend
-    environment:
-      - NEXT_PUBLIC_BACKEND_URL=http://backend:8000
-      - NEXT_PUBLIC_OLLAMA_URL=${OLLAMA_URL}
-    depends_on:
-      - backend
-    volumes:
-      - ./frontend:/app
-      - /app/node_modules
-      - /app/.next
-    ports:
-      - "3000:3000"
     restart: unless-stopped
 
   mongo:
@@ -90,3 +63,5 @@ volumes:
   qdrant_data:
   # Wolumen do trwałego przechowywania danych Qdrant
   mongo_data:
+  # Wolumen do przechowywania uploadowanych plików
+  qdrant_uploads:
