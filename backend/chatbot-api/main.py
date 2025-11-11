@@ -19,6 +19,13 @@ from qdrant_client import QdrantClient
 
 OLLAMA_URL = os.getenv("OLLAMA_URL")
 MODEL_NAME = os.getenv("MODEL_NAME")
+if not OLLAMA_URL or not MODEL_NAME:
+    raise RuntimeError(
+        "Required environment variables missing: "
+        f"{'OLLAMA_URL ' if not OLLAMA_URL else ''}"
+        f"{'MODEL_NAME' if not MODEL_NAME else ''}. "
+        "Please set them before starting the application."
+    )
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "documents")
 QDRANT_URL = os.getenv("QDRANT_URL", "http://qdrant:6333")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
