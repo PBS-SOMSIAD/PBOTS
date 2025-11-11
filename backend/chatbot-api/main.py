@@ -20,7 +20,7 @@ from qdrant_client import QdrantClient
 OLLAMA_URL = os.getenv("OLLAMA_URL")
 MODEL_NAME = os.getenv("MODEL_NAME")
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "documents")
-QDRANT_URL = os.getenv("QDRANT_URL", "http://qdrant-api:6333")
+QDRANT_URL = os.getenv("QDRANT_URL", "http://qdrant:6333")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 
 
