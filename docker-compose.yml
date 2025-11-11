@@ -64,4 +64,3 @@ volumes:
   # Wolumen do trwałego przechowywania danych Qdrant
   mongo_data:
   # Wolumen do przechowywania uploadowanych plików
-  qdrant_uploads:
