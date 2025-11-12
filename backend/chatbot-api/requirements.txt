@@ -6,6 +6,5 @@ logfire==4.6.0
 pydantic==2.11.7
 pydantic_ai==1.0.3
 pytest==8.4.1
-pytest==8.4.2
 qdrant_client==1.15.1
 uvicorn==0.35.0
