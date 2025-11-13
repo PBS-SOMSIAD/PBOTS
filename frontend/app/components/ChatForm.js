@@ -7,13 +7,11 @@ const ChatForm = ({ onSubmit, isLoading, onStop }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (isLoading) {
-      // Jeśli ładuje, wywołaj funkcję stop
       onStop();
       return;
     }
 
     if (isLoading) {
-      // Jeśli ładuje, wywołaj funkcję stop
       onStop();
       return;
     }

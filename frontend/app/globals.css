@@ -1,3 +1,7 @@
+/* ========================================
+   OGÓLNE STYLE (wszystkie urządzenia)
+   ======================================== */
+
 * {
   box-sizing: border-box;
 }
@@ -12,6 +16,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  font-size: 16px;
 }
 
 .page {
@@ -19,10 +24,10 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  min-height: 100vh;
   padding: 0;
-  padding-top: 80px; 
+  padding-top: 80px;
   box-sizing: border-box;
 }
 
@@ -30,7 +35,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100%; 
+  height: 100%;
   align-items: center;
   padding: 15px 0 5px;
   box-sizing: border-box;
@@ -47,11 +52,11 @@ header {
 
 header h1 {
   margin: 0;
-  font-size: 5em; 
+  font-size: 5em;
 }
 
 .prompt-text {
-  font-size: 2em; 
+  font-size: 2em;
   color: #333;
   margin-bottom: 10px;
   text-align: center;
@@ -77,7 +82,7 @@ header h1 {
   flex-direction: column;
 }
 
-.message-content{
+.message-content {
   padding-left: 10px;
   padding-right: 10px;
   color: whitesmoke;
@@ -93,7 +98,7 @@ header h1 {
 
 .message {
   min-width: 120px;
-  max-width: 75%; 
+  max-width: 75%;
   padding: 10px 15px;
   border-radius: 18px;
   position: relative;
@@ -103,8 +108,8 @@ header h1 {
   font-weight: bold;
   margin-bottom: 5px;
   display: block;
-  text-align: left;    
-  padding-left: 10px;   
+  text-align: left;
+  padding-left: 10px;
 }
 
 .message.user .tag {
@@ -117,21 +122,21 @@ header h1 {
 
 .message.user {
   background-color: #830e21;
-  align-self: flex-end; 
-  margin-left: 120px; 
+  align-self: flex-end;
+  margin-left: 120px;
 }
 
 .message.api {
   background-color: #1d1d1d;
   align-self: flex-start;
-  margin-right: 120px;  
+  margin-right: 120px;
 }
 
 .message-row {
   display: flex;
   width: 100%;
   margin-bottom: 15px;
-  align-items: flex-end; 
+  align-items: flex-end;
 }
 
 .message-row.user {
@@ -143,16 +148,16 @@ header h1 {
 }
 
 .message-row.api .message-avatar {
-  margin-right: 10px;
+  margin-right: 5px;
 }
 
 .message-row.user .message-avatar {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .message-avatar {
   position: relative;
-  top: 7px; 
+  top: 7px;
 }
 
 .message-row.api .message-avatar img {
@@ -169,10 +174,6 @@ header h1 {
   object-fit: cover;
 }
 
-.message-avatar {
-  margin-right: 10px;
-}
-
 .chat-view > #chat-form {
   width: 80%;
   max-width: 1000px;
@@ -182,7 +183,7 @@ header h1 {
 
 #chat-form {
   display: flex;
-  padding: 5px 5px 15px; 
+  padding: 5px 5px 15px;
   width: 80%;
   max-width: 1000px;
   margin-top: 0;
@@ -190,24 +191,21 @@ header h1 {
 
 #question {
   flex: 1;
-  padding: 20px;
-  border: 7px solid #830e21;   
-  border-radius: 20px;          
+  padding: 15px;
+  border: 5px solid #830e21;
+  border-radius: 15px;
   margin-right: 10px;
   background-color: white;
   color: black;
-  font-size: 18px;
-  outline: none;               
+  font-size: 16px;
+  outline: none;
   transition: border-color 0.2s;
 }
 
-
-
 #question::placeholder {
-  color: black; 
-  opacity: 1; 
-  font-size: 18px;
-
+  color: black;
+  opacity: 1;
+  font-size: 16px;
 }
 
 button {
@@ -231,10 +229,10 @@ button:disabled {
   width: 100%;
   height: 80px;
   background-color: #7d1818;
-  position: fixed; 
-  top: 0;         
-  left: 0;        
-  z-index: 1000;  
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
   display: flex;
   align-items: center;
 }
@@ -273,7 +271,7 @@ button:disabled {
 
 .modal-content {
   background-color: #fff;
-  padding: 30px;
+  padding: 20px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
   max-width: 500px;
@@ -311,13 +309,12 @@ button:disabled {
   gap: 4px;
   padding-bottom: 10px;
   padding-top: 5px;
-
 }
 
 .dots span {
   width: 8px;
   height: 8px;
-  background-color: #ffffff; 
+  background-color: #ffffff;
   border-radius: 50%;
   display: inline-block;
   animation: bounce 1.4s infinite ease-in-out;
@@ -337,9 +334,228 @@ button:disabled {
   0%, 80%, 100% {
     transform: scale(0.6);
     opacity: 0.5;
+    opacity: 0.5;
   }
   40% {
     transform: scale(1);
     opacity: 1;
+  }
+}
+
+.warning-popup {
+  position: fixed;
+  top: 90px;
+  left: 20px;
+  background: linear-gradient(135deg, #fff9e6 0%, #ffe4b3 100%);
+  border: 3px solid #f39c12;
+  border-radius: 12px;
+  padding: 16px 20px;
+  max-width: 320px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  z-index: 999;
+  animation: slideInDown 0.5s ease-out;
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.warning-popup-close {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  color: #d68910;
+  cursor: pointer;
+  padding: 0;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s;
+}
+
+.warning-popup-close:hover {
+  color: #c0710d;
+}
+
+.warning-popup-icon {
+  font-size: 28px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.warning-popup-content h3 {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+  color: #d68910;
+  font-weight: 700;
+}
+
+.warning-popup-content p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #7d5f1a;
+}
+
+
+/* ========================================
+   DESKTOP / DUŻE EKRANY (min-width: 1024px)
+   ======================================== */
+
+@media (min-width: 1024px) {
+  header {
+    padding: 30px;
+    gap: 30px;
+  }
+  header h1 {
+    font-size: 6em;
+  }
+
+  .prompt-text {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+}
+
+
+/* ========================================
+   TABLETY (601px - 1024px)
+   ======================================== */
+
+@media (min-width: 601px) and (max-width: 1024px) {
+  .warning-popup {
+    max-width: 300px;
+    top: 75px;
+    left: 15px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+  .warning-popup {
+    max-width: 300px;
+    bottom: 15px;
+    right: 15px;
+  }
+}
+
+
+/* ========================================
+   TELEFONY / MAŁE EKRANY (max-width: 600px)
+   ======================================== */
+
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+
+  .page {
+    padding-top: 60px;
+  }
+
+  .chat-view {
+    padding: 10px 0;
+  }
+
+  header {
+    padding: 10px;
+    gap: 10px;
+  }
+  header h1 {
+    font-size: 4em;
+  }
+
+  .prompt-text {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+  }
+
+  #messages {
+    width: 95%;
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  .message {
+    max-width: 90%;
+  }
+  .message.user {
+    margin-left: 5px;
+  }
+  .message.api {
+    margin-right: 5px;
+  }
+
+  .message-row.api .message-avatar img {
+    width: 40px;
+    height: 40px;
+  }
+  .message-row.user .message-avatar img {
+    width: 30px;
+    height: 30px;
+  }
+
+  #chat-form {
+    width: 95%;
+    max-width: 100%;
+    padding: 5px;
+  }
+  #question {
+    padding: 10px;
+    border-width: 3px;
+    font-size: 14px;
+  }
+
+  .red-bar {
+    height: 60px;
+  }
+  .bar-title {
+    font-size: 1.5em;
+  }
+
+  .modal-content {
+    padding: 15px;
+    width: 95%;
+  }
+
+  .warning-popup {
+    bottom: 10px;
+    top: auto;
+    right: 10px;
+    left: 10px;
+    max-width: none;
+    padding: 14px 16px;
+    animation: slideInUp 0.5s ease-out;
+  }
+
+  .warning-popup-icon {
+    font-size: 24px;
+    margin-bottom: 6px;
+  }
+
+  .warning-popup-content h3 {
+    font-size: 16px;
+    margin-bottom: 6px;
+  }
+
+  .warning-popup-content p {
+    font-size: 13px;
+  }
+
+  .warning-popup-close {
+    top: 6px;
+    right: 10px;
+    font-size: 22px;
   }
 }

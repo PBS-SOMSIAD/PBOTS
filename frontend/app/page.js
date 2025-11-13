@@ -5,48 +5,67 @@ import ChatContainer from './components/ChatContainer';
 import ChatForm from './components/ChatForm';
 import Image from 'next/image';
 import InfoModal from './components/InfoModal'; 
+import WarningPopup from './components/WarningPopup';
 
 export default function Home() {
   const [chatStarted, setChatStarted] = useState(false);
   const [showTitleOnBar, setShowTitleOnBar] = useState(false);
   const [messages, setMessages] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isThinking, setIsThinking] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   // AbortController do przerywania żądań
   const abortControllerRef = useRef(null);
+  // Ref do śledzenia czy już zatrzymaliśmy "myślenie"
+  const hasStoppedThinkingRef = useRef(false);
 
   const handleStop = () => {
     if (abortControllerRef.current) {
       abortControllerRef.current.abort();
       abortControllerRef.current = null;
       setIsLoading(false);
-
+      setIsThinking(false);
+      hasStoppedThinkingRef.current = false;
 
       setMessages((prevMessages) => {
         const updatedMessages = [...prevMessages];
-        if (updatedMessages.length > 0 && !updatedMessages[updatedMessages.length - 1].isUser) {
-          if (updatedMessages[updatedMessages.length - 1].content.trim() === '') {
+        // Sprawdzenie czy ostatnia wiadomość to wiadomość bota
+        const lastMessage = updatedMessages[updatedMessages.length - 1];
+        const hasBotMessage = lastMessage && !lastMessage.isUser;
 
-            updatedMessages[updatedMessages.length - 1].content = '[Odpowiedź przerwana przez użytkownika]';
-          } else {
-            updatedMessages[updatedMessages.length - 1].content += '\n\n[Odpowiedź przerwana przez użytkownika]';
+        if (hasBotMessage) {
+          // Jeśli bot już zaczął pisać, dodajemy info o przerwaniu do jego wiadomości
+          // Oczywiście jeśli jeszcze nie ma tego komunikatu
+          if (!lastMessage.content.includes('[Odpowiedź przerwana przez użytkownika]')) {
+            if (lastMessage.content.trim() === '') {
+              lastMessage.content = '[Odpowiedź przerwana przez użytkownika]';
+            } else {
+              lastMessage.content += '\n\n[Odpowiedź przerwana przez użytkownika]';
+            }
           }
         } else {
-          updatedMessages.push({ content: '[Odpowiedź przerwana przez użytkownika]', isUser: false });
+          updatedMessages.push({
+            // Jeśli bot jeszcze nie zaczął pisać (tylko "myślał"), dodajemy nową wiadomość
+            content: '[Odpowiedź przerwana przez użytkownika]',
+            isUser: false
+          });
         }
+
         return updatedMessages;
       });
     }
   };
 
-  const handleFirstSubmit = async (question) => {
+  const handleSubmit = async (question) => {
     if (!chatStarted) {
       setChatStarted(true);
       setShowTitleOnBar(true);
     }
 
     setIsLoading(true);
+    setIsThinking(true);
+    hasStoppedThinkingRef.current = false;
     const newMessages = [...messages, { content: question, isUser: true }];
     setMessages(newMessages);
 
@@ -57,21 +76,18 @@ export default function Home() {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ question }),
-        signal: abortControllerRef.current.signal //signal do żądania
+        signal: abortControllerRef.current.signal
       });
 
       if (!response.ok || !response.body) {
         throw new Error('Network response was not ok.');
       }
 
+      // Streamowanie odpowiedzi chunk po chunku
+
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
       let apiMessageContent = '';
-
-      setMessages((prevMessages) => [
-        ...prevMessages,
-        { content: '', isUser: false },
-      ]);
 
       while (true) {
         const { value, done } = await reader.read();
@@ -80,25 +96,41 @@ export default function Home() {
         const chunk = decoder.decode(value, { stream: true });
         apiMessageContent += chunk;
 
-        setMessages((prevMessages) => {
-          const updatedMessages = [...prevMessages];
-          updatedMessages[updatedMessages.length - 1].content = apiMessageContent;
-          return updatedMessages;
-        });
+        // Gdy mamy pierwszy chunk danych, zatrzymujemy "myślenie" i dodajemy prawdziwą wiadomość
+        if (apiMessageContent.length > 0 && !hasStoppedThinkingRef.current) {
+          setIsThinking(false);
+          hasStoppedThinkingRef.current = true;
+
+          setMessages((prevMessages) => [
+            ...prevMessages,
+            { content: apiMessageContent, isUser: false },
+          ]);
+        } else if (hasStoppedThinkingRef.current) {
+          setMessages((prevMessages) => {
+            const updatedMessages = [...prevMessages];
+            updatedMessages[updatedMessages.length - 1].content = apiMessageContent;
+            return updatedMessages;
+          });
+        }
       }
+      // Gdy użytkownik przerwie wyświetlamy stosowny komunikat
     } catch (error) {
       if (error.name === 'AbortError') {
         console.log('Żądanie zostało przerwane przez użytkownika');
         return;
       }
-
+      // Gdy wystąpi błąd także wyświetlamy komunikat użytkownikowi
       console.error('Error fetching stream:', error);
+
+      setIsThinking(false);
       setMessages((prevMessages) => [
         ...prevMessages,
         { content: 'Przepraszam, wystąpił błąd.', isUser: false },
       ]);
     } finally {
       setIsLoading(false);
+      setIsThinking(false);
+      hasStoppedThinkingRef.current = false;
       abortControllerRef.current = null;
     }
   };
@@ -124,7 +156,7 @@ export default function Home() {
         />
         {showTitleOnBar && <span className="bar-title">PBotŚ</span>}
       </div>
-
+       {/* Widok przed rozpoczęciem czatu */}
       {!chatStarted ? (
         <>
           <header>
@@ -138,16 +170,21 @@ export default function Home() {
           </header>
           <p className="prompt-text">CZEŚĆ, JAK MOGĘ CI POMÓC?</p>
           <ChatForm
-            onSubmit={handleFirstSubmit}
+            onSubmit={handleSubmit}
             isLoading={isLoading}
             onStop={handleStop}
           />
         </>
       ) : (
+          // Widok czatu  po wysłaniu pierwszego pytania
         <div className="chat-view">
-          <ChatContainer messages={messages} isLoading={isLoading} />
+          <ChatContainer
+            messages={messages}
+            isLoading={isLoading}
+            isThinking={isThinking}
+          />
           <ChatForm
-            onSubmit={handleFirstSubmit}
+            onSubmit={handleSubmit}
             isLoading={isLoading}
             onStop={handleStop}
           />
@@ -155,6 +192,7 @@ export default function Home() {
       )}
 
       {isModalOpen && <InfoModal onClose={() => setIsModalOpen(false)} />}
+      <WarningPopup />
     </div>
   );
 }
