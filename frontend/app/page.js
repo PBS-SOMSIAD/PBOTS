@@ -30,11 +30,13 @@ export default function Home() {
 
       setMessages((prevMessages) => {
         const updatedMessages = [...prevMessages];
-
+        // Sprawdzenie czy ostatnia wiadomość to wiadomość bota
         const lastMessage = updatedMessages[updatedMessages.length - 1];
         const hasBotMessage = lastMessage && !lastMessage.isUser;
 
         if (hasBotMessage) {
+          // Jeśli bot już zaczął pisać, dodajemy info o przerwaniu do jego wiadomości
+          // Oczywiście jeśli jeszcze nie ma tego komunikatu
           if (!lastMessage.content.includes('[Odpowiedź przerwana przez użytkownika]')) {
             if (lastMessage.content.trim() === '') {
               lastMessage.content = '[Odpowiedź przerwana przez użytkownika]';
@@ -44,6 +46,7 @@ export default function Home() {
           }
         } else {
           updatedMessages.push({
+            // Jeśli bot jeszcze nie zaczął pisać (tylko "myślał"), dodajemy nową wiadomość
             content: '[Odpowiedź przerwana przez użytkownika]',
             isUser: false
           });
@@ -80,6 +83,8 @@ export default function Home() {
         throw new Error('Network response was not ok.');
       }
 
+      // Streamowanie odpowiedzi chunk po chunku
+
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
       let apiMessageContent = '';
@@ -91,6 +96,7 @@ export default function Home() {
         const chunk = decoder.decode(value, { stream: true });
         apiMessageContent += chunk;
 
+        // Gdy mamy pierwszy chunk danych, zatrzymujemy "myślenie" i dodajemy prawdziwą wiadomość
         if (apiMessageContent.length > 0 && !hasStoppedThinkingRef.current) {
           setIsThinking(false);
           hasStoppedThinkingRef.current = true;
@@ -107,12 +113,13 @@ export default function Home() {
           });
         }
       }
+      // Gdy użytkownik przerwie wyświetlamy stosowny komunikat
     } catch (error) {
       if (error.name === 'AbortError') {
         console.log('Żądanie zostało przerwane przez użytkownika');
         return;
       }
-
+      // Gdy wystąpi błąd także wyświetlamy komunikat użytkownikowi
       console.error('Error fetching stream:', error);
 
       setIsThinking(false);
@@ -149,7 +156,7 @@ export default function Home() {
         />
         {showTitleOnBar && <span className="bar-title">PBotŚ</span>}
       </div>
-
+       {/* Widok przed rozpoczęciem czatu */}
       {!chatStarted ? (
         <>
           <header>
@@ -169,6 +176,7 @@ export default function Home() {
           />
         </>
       ) : (
+          // Widok czatu  po wysłaniu pierwszego pytania
         <div className="chat-view">
           <ChatContainer
             messages={messages}
