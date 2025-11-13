@@ -25,11 +25,11 @@ const ChatContainer = ({ messages, isLoading, isThinking }) => {
             isLoading={false}
           />
         ))}
-        {isThinking && ( // Użyj isThinking zamiast isLoading
+        {isThinking && (
           <ChatMessage
             message=""
             isUser={false}
-            isLoading={true} // To kontroluje wyświetlanie animowanych kropek
+            isLoading={true}
           />
         )}
         <div ref={messagesEndRef} />

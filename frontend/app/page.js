@@ -31,13 +31,10 @@ export default function Home() {
       setMessages((prevMessages) => {
         const updatedMessages = [...prevMessages];
 
-        // Sprawdź czy ostatnia wiadomość to wiadomość bota (nie użytkownika)
         const lastMessage = updatedMessages[updatedMessages.length - 1];
         const hasBotMessage = lastMessage && !lastMessage.isUser;
 
         if (hasBotMessage) {
-          // Jeśli bot już zaczął pisać, dodaj info o przerwaniu do jego wiadomości
-          // TYLKO jeśli jeszcze nie ma tego komunikatu
           if (!lastMessage.content.includes('[Odpowiedź przerwana przez użytkownika]')) {
             if (lastMessage.content.trim() === '') {
               lastMessage.content = '[Odpowiedź przerwana przez użytkownika]';
@@ -46,7 +43,6 @@ export default function Home() {
             }
           }
         } else {
-          // Jeśli bot jeszcze nie zaczął pisać (tylko "myślał"), dodaj nową wiadomość
           updatedMessages.push({
             content: '[Odpowiedź przerwana przez użytkownika]',
             isUser: false
@@ -95,7 +91,6 @@ export default function Home() {
         const chunk = decoder.decode(value, { stream: true });
         apiMessageContent += chunk;
 
-        // Przy pierwszym chunku danych, zatrzymaj "myślenie" i dodaj prawdziwą wiadomość
         if (apiMessageContent.length > 0 && !hasStoppedThinkingRef.current) {
           setIsThinking(false);
           hasStoppedThinkingRef.current = true;
@@ -115,7 +110,6 @@ export default function Home() {
     } catch (error) {
       if (error.name === 'AbortError') {
         console.log('Żądanie zostało przerwane przez użytkownika');
-        // handleStop już dodał komunikat o przerwaniu
         return;
       }
 
